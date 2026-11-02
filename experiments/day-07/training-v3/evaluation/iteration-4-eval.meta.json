@@ -1,0 +1,8 @@
+{
+  "rows": 140,
+  "seconds": 938.366062333007,
+  "max_tokens": 256,
+  "temperature": 0,
+  "source_sha256": "07150a4fafca088003c3de42b1b3b89361bd3f9113e5c676aa4262314654e9fd",
+  "adapter_sha256": "d9f8cc236b0ab95d2faf6238cf9ef402352b8a428449ecf834c1ae9a369a7d81"
+}

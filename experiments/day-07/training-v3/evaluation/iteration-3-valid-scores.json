@@ -1,0 +1,240 @@
+{
+  "n": 137,
+  "exact_correct": 104,
+  "exact_accuracy": 0.7591240875912408,
+  "invalid_responses": 5,
+  "field_correct": {
+    "amount": 117,
+    "category": 114,
+    "clarification_reason": 124,
+    "currency": 119,
+    "date": 112,
+    "payment_method": 127,
+    "status": 116
+  },
+  "false_expenses_on_ignored": 0,
+  "false_expenses_on_missing_context": 0,
+  "contrast_groups": 18,
+  "contrast_groups_all_correct": 7,
+  "slices": {
+    "category:cafes": {
+      "correct": 7,
+      "n": 12
+    },
+    "category:education": {
+      "correct": 8,
+      "n": 9
+    },
+    "category:entertainment": {
+      "correct": 9,
+      "n": 12
+    },
+    "category:groceries": {
+      "correct": 9,
+      "n": 12
+    },
+    "category:health": {
+      "correct": 9,
+      "n": 13
+    },
+    "category:housing": {
+      "correct": 10,
+      "n": 11
+    },
+    "category:other": {
+      "correct": 6,
+      "n": 9
+    },
+    "category:shopping": {
+      "correct": 9,
+      "n": 15
+    },
+    "category:transport": {
+      "correct": 9,
+      "n": 11
+    },
+    "category:utilities": {
+      "correct": 9,
+      "n": 11
+    },
+    "dimension:amount": {
+      "correct": 11,
+      "n": 12
+    },
+    "dimension:context": {
+      "correct": 11,
+      "n": 12
+    },
+    "dimension:currency": {
+      "correct": 11,
+      "n": 12
+    },
+    "dimension:date": {
+      "correct": 7,
+      "n": 12
+    },
+    "dimension:direction": {
+      "correct": 10,
+      "n": 12
+    },
+    "dimension:precision": {
+      "correct": 3,
+      "n": 12
+    },
+    "mobile": {
+      "correct": 10,
+      "n": 15
+    },
+    "status:ignored": {
+      "correct": 12,
+      "n": 12
+    },
+    "status:needs_clarification": {
+      "correct": 18,
+      "n": 25
+    },
+    "status:ok": {
+      "correct": 74,
+      "n": 100
+    }
+  },
+  "outcomes": {
+    "valid-contrast-context-03-2": true,
+    "valid-040": true,
+    "valid-005": false,
+    "valid-055": true,
+    "valid-contrast-amount-06-1": true,
+    "valid-contrast-precision-06-2": false,
+    "valid-022": true,
+    "valid-028": true,
+    "valid-002": true,
+    "valid-060": false,
+    "valid-contrast-amount-06-3": true,
+    "valid-contrast-direction-00-3": true,
+    "valid-contrast-amount-08-3": true,
+    "valid-017": true,
+    "valid-contrast-amount-08-1": false,
+    "valid-contrast-date-09-1": true,
+    "valid-contrast-currency-03-1": true,
+    "valid-contrast-currency-05-1": true,
+    "valid-contrast-amount-06-0": true,
+    "valid-041": true,
+    "valid-contrast-direction-02-3": true,
+    "valid-contrast-date-00-0": true,
+    "valid-038": false,
+    "valid-contrast-precision-05-0": false,
+    "valid-034": true,
+    "valid-014": true,
+    "valid-013": true,
+    "valid-contrast-currency-04-0": true,
+    "valid-032": true,
+    "valid-contrast-context-03-3": true,
+    "valid-contrast-context-02-1": true,
+    "valid-056": true,
+    "valid-054": true,
+    "valid-059": false,
+    "valid-063": true,
+    "valid-contrast-precision-05-2": false,
+    "valid-contrast-precision-07-3": false,
+    "valid-029": true,
+    "valid-009": true,
+    "valid-026": false,
+    "valid-contrast-context-04-2": true,
+    "valid-019": true,
+    "valid-contrast-context-02-3": false,
+    "valid-020": false,
+    "valid-contrast-direction-00-0": false,
+    "valid-contrast-currency-04-3": true,
+    "valid-contrast-precision-06-0": false,
+    "valid-015": true,
+    "valid-042": true,
+    "valid-contrast-date-00-2": false,
+    "valid-027": true,
+    "valid-contrast-currency-04-1": true,
+    "valid-contrast-date-01-3": false,
+    "valid-contrast-context-03-1": true,
+    "valid-contrast-direction-02-2": true,
+    "valid-contrast-direction-00-2": true,
+    "valid-contrast-precision-06-3": false,
+    "valid-053": true,
+    "valid-contrast-date-09-3": true,
+    "valid-057": true,
+    "valid-047": true,
+    "valid-012": true,
+    "valid-contrast-amount-08-0": true,
+    "valid-contrast-precision-05-3": false,
+    "valid-contrast-currency-03-2": true,
+    "valid-contrast-currency-05-0": true,
+    "valid-contrast-precision-07-0": true,
+    "valid-004": true,
+    "valid-043": true,
+    "valid-contrast-amount-07-2": true,
+    "valid-049": true,
+    "valid-contrast-context-03-0": true,
+    "valid-contrast-currency-03-0": true,
+    "valid-contrast-direction-01-1": true,
+    "valid-contrast-currency-03-3": false,
+    "valid-045": true,
+    "valid-contrast-context-04-3": true,
+    "valid-025": true,
+    "valid-062": false,
+    "valid-contrast-date-01-1": true,
+    "valid-021": true,
+    "valid-023": true,
+    "valid-contrast-amount-07-1": true,
+    "valid-008": false,
+    "valid-contrast-precision-07-2": false,
+    "valid-037": true,
+    "valid-contrast-direction-01-3": true,
+    "valid-058": true,
+    "valid-contrast-precision-06-1": true,
+    "valid-024": true,
+    "valid-contrast-amount-07-3": true,
+    "valid-018": true,
+    "valid-contrast-direction-01-0": true,
+    "valid-061": true,
+    "valid-contrast-date-01-2": true,
+    "valid-011": true,
+    "valid-contrast-date-00-1": true,
+    "valid-050": false,
+    "valid-contrast-date-01-0": true,
+    "valid-003": true,
+    "valid-contrast-direction-00-1": true,
+    "valid-contrast-date-09-0": false,
+    "valid-016": true,
+    "valid-contrast-amount-07-0": true,
+    "valid-contrast-date-00-3": false,
+    "valid-contrast-direction-02-0": false,
+    "valid-039": true,
+    "valid-contrast-precision-05-1": false,
+    "valid-007": true,
+    "valid-contrast-currency-05-3": true,
+    "valid-contrast-amount-08-2": true,
+    "valid-contrast-amount-06-2": true,
+    "valid-035": true,
+    "valid-052": true,
+    "valid-contrast-currency-05-2": true,
+    "valid-contrast-context-02-0": true,
+    "valid-048": false,
+    "valid-contrast-context-04-1": true,
+    "valid-contrast-direction-02-1": true,
+    "valid-033": true,
+    "valid-006": false,
+    "valid-010": true,
+    "valid-contrast-context-04-0": true,
+    "valid-contrast-precision-07-1": true,
+    "valid-064": false,
+    "valid-065": false,
+    "valid-contrast-context-02-2": true,
+    "valid-044": true,
+    "valid-046": true,
+    "valid-contrast-direction-01-2": true,
+    "valid-contrast-date-09-2": false,
+    "valid-contrast-currency-04-2": true,
+    "valid-036": true,
+    "valid-001": true,
+    "valid-031": false,
+    "valid-030": true,
+    "valid-051": true
+  }
+}

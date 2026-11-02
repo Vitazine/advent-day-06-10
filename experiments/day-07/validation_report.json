@@ -1,0 +1,163 @@
+{
+  "counts": {
+    "train": 420,
+    "valid": 137,
+    "eval": 140
+  },
+  "distribution": {
+    "train": {
+      "status": {
+        "ok": 276,
+        "needs_clarification": 91,
+        "ignored": 53
+      },
+      "category": {
+        "health": 30,
+        "cafes": 43,
+        "groceries": 43,
+        "shopping": 35,
+        "education": 28,
+        "entertainment": 31,
+        "None": 81,
+        "transport": 38,
+        "other": 31,
+        "utilities": 32,
+        "housing": 28
+      },
+      "currency": {
+        "RUB": 254,
+        "USD": 44,
+        "None": 96,
+        "EUR": 13,
+        "PHP": 13
+      },
+      "payment_method": {
+        "cash": 42,
+        "None": 323,
+        "card": 39,
+        "transfer": 16
+      },
+      "clarification_reason": {
+        "None": 329,
+        "missing_amount": 17,
+        "ambiguous_date": 13,
+        "ambiguous_currency": 14,
+        "missing_context": 14,
+        "multiple_expenses": 14,
+        "ambiguous_amount": 19
+      }
+    },
+    "valid": {
+      "status": {
+        "needs_clarification": 25,
+        "ok": 100,
+        "ignored": 12
+      },
+      "category": {
+        "housing": 11,
+        "other": 9,
+        "cafes": 12,
+        "shopping": 15,
+        "health": 13,
+        "groceries": 12,
+        "utilities": 11,
+        "None": 22,
+        "education": 9,
+        "transport": 11,
+        "entertainment": 12
+      },
+      "currency": {
+        "RUB": 78,
+        "USD": 18,
+        "None": 25,
+        "EUR": 8,
+        "PHP": 8
+      },
+      "payment_method": {
+        "None": 95,
+        "cash": 16,
+        "transfer": 10,
+        "card": 16
+      },
+      "clarification_reason": {
+        "missing_amount": 4,
+        "None": 112,
+        "ambiguous_amount": 5,
+        "multiple_expenses": 5,
+        "missing_context": 5,
+        "ambiguous_currency": 3,
+        "ambiguous_date": 3
+      }
+    },
+    "eval": {
+      "status": {
+        "needs_clarification": 14,
+        "ok": 120,
+        "ignored": 6
+      },
+      "category": {
+        "None": 12,
+        "housing": 9,
+        "groceries": 14,
+        "cafes": 19,
+        "transport": 18,
+        "entertainment": 11,
+        "utilities": 10,
+        "health": 10,
+        "other": 10,
+        "shopping": 16,
+        "education": 11
+      },
+      "currency": {
+        "None": 15,
+        "USD": 25,
+        "RUB": 67,
+        "PHP": 16,
+        "EUR": 17
+      },
+      "payment_method": {
+        "None": 72,
+        "transfer": 21,
+        "card": 25,
+        "cash": 22
+      },
+      "clarification_reason": {
+        "missing_context": 3,
+        "None": 126,
+        "ambiguous_currency": 3,
+        "ambiguous_amount": 2,
+        "missing_amount": 1,
+        "multiple_expenses": 3,
+        "ambiguous_date": 2
+      }
+    }
+  },
+  "normalized_duplicates": 0,
+  "cross_split_shape_duplicates": 0,
+  "near_duplicate_candidates": [],
+  "contrast_groups": 78,
+  "contrast_counts": {
+    "train": 240,
+    "valid": 72,
+    "eval": 0
+  },
+  "frozen_v2_eval_and_prompt": true,
+  "mobile_counts": {
+    "train": 60,
+    "valid": 15,
+    "eval": 40
+  },
+  "tokenizer": {
+    "checked": true,
+    "model": "Qwen3-4B-Instruct-2507-4bit",
+    "train_valid_records": 557,
+    "eval_prompts": 140,
+    "min_tokens": 1217,
+    "max_tokens": 1271,
+    "max_completion_tokens": 63,
+    "max_eval_prompt_tokens": 1215,
+    "recommended_max_seq_length": 2048,
+    "template_sha256": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "tokenizer_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "scores": [
+    {
+      "id": "general-01",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    },
+    {
+      "id": "general-02",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    },
+    {
+      "id": "general-03",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    },
+    {
+      "id": "general-04",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    },
+    {
+      "id": "general-05",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    },
+    {
+      "id": "general-06",
+      "base_pass": true,
+      "tuned_pass": false,
+      "reason": "Требовалось ЯБЛОКО, получено Яблоко."
+    },
+    {
+      "id": "general-07",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    },
+    {
+      "id": "general-08",
+      "base_pass": true,
+      "tuned_pass": true,
+      "reason": "Проверено по фактическому ответу: задание выполнено."
+    }
+  ],
+  "base_pass": 8,
+  "tuned_pass": 7
+}

@@ -1,0 +1,37 @@
+{
+  "data_manifest_sha256": "55458a17d1803945a888b0a426ade040338b3af7e0f53d9b6aa8d01e3a48f492",
+  "script_sha256": "69d0e6dcc91643632fbd312b075b827e22001f541409af1700150cf47148b99c",
+  "device": {
+    "device_name": "Apple M4",
+    "max_recommended_working_set_size": 19069665280,
+    "memory_size": 25769803776,
+    "architecture": "applegpu_g16g",
+    "max_buffer_length": 14302248960,
+    "resource_limit": 499000
+  },
+  "python": "3.12.14",
+  "versions": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.2",
+    "transformers": "5.22.0",
+    "numpy": "2.5.4"
+  },
+  "base_model": "<SOURCE_ROOT>/experiments/day-06/models/Qwen3-4B-Instruct-2507-4bit",
+  "resume": null,
+  "nominal_epochs": 1.0,
+  "train_rows": 2048,
+  "optimizer_updates": 512,
+  "effective_batch": 4,
+  "training_files_sha256": {
+    "train.jsonl": "227b8abb09ae9e4bfd4ba5e282a56716801102c3d6338dc27f80af8912838873",
+    "valid.jsonl": "330b1069fa5e23dbc1719d20f7ec61588561eada6342eb746f4c54002c19fcb6"
+  },
+  "loss_name": "completion_loss: target position < actual sequence length",
+  "source_sha256": {
+    "run.py": "69d0e6dcc91643632fbd312b075b827e22001f541409af1700150cf47148b99c",
+    "common.py": "d92f12f939fcce07ee0ce54286f10bfe03ba97e1d8456b22eba6eee03f488ca7",
+    "loss.py": "0988cca4463433be51386a36847ef5e57a69784c8432c400fbf211effb33dfdd",
+    "prepare.py": "8278f687aec7c1b4d539b76823fb393c6fd2a28e2bb16b47dae02654ee5a90ed",
+    "eval_cases.py": "74e721512c898e3cba608a4accf7b29e0ebe3bd2b14212232a3f62242a4edf49"
+  }
+}

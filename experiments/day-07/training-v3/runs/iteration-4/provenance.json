@@ -1,0 +1,29 @@
+{
+  "manifest_sha256": "b8cbe9edc3add74f94f71c75f602c60312917c277605296ffdb403e669337ad8",
+  "base_weights_sha256": "2a73c6c248601ab904e035548abd8e6abb65ea27dcb5f342fb0a8910eb44173f",
+  "resume": null,
+  "nominal_epochs": 1.0,
+  "optimizer_updates": 105,
+  "device": {
+    "device_name": "Apple M4",
+    "max_recommended_working_set_size": 19069665280,
+    "memory_size": 25769803776,
+    "architecture": "applegpu_g16g",
+    "max_buffer_length": 14302248960,
+    "resource_limit": 499000
+  },
+  "python": "3.12.14",
+  "versions": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.2",
+    "transformers": "5.22.0"
+  },
+  "loss_check": {
+    "target_tokens": 7,
+    "loss": 2.7725887298583984
+  },
+  "training_files_sha256": {
+    "train.jsonl": "107cc497ca989142c5cf550683696a11049f1ffc5fb98fdcc9d977ef9142a9a1",
+    "valid.jsonl": "4ebfa3019a849e62c8a6c0261115fee74d196a5804dc630808432dd57fc1cf81"
+  }
+}

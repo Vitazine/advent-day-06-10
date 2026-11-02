@@ -1,0 +1,82 @@
+{
+  "version": "3",
+  "created_date": "2026-11-01",
+  "model": "Qwen3-4B-Instruct-2507-4bit",
+  "seed": 20261101,
+  "audit_seed": 817,
+  "counts": {
+    "train": 420,
+    "valid": 137,
+    "eval": 140
+  },
+  "train_status": {
+    "ok": 276,
+    "needs_clarification": 91,
+    "ignored": 53
+  },
+  "contrast_counts": {
+    "train": 240,
+    "valid": 72,
+    "eval": 0
+  },
+  "contrast_groups": 78,
+  "frozen_eval_from": "versions/v2",
+  "frozen_prompt_from": "versions/v2/system.txt",
+  "baseline_performed": false,
+  "model_training_performed": false,
+  "regression_tests_passed": 23,
+  "reproducibility": "8 JSONL files reproduced byte-for-byte",
+  "tokenizer_verification": {
+    "checked": true,
+    "model": "Qwen3-4B-Instruct-2507-4bit",
+    "train_valid_records": 557,
+    "eval_prompts": 140,
+    "min_tokens": 1217,
+    "max_tokens": 1271,
+    "max_completion_tokens": 63,
+    "max_eval_prompt_tokens": 1215,
+    "recommended_max_seq_length": 2048,
+    "template_sha256": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "tokenizer_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+  },
+  "source_day6": {
+    "experiments/day-06/final-report.md": "d16738bad558caf7b83374bf3d87df5735544ff4d6ad064608d26a51677ed055",
+    "experiments/day-06/evaluation/final-summary.json": "3d08be4199442e238953d52158e84772cbda366249b6e90488d28ce85dbbd657",
+    "experiments/day-06/progress.md": "cc139a1e60098394516244becd611f2378d79ce7d872a2923c8f1e79c4dc3526",
+    "experiments/day-06/loss.py": "0988cca4463433be51386a36847ef5e57a69784c8432c400fbf211effb33dfdd"
+  },
+  "previous_version": "versions/v2",
+  "limitations": [
+    "Synthetic controlled contrasts do not prove model improvement",
+    "Shared family variants are not statistically independent",
+    "Day6 hyperparameters are not validated for expense extraction",
+    "Long system prompt intentionally preserved; training throughput requires pilot",
+    "No independent human label audit"
+  ],
+  "files": {
+    "DAY6_ANALYSIS.md": "9ff05245d831a913e16b2b39f66c8e0799d7d688c027223f926ab33a7fa2de85",
+    "MOBILE_REVIEW.md": "404c13ac91b2cb166e0e070efd9ed4109549c32e6ebe9fd747a15e97ed5deb2b",
+    "README.md": "35a074b2f8a72ac10661fe2b33753f8ad1fdb760ffa2cf03b75d8d3ed8996179",
+    "audit_review.md": "4ebf3a84a225cff733fae2623273c1f56c634d700847f45ac27c8a97fa6dd2be",
+    "audit_sample.md": "d89520b4472f4cb3d8ca1761169ef83bfbd732814903c45a42b16ecd577f8643",
+    "build_dataset.py": "95c3d86bdc0b07ff5e81f8c59d7892f4c8fc28e195ae6f7674c0d4f7b71599d3",
+    "chat_template.jinja": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "contract.py": "de8bddb2d7dfed8aba876b3c8ac5ade764801e3f4d5d0031247b4e5235a9d954",
+    "contrast_cases.py": "a847810647e0ff9d4c8d719b4f812eea63e78ae136ca5189414c722733e8f5a7",
+    "data/audit_sample.jsonl": "9214104fd7c4f50c1b5a3ebf23a197f9b5378d376a633c65b0478a50042fe51c",
+    "data/eval.jsonl": "f8311d70f03058e6e9b43994c40b50562163660eb84b95b921fa20288451b9b6",
+    "data/eval_provenance.jsonl": "07150a4fafca088003c3de42b1b3b89361bd3f9113e5c676aa4262314654e9fd",
+    "data/mobile_eval.jsonl": "ceb3bcfae4e4fdd29aa3d388a6abcdebef67e7058c64a09dc97285bbce824275",
+    "data/train.jsonl": "107cc497ca989142c5cf550683696a11049f1ffc5fb98fdcc9d977ef9142a9a1",
+    "data/train_provenance.jsonl": "de5569f37a09ad222c83ca68deffe88947eeaa57be8fc58692543d0b4d765659",
+    "data/valid.jsonl": "4ebfa3019a849e62c8a6c0261115fee74d196a5804dc630808432dd57fc1cf81",
+    "data/valid_provenance.jsonl": "9c8af4090993253f052796de7c67c7604a63373c6808444630d3c1d9ace1a0b5",
+    "mobile_cases.py": "e1c2fdeadfc677b47228ad38f6a6d0b9b4bb4ab229ef2de298e1a5e7cd92164a",
+    "score_candidates.py": "e6a028659bf4e6f882fe162d3027f63ea1d39bbb5a64664f123f6abae15c61c2",
+    "system.txt": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+    "test_dataset.py": "58255e1ce92b4f8cd1e45a888242454112432e4e7a0251150b77fda55538f5c4",
+    "test_scoring.py": "3d4fd48e99815d7c396d7e3f9864fd00e00f0fbd9b7deb8b9c4d22808a909cad",
+    "validation_report.json": "1deac7834f54ce2120b20ada42ba46dfa0fc916722eb32c71cd7ef7bc5741cd5",
+    "verify_dataset.py": "a692ec51e14a1158f63d3161103f8b8d44f420bb85a03a9787d65180d6919f1c"
+  }
+}

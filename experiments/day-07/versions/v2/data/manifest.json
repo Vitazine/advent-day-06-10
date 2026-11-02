@@ -1,0 +1,74 @@
+{
+  "version": "2",
+  "created_date": "2026-11-01",
+  "model": "Qwen3-4B-Instruct-2507-4bit",
+  "input_fields": [
+    "text",
+    "current_date"
+  ],
+  "currency_policy": "Absent -> RUB; unqualified dollar/$ -> USD; explicit unsupported national currencies -> clarification",
+  "seed": 20261101,
+  "audit_seed": 817,
+  "counts": {
+    "train": 360,
+    "valid": 65,
+    "eval": 140
+  },
+  "mobile_counts": {
+    "train": 60,
+    "valid": 15,
+    "eval": 40
+  },
+  "train_status": {
+    "ok": 306,
+    "needs_clarification": 31,
+    "ignored": 23
+  },
+  "baseline_performed": false,
+  "model_training_performed": false,
+  "regression_tests_passed": 15,
+  "reproducibility": "All 8 JSONL artifacts reproduced byte-for-byte",
+  "tokenizer_verification": {
+    "checked": true,
+    "model": "Qwen3-4B-Instruct-2507-4bit",
+    "train_valid_records": 425,
+    "eval_prompts": 140,
+    "min_tokens": 1217,
+    "max_tokens": 1272,
+    "max_completion_tokens": 63,
+    "max_eval_prompt_tokens": 1215,
+    "recommended_max_seq_length": 2048,
+    "template_sha256": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "tokenizer_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+  },
+  "audit": "agent review, no independent human review",
+  "previous_version": "versions/v1",
+  "limitations": [
+    "Synthetic template-heavy corpus; actual model quality not measured",
+    "Mobile integration and on-device performance untested",
+    "Response validator checks structure, not fidelity to user text",
+    "One shared-boilerplate near-duplicate candidate retained after review"
+  ],
+  "files": {
+    "MOBILE_REVIEW.md": "404c13ac91b2cb166e0e070efd9ed4109549c32e6ebe9fd747a15e97ed5deb2b",
+    "README.md": "2414e28cf4728dd688108a22da907fd756002f24d0953db1b50ae777e574a3aa",
+    "audit_review.md": "d93d5a5aee14e8b420c4d56f794ad6398f750b588cc9c10462280c99e95cfb2e",
+    "audit_sample.md": "e2ac396460f470c940c7cf8c4833f7ffcf2944a1ea6fbe2848b6aa40bc4341cc",
+    "build_dataset.py": "5ea0b09cd00f9a0c63332b17389bb1b456cf87a841b7d97751c709cd3ff22644",
+    "chat_template.jinja": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "contract.py": "de8bddb2d7dfed8aba876b3c8ac5ade764801e3f4d5d0031247b4e5235a9d954",
+    "data/audit_sample.jsonl": "7c3f03e1c28d101f7b978c382351b716a622c954354b86b5cfe26bc4799bf0ad",
+    "data/eval.jsonl": "f8311d70f03058e6e9b43994c40b50562163660eb84b95b921fa20288451b9b6",
+    "data/eval_provenance.jsonl": "07150a4fafca088003c3de42b1b3b89361bd3f9113e5c676aa4262314654e9fd",
+    "data/mobile_eval.jsonl": "ceb3bcfae4e4fdd29aa3d388a6abcdebef67e7058c64a09dc97285bbce824275",
+    "data/train.jsonl": "6398bc40c604406da0eb4bdae0a5096c6a30c2d17fd7a243c2bdf4b63b50fb01",
+    "data/train_provenance.jsonl": "27f840023d3334f7b6ae71e8d8924643a48c7994a745deac04c5827a1fd47fac",
+    "data/valid.jsonl": "4e3dae31a560e94e4ef413cca4a6c8979f7004540daadbc729d4024a9561e82f",
+    "data/valid_provenance.jsonl": "1b27dcec601e866807efb7c61bb60f0a3468c7f3093406aa59c4caaef3f21161",
+    "mobile_cases.py": "e1c2fdeadfc677b47228ad38f6a6d0b9b4bb4ab229ef2de298e1a5e7cd92164a",
+    "system.txt": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+    "test_dataset.py": "3d63c127e7167389c7cf68ac66c6519afc82e9066e3d62a8b19cd784df311d70",
+    "validation_report.json": "201cd52a03b62efd2051d92d54ade0d312a809b9a1be1b6fe5ae852ee26c5201",
+    "verify_dataset.py": "015b4fb9db46894a3b2dbe76f7e67028b6f4ff14494ef2b5c9aefa4c926a3cb6"
+  }
+}

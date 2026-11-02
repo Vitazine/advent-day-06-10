@@ -1,0 +1,64 @@
+{
+  "selected": "iteration-2",
+  "primary": {
+    "n": 40,
+    "base_pass": 26,
+    "tuned_pass": 33,
+    "improved": 11,
+    "regressed": 4,
+    "unchanged_binary": 25,
+    "net_percentage_points": 17.5,
+    "paired_bootstrap_95_percentile_pp": [
+      0.0,
+      35.0
+    ],
+    "limitations": "CI reflects sampling variation conditional on these subjective labels; not annotator bias or distribution shift."
+  },
+  "independent_blind": {
+    "n": 40,
+    "base_pass": 24,
+    "tuned_pass": 34,
+    "improved": 14,
+    "regressed": 4,
+    "unchanged_binary": 22,
+    "net_percentage_points": 25.0,
+    "paired_bootstrap_95_percentile_pp": [
+      5.0,
+      45.0
+    ],
+    "limitations": "CI reflects sampling variation conditional on these subjective labels; not annotator bias or distribution shift."
+  },
+  "mandatory_first20": {
+    "n": 20,
+    "base_pass": 14,
+    "tuned_pass": 16,
+    "improved": 5,
+    "regressed": 3,
+    "unchanged_binary": 12,
+    "net_percentage_points": 10.0,
+    "paired_bootstrap_95_percentile_pp": [
+      -15.0,
+      35.0
+    ],
+    "limitations": "CI reflects sampling variation conditional on these subjective labels; not annotator bias or distribution shift."
+  },
+  "general": {
+    "base_pass": 8,
+    "tuned_pass": 7,
+    "n": 8,
+    "regression": "general-06: Яблоко instead of requested ЯБЛОКО"
+  },
+  "neutral": {
+    "base_semantic_pass": 4,
+    "tuned_semantic_pass": 6,
+    "base_exact": 0,
+    "tuned_exact": 6,
+    "n": 6
+  },
+  "annotation_disagreements": [
+    "base final-26: кандидат status",
+    "base final-32: пищит vs sound",
+    "tuned final-28: implicit sarcasm"
+  ],
+  "interpretation": "Positive observed effect under both AI assessments on fixed40 synthetic cases. Primary bootstrap CI touches0; no claim of broad statistical significance or human validation."
+}

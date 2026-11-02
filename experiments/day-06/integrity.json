@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "runs": [
+    {
+      "name": "iteration-1",
+      "tensor_count": 64,
+      "all_finite": true,
+      "steps": 2048
+    },
+    {
+      "name": "iteration-2",
+      "tensor_count": 64,
+      "all_finite": true,
+      "steps": 2048
+    },
+    {
+      "name": "iteration-3",
+      "tensor_count": 224,
+      "all_finite": true,
+      "steps": 2048
+    },
+    {
+      "name": "iteration-4",
+      "tensor_count": 64,
+      "all_finite": true,
+      "steps": 2048
+    }
+  ],
+  "identical_training_data": true,
+  "model_hashes_unchanged": true,
+  "generation_counts": {
+    "dev": 120,
+    "final": 80,
+    "general": 16
+  },
+  "selected": "iteration-2",
+  "limits": "Does not independently establish semantic correctness, absence of semantic duplicates, or unbiased annotation."
+}

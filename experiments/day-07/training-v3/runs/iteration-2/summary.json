@@ -1,0 +1,9 @@
+{
+  "seconds": 6264.508653709003,
+  "peak_memory_gb": 6.662291516,
+  "steps": 420,
+  "optimizer_updates": 105,
+  "adapter_sha256": "2e2f02a3b76dc8bcb456c74dd0e1ca3b64ebdb6b11907638406ebc77797e5276",
+  "tensor_count": 64,
+  "all_finite": true
+}

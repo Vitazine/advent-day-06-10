@@ -1,0 +1,240 @@
+{
+  "n": 137,
+  "exact_correct": 0,
+  "exact_accuracy": 0.0,
+  "invalid_responses": 137,
+  "field_correct": {
+    "amount": 0,
+    "category": 0,
+    "clarification_reason": 0,
+    "currency": 0,
+    "date": 0,
+    "payment_method": 0,
+    "status": 0
+  },
+  "false_expenses_on_ignored": 0,
+  "false_expenses_on_missing_context": 0,
+  "contrast_groups": 18,
+  "contrast_groups_all_correct": 0,
+  "slices": {
+    "category:cafes": {
+      "correct": 0,
+      "n": 12
+    },
+    "category:education": {
+      "correct": 0,
+      "n": 9
+    },
+    "category:entertainment": {
+      "correct": 0,
+      "n": 12
+    },
+    "category:groceries": {
+      "correct": 0,
+      "n": 12
+    },
+    "category:health": {
+      "correct": 0,
+      "n": 13
+    },
+    "category:housing": {
+      "correct": 0,
+      "n": 11
+    },
+    "category:other": {
+      "correct": 0,
+      "n": 9
+    },
+    "category:shopping": {
+      "correct": 0,
+      "n": 15
+    },
+    "category:transport": {
+      "correct": 0,
+      "n": 11
+    },
+    "category:utilities": {
+      "correct": 0,
+      "n": 11
+    },
+    "dimension:amount": {
+      "correct": 0,
+      "n": 12
+    },
+    "dimension:context": {
+      "correct": 0,
+      "n": 12
+    },
+    "dimension:currency": {
+      "correct": 0,
+      "n": 12
+    },
+    "dimension:date": {
+      "correct": 0,
+      "n": 12
+    },
+    "dimension:direction": {
+      "correct": 0,
+      "n": 12
+    },
+    "dimension:precision": {
+      "correct": 0,
+      "n": 12
+    },
+    "mobile": {
+      "correct": 0,
+      "n": 15
+    },
+    "status:ignored": {
+      "correct": 0,
+      "n": 12
+    },
+    "status:needs_clarification": {
+      "correct": 0,
+      "n": 25
+    },
+    "status:ok": {
+      "correct": 0,
+      "n": 100
+    }
+  },
+  "outcomes": {
+    "valid-contrast-context-03-2": false,
+    "valid-040": false,
+    "valid-005": false,
+    "valid-055": false,
+    "valid-contrast-amount-06-1": false,
+    "valid-contrast-precision-06-2": false,
+    "valid-022": false,
+    "valid-028": false,
+    "valid-002": false,
+    "valid-060": false,
+    "valid-contrast-amount-06-3": false,
+    "valid-contrast-direction-00-3": false,
+    "valid-contrast-amount-08-3": false,
+    "valid-017": false,
+    "valid-contrast-amount-08-1": false,
+    "valid-contrast-date-09-1": false,
+    "valid-contrast-currency-03-1": false,
+    "valid-contrast-currency-05-1": false,
+    "valid-contrast-amount-06-0": false,
+    "valid-041": false,
+    "valid-contrast-direction-02-3": false,
+    "valid-contrast-date-00-0": false,
+    "valid-038": false,
+    "valid-contrast-precision-05-0": false,
+    "valid-034": false,
+    "valid-014": false,
+    "valid-013": false,
+    "valid-contrast-currency-04-0": false,
+    "valid-032": false,
+    "valid-contrast-context-03-3": false,
+    "valid-contrast-context-02-1": false,
+    "valid-056": false,
+    "valid-054": false,
+    "valid-059": false,
+    "valid-063": false,
+    "valid-contrast-precision-05-2": false,
+    "valid-contrast-precision-07-3": false,
+    "valid-029": false,
+    "valid-009": false,
+    "valid-026": false,
+    "valid-contrast-context-04-2": false,
+    "valid-019": false,
+    "valid-contrast-context-02-3": false,
+    "valid-020": false,
+    "valid-contrast-direction-00-0": false,
+    "valid-contrast-currency-04-3": false,
+    "valid-contrast-precision-06-0": false,
+    "valid-015": false,
+    "valid-042": false,
+    "valid-contrast-date-00-2": false,
+    "valid-027": false,
+    "valid-contrast-currency-04-1": false,
+    "valid-contrast-date-01-3": false,
+    "valid-contrast-context-03-1": false,
+    "valid-contrast-direction-02-2": false,
+    "valid-contrast-direction-00-2": false,
+    "valid-contrast-precision-06-3": false,
+    "valid-053": false,
+    "valid-contrast-date-09-3": false,
+    "valid-057": false,
+    "valid-047": false,
+    "valid-012": false,
+    "valid-contrast-amount-08-0": false,
+    "valid-contrast-precision-05-3": false,
+    "valid-contrast-currency-03-2": false,
+    "valid-contrast-currency-05-0": false,
+    "valid-contrast-precision-07-0": false,
+    "valid-004": false,
+    "valid-043": false,
+    "valid-contrast-amount-07-2": false,
+    "valid-049": false,
+    "valid-contrast-context-03-0": false,
+    "valid-contrast-currency-03-0": false,
+    "valid-contrast-direction-01-1": false,
+    "valid-contrast-currency-03-3": false,
+    "valid-045": false,
+    "valid-contrast-context-04-3": false,
+    "valid-025": false,
+    "valid-062": false,
+    "valid-contrast-date-01-1": false,
+    "valid-021": false,
+    "valid-023": false,
+    "valid-contrast-amount-07-1": false,
+    "valid-008": false,
+    "valid-contrast-precision-07-2": false,
+    "valid-037": false,
+    "valid-contrast-direction-01-3": false,
+    "valid-058": false,
+    "valid-contrast-precision-06-1": false,
+    "valid-024": false,
+    "valid-contrast-amount-07-3": false,
+    "valid-018": false,
+    "valid-contrast-direction-01-0": false,
+    "valid-061": false,
+    "valid-contrast-date-01-2": false,
+    "valid-011": false,
+    "valid-contrast-date-00-1": false,
+    "valid-050": false,
+    "valid-contrast-date-01-0": false,
+    "valid-003": false,
+    "valid-contrast-direction-00-1": false,
+    "valid-contrast-date-09-0": false,
+    "valid-016": false,
+    "valid-contrast-amount-07-0": false,
+    "valid-contrast-date-00-3": false,
+    "valid-contrast-direction-02-0": false,
+    "valid-039": false,
+    "valid-contrast-precision-05-1": false,
+    "valid-007": false,
+    "valid-contrast-currency-05-3": false,
+    "valid-contrast-amount-08-2": false,
+    "valid-contrast-amount-06-2": false,
+    "valid-035": false,
+    "valid-052": false,
+    "valid-contrast-currency-05-2": false,
+    "valid-contrast-context-02-0": false,
+    "valid-048": false,
+    "valid-contrast-context-04-1": false,
+    "valid-contrast-direction-02-1": false,
+    "valid-033": false,
+    "valid-006": false,
+    "valid-010": false,
+    "valid-contrast-context-04-0": false,
+    "valid-contrast-precision-07-1": false,
+    "valid-064": false,
+    "valid-065": false,
+    "valid-contrast-context-02-2": false,
+    "valid-044": false,
+    "valid-046": false,
+    "valid-contrast-direction-01-2": false,
+    "valid-contrast-date-09-2": false,
+    "valid-contrast-currency-04-2": false,
+    "valid-036": false,
+    "valid-001": false,
+    "valid-031": false,
+    "valid-030": false,
+    "valid-051": false
+  }
+}

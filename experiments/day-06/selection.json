@@ -1,0 +1,15 @@
+{
+  "selected": "iteration-2",
+  "selected_at": "2026-11-01T16:09:01.774414+08:00",
+  "reason": "Highest dev pass (21/24), 2 regressions; tied with iteration3, choose simpler q/v. Seed43 repeat scores19/24, direction positive vsbase15/24 but magnitude varies.",
+  "adapter_sha256": "5e1ec3a47ff2ce8deb1b4d3c70c820089e4794ce045e3ff3c058b94790933007",
+  "final_input_sha256": "94eb43c728991ad02b2a3f64116bb0d7832862557e1a96b5bc2630d1a4d7aa25",
+  "dev_scores_sha256": {
+    "iteration-1": "3088c2b2c1301e64f25add2411e9d137b281938e684a6d06a2c5adc5cd9b0458",
+    "iteration-2": "592931734fa592b3c93b1724f7830ced5d15484c609fd1eb9895da5695a81f0e",
+    "iteration-3": "d328b83865b1f0cdf29635978b63cc03aa1c3bfb3538f77ed65ca37805578b32",
+    "iteration-4": "250bb31ebc0214a8b2c198996e5fe481e0f1d1471eb71ae76fe799d9f2c86a31"
+  },
+  "final_outputs_exist": false,
+  "selection_basis": "dev only; final generation prohibited before this record"
+}
