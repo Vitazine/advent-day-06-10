@@ -1,0 +1,42 @@
+{
+  "checked_prediction_files": 48,
+  "measured_process_seconds_total": 5970.433160374014,
+  "knowledge_confirmed_complete": {
+    "tuned": 13,
+    "base": 0,
+    "prompt": 1,
+    "oracle": 25
+  },
+  "knowledge_denominator": 86,
+  "style_all_criteria": {
+    "base": 3,
+    "prompt": 3,
+    "tuned": 5
+  },
+  "format": {
+    "base": {
+      "schema_valid": 2,
+      "denominator": 17,
+      "exact_content": 1
+    },
+    "prompt": {
+      "schema_valid": 5,
+      "denominator": 17,
+      "exact_content": 0
+    },
+    "tuned": {
+      "schema_valid": 17,
+      "denominator": 17,
+      "exact_content": 4
+    }
+  },
+  "general": {
+    "base": 32,
+    "tuned": 23,
+    "regressions": 10,
+    "content_regressions": 1,
+    "format_regressions": 9,
+    "improvements": 1
+  },
+  "review_limits": "AI judgments only; ambiguous excluded; truncated incomplete; no new tuning after final."
+}

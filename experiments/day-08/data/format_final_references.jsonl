@@ -1,0 +1,17 @@
+{"id":"format_final-f-bb34a4a9f947","fact_ids":["f-bb34a4a9f947"],"target":"{\"answer\":\"Берегонд.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_final-f-62e47682a0b0","fact_ids":["f-62e47682a0b0"],"target":"{\"answer\":\"Десять лет.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_final-f-57f1641244e1","fact_ids":["f-57f1641244e1"],"target":"{\"answer\":\"В Домах исцеления Минас Тирита.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_final-f-db9bf134e2ba","fact_ids":["f-db9bf134e2ba"],"target":"{\"answer\":\"Барлиман Баттербур.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_final-f-7ed1e0096e35","fact_ids":["f-7ed1e0096e35"],"target":"{\"answer\":\"Эовин.\",\"status\":\"known\"}","category":"objects","context_provided":true}
+{"id":"format_final-f-6041ce37a7ed","fact_ids":["f-6041ce37a7ed"],"target":"{\"answer\":\"Серебром и золотом.\",\"status\":\"known\"}","category":"materials","context_provided":true}
+{"id":"format_final-f-13d6909a4ee5","fact_ids":["f-13d6909a4ee5"],"target":"{\"answer\":\"Чёрного.\",\"status\":\"known\"}","category":"materials","context_provided":true}
+{"id":"format_final-f-a30f88457331","fact_ids":["f-a30f88457331"],"target":"{\"answer\":\"1 мая 3020 года Третьей эпохи.\",\"status\":\"known\"}","category":"dates","context_provided":true}
+{"id":"format_final-f-26ef07bd3a5c","fact_ids":["f-26ef07bd3a5c"],"target":"{\"answer\":\"6 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}","category":"dates","context_provided":true}
+{"id":"format_final-f-63067f5f200f","fact_ids":["f-63067f5f200f"],"target":"{\"answer\":\"Бергил — сын Берегонда, живущий в Минас Тирите. Он познакомился с Пиппином во время подготовки города к осаде.\",\"status\":\"known\"}","category":"descriptions","context_provided":true}
+{"id":"format_final-f-50b16d05451b","fact_ids":["f-50b16d05451b"],"target":"{\"answer\":\"Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. У него остановились Фродо и его спутники.\",\"status\":\"known\"}","category":"descriptions","context_provided":true}
+{"id":"format_final-f-a8fcd0035616","fact_ids":["f-a8fcd0035616"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}
+{"id":"format_final-f-1f504abaf980","fact_ids":["f-1f504abaf980"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}
+{"id":"format_final-f-b01248a46627","fact_ids":["f-b01248a46627"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}
+{"id":"format_final-f-326c557d8315","fact_ids":["f-326c557d8315"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}
+{"id":"format_final-f-1d91d348acdb","fact_ids":["f-1d91d348acdb"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}
+{"id":"format_final-f-214e549e2507","fact_ids":["f-214e549e2507"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}

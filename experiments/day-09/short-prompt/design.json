@@ -1,0 +1,27 @@
+{
+  "purpose": "prompt-only quality and training-throughput experiment",
+  "quality_adapter": "Day9 iteration-1",
+  "quality_inputs": "same accepted valid63, final untouched",
+  "pilot_start_adapter": "Day7 iteration-4 (same as long pilot)",
+  "pilot_train_indices_from_long": [
+    290,
+    131,
+    88,
+    41,
+    43,
+    169,
+    199,
+    8,
+    128,
+    136,
+    184,
+    189,
+    317,
+    370,
+    192,
+    255
+  ],
+  "pilot_examples": 16,
+  "pilot_updates": 4,
+  "selection": "Short prompt must not reduce valid exact or introduce new dangerous errors; pilot throughput is preliminary, not a full-trained-quality result."
+}

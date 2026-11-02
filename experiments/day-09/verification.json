@@ -1,0 +1,12 @@
+{
+  "state": "verified",
+  "dataset_manifest_unchanged": true,
+  "original_adapter_unchanged": true,
+  "selected_adapter_matches": true,
+  "paired_inference_configuration_matches": true,
+  "final_rows_each": 79,
+  "day9_tests_passed": 22,
+  "day7_tests_passed": 28,
+  "model_evaluation": "complete",
+  "new_false_expense_ids": []
+}

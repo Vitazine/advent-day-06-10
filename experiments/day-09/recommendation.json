@@ -1,0 +1,7 @@
+{
+  "recommended": "after",
+  "new_final_false_expense_ids": [],
+  "before_final_exact": 54,
+  "after_final_exact": 60,
+  "note": "Single seed. Final gates recommendation, never checkpoint selection or further tuning."
+}

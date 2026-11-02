@@ -1,0 +1,8 @@
+{
+  "loss": {
+    "valid": 1.505429744720459,
+    "train_probe": 0.41819605231285095
+  },
+  "adapter_sha256": "f649772a5847203e70c2eeacb6894cba4c04f8c9c546eaa11a80b7bfb4264828",
+  "note": "Exact saved weights; fixed first16 train rows and full24 valid rows."
+}

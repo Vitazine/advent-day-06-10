@@ -1,0 +1,24 @@
+{"id": "valid-f-30156767bef7-qa", "answer": "В 2999 году Третьей эпохи.", "finish_reason": "stop", "generation_tokens": 16}
+{"id": "valid-f-53e6892aa612-json", "answer": "{\"answer\":\"23 сентября 3018 года Третьей эпохи.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 25}
+{"id": "valid-f-3c9744058c21-qa", "answer": "Торок.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "valid-f-22d4b2b9d820-qa", "answer": "Медью.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "valid-f-9220b4e05fbc-qa", "answer": "Из рога.", "finish_reason": "stop", "generation_tokens": 7}
+{"id": "valid-f-9220b4e05fbc-json", "answer": "{\"answer\":\"Из рога.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 14}
+{"id": "valid-f-dcdd1a27b158-qa", "answer": "Элронд и Элронд.", "finish_reason": "stop", "generation_tokens": 11}
+{"id": "valid-f-30156767bef7-json", "answer": "{\"answer\":\"В 2999 году Третьей эпохи.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 23}
+{"id": "valid-f-432939ed6051-qa", "answer": "Роак — враг, убитый Элрондом.", "finish_reason": "stop", "generation_tokens": 17}
+{"id": "valid-f-432939ed6051-json", "answer": "{\"answer\":\"Роак — враг, убитый Элрондом.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 24}
+{"id": "valid-f-303ab347398b-json", "answer": "{\"answer\":\"Он был изучал язык.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 16}
+{"id": "valid-f-8b7401eb9507-json", "answer": "{\"answer\":\"Фродо и Сэм.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 15}
+{"id": "valid-f-8b7401eb9507-qa", "answer": "Фродо.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "valid-f-22d4b2b9d820-json", "answer": "{\"answer\":\"Медью.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "valid-f-1601c7016252-json", "answer": "{\"answer\":\"Берегонд — волшебный палец, используемый в «Хоббите» для заклинания.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 39}
+{"id": "valid-f-303ab347398b-qa", "answer": "Потому что он был из Народа Валарин.", "finish_reason": "stop", "generation_tokens": 16}
+{"id": "valid-f-3c9744058c21-json", "answer": "{\"answer\":\"Горнгилд.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 15}
+{"id": "valid-f-580e3d1316fc-json", "answer": "{\"answer\":\"Глорфиндель.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 14}
+{"id": "valid-f-4da951aa0fca-json", "answer": "{\"answer\":\"20 лет.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "valid-f-dcdd1a27b158-json", "answer": "{\"answer\":\"Элронд и Элронд.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 18}
+{"id": "valid-f-1601c7016252-qa", "answer": "Берегонд — волшебный магнитный кристалл, используемый в «Властелине колец».", "finish_reason": "stop", "generation_tokens": 35}
+{"id": "valid-f-580e3d1316fc-qa", "answer": "Гэндальф.", "finish_reason": "stop", "generation_tokens": 7}
+{"id": "valid-f-4da951aa0fca-qa", "answer": "23 года.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "valid-f-53e6892aa612-qa", "answer": "В день Перекрёстка, 22 сентября 3018 года Третьей эпохи.", "finish_reason": "stop", "generation_tokens": 28}

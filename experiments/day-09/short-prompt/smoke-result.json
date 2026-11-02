@@ -1,0 +1,27 @@
+{
+  "n": 8,
+  "long_exact": 5,
+  "short_exact": 3,
+  "long_invalid": 0,
+  "short_invalid": 3,
+  "short_rejected": [
+    {
+      "id": "d9-valid-004",
+      "reason": "Cannot guess expense fields",
+      "response": "{\"status\":\"needs_clarification\",\"amount\":null,\"currency\":\"RUB\",\"category\":\"shopping\",\"date\":\"2026-11-02\",\"payment_method\":null,\"clarification_reason\":\"missing_context\"}"
+    },
+    {
+      "id": "d9-valid-019",
+      "reason": "Invalid amount",
+      "response": "{\"status\":\"ok\",\"amount\":\"2000\",\"currency\":\"RUB\",\"category\":\"transport\",\"date\":\"2026-11-02\",\"payment_method\":\"card\",\"clarification_reason\":null}"
+    },
+    {
+      "id": "d9-valid-034",
+      "reason": "Future expense",
+      "response": "{\"status\":\"ok\",\"amount\":\"4500.00\",\"currency\":\"RUB\",\"category\":\"shopping\",\"date\":\"2026-12-31\",\"payment_method\":\"card\",\"clarification_reason\":null}"
+    }
+  ],
+  "short_prompt_sha256": "60c66cdd4121d293c923b8e11e955ab8e0e2c9e4dca84cdb4bc76866538ef129",
+  "same_adapter_sha256": "d1024dda3138962a371a292de46c1e09947d05b8cbcda3a7f4c445fff6dd274c",
+  "conclusion": "Reject drop-in replacement; does not establish quality after training with short prompt. No final data used."
+}

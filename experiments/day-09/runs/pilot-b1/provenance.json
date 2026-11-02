@@ -1,0 +1,48 @@
+{
+  "manifest_sha256": "a28a7a9d236bf33614236528a57b81c603deb791d0223e185fe38f038679320c",
+  "start_adapter_sha256": "d9f8cc236b0ab95d2faf6238cf9ef402352b8a428449ecf834c1ae9a369a7d81",
+  "tokenizer_lengths": {
+    "train": {
+      "count": 396,
+      "min": 1207,
+      "max": 1260,
+      "mean": 1232.0454545454545,
+      "p95": 1250
+    },
+    "valid": {
+      "count": 63,
+      "min": 1209,
+      "max": 1257,
+      "mean": 1228.6984126984128,
+      "p95": 1244
+    },
+    "pilot": {
+      "count": 16,
+      "min": 1251,
+      "max": 1260,
+      "mean": 1254.5625,
+      "p95": 1260
+    }
+  },
+  "loss_check": {
+    "target_tokens": 7,
+    "loss": 2.7725887298583984
+  },
+  "cold_load_seconds": 0.8896900420077145,
+  "optimizer_updates": 4,
+  "examples": 16,
+  "nominal_epochs": 1,
+  "optimizer_state": "fresh",
+  "versions": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.2",
+    "transformers": "5.22.0"
+  },
+  "source_sha256": {
+    "<PROJECT_ROOT>/experiments/day-09/data/train.jsonl": "2d9159b1f467b78e3a7c3fbce472143fdcbca54bdb4584b6b7b30c5a0a33d4e8",
+    "<PROJECT_ROOT>/experiments/day-09/data/valid.jsonl": "fa30e4c6d733d86c8c0e128ca8db37cc38a1bc1f7720ea861bca57d57ecd2d77",
+    "<PROJECT_ROOT>/experiments/day-09/system.txt": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+    "<PROJECT_ROOT>/experiments/day-07/chat_template.jinja": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "<PROJECT_ROOT>/experiments/day-07/training_loss.py": "0988cca4463433be51386a36847ef5e57a69784c8432c400fbf211effb33dfdd"
+  }
+}

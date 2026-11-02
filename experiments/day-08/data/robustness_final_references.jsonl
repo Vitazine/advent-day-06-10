@@ -1,0 +1,16 @@
+{"id":"robustness_final-f-c88e8a23e40f","fact_ids":["f-c88e8a23e40f"],"target":"Нет. Гламдринг достался Гэндальфу, а Торину — Оркрист.","category":"corrections","split_group":"glamdring"}
+{"id":"robustness_final-f-c2714c188e62","fact_ids":["f-c2714c188e62"],"target":"Нет. Андурил перековали в Ривенделле до выхода Братства.","category":"corrections","split_group":"anduril"}
+{"id":"robustness_final-f-a89ff7b05d9b","fact_ids":["f-a89ff7b05d9b"],"target":"Нет. Смауга убил Бард.","category":"corrections","split_group":"bard"}
+{"id":"robustness_final-f-9a8242364b77","fact_ids":["f-9a8242364b77"],"target":"Нет. Глорфиндель посадил Фродо на Асфалота, а к броду Фродо скакал один.","category":"corrections","split_group":"glorfindel"}
+{"id":"robustness_final-f-51a15e81aadb","fact_ids":["f-51a15e81aadb"],"target":"Нет. Грима убил Сарумана в Шире.","category":"corrections","split_group":"saruman"}
+{"id":"robustness_final-f-bd0661b7ddd0","fact_ids":["f-bd0661b7ddd0"],"target":"Нет. Нэнья сделана из митрила.","category":"corrections","split_group":"nenya"}
+{"id":"robustness_final-f-d243f77dae72","fact_ids":["f-d243f77dae72"],"target":"Нет. Вилью носил Элронд; кольцо Галадриэли — Нэнья.","category":"corrections","split_group":"vilya"}
+{"id":"robustness_final-f-d05a5fd789bd","fact_ids":["f-d05a5fd789bd"],"target":"Нет. Кольцо нашёл Деагол, а Смеагол отнял его.","category":"corrections","split_group":"gollum"}
+{"id":"robustness_final-f-758b109cf220","fact_ids":["f-758b109cf220"],"target":"Нет. Надев Кольцо, Том остался видимым.","category":"corrections","split_group":"tom"}
+{"id":"robustness_final-f-10a82aae8610","fact_ids":["f-10a82aae8610"],"target":"Нет. Аркенстон — драгоценный камень, Сердце Горы.","category":"corrections","split_group":"arkenstone"}
+{"id":"robustness_final-f-a8fcd0035616","fact_ids":["f-a8fcd0035616"],"target":"В «Хоббите» и «Властелине колец» точная дата рождения Леголаса не указана.","category":"unknown","split_group":"legolas"}
+{"id":"robustness_final-f-1f504abaf980","fact_ids":["f-1f504abaf980"],"target":"Численная плотность митрила в выбранных книгах не указана.","category":"unknown","split_group":"mithril"}
+{"id":"robustness_final-f-b01248a46627","fact_ids":["f-b01248a46627"],"target":"Химическая формула митрила в выбранных книгах не приведена.","category":"unknown","split_group":"mithril"}
+{"id":"robustness_final-f-326c557d8315","fact_ids":["f-326c557d8315"],"target":"В выбранных книгах нет рецепта лембаса с точными количествами ингредиентов.","category":"unknown","split_group":"lembas"}
+{"id":"robustness_final-f-1d91d348acdb","fact_ids":["f-1d91d348acdb"],"target":"Масса Аркенстона в каратах в выбранных книгах не указана.","category":"unknown","split_group":"arkenstone"}
+{"id":"robustness_final-f-214e549e2507","fact_ids":["f-214e549e2507"],"target":"Точная разрывная нагрузка верёвки Сэма в выбранных книгах не указана.","category":"unknown","split_group":"rope"}

@@ -1,0 +1,293 @@
+{
+  "method": "Modes shuffled with seed134; criteria assigned before revealing mode mapping; same AI reviewer, not independent double blind review",
+  "rows": [
+    {
+      "mode": "prompt",
+      "id": "style_final-004",
+      "answer": "Ножи Андурила из Лориэна имеют узор из цветочков и листочков, изготовлены из серебра и золота.",
+      "finish_reason": "stop",
+      "generation_tokens": 39,
+      "blind_index": 0,
+      "criteria": {
+        "neutral": 0,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 0
+      },
+      "pass": false,
+      "reason": "Ножны заменены ножами; разговорные уменьшительные."
+    },
+    {
+      "mode": "base",
+      "id": "style_final-005",
+      "answer": "Сэм и Роза поженились 1 мая 3020 года, в Третей эпохе. Дата соответствует эпохе, указанной в заметке.",
+      "finish_reason": "stop",
+      "generation_tokens": 46,
+      "blind_index": 1,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 0,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": false,
+      "reason": "Лишний метакомментарий о соответствии даты заметке."
+    },
+    {
+      "mode": "tuned",
+      "id": "style_final-006",
+      "answer": "Фродо получил ранение на Заверти 6 октября 3018 года Третьей эпохи.",
+      "finish_reason": "stop",
+      "generation_tokens": 29,
+      "blind_index": 2,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "base",
+      "id": "style_final-006",
+      "answer": "Фродо был ранен на Заверти 6 октября, 3018 года, Третья Эпоха.",
+      "finish_reason": "stop",
+      "generation_tokens": 32,
+      "blind_index": 3,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "base",
+      "id": "style_final-002",
+      "answer": "Иорет работала в Домах исцеления в Минас Тирите.",
+      "finish_reason": "stop",
+      "generation_tokens": 22,
+      "blind_index": 4,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "base",
+      "id": "style_final-004",
+      "answer": "У ножен Андурила из Лориэна — узор из цветочков и листочков, сделанных из серебра и золота.",
+      "finish_reason": "stop",
+      "generation_tokens": 41,
+      "blind_index": 5,
+      "criteria": {
+        "neutral": 0,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": false,
+      "reason": "Оставлены разговорные уменьшительные цветочки/листочки."
+    },
+    {
+      "mode": "tuned",
+      "id": "style_final-002",
+      "answer": "Иорет работала в Домах исцеления Минас Тириты.",
+      "finish_reason": "stop",
+      "generation_tokens": 22,
+      "blind_index": 6,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "prompt",
+      "id": "style_final-002",
+      "answer": "Иорет работала в Домах исцеления в Минас Тирите во время Второй эпохи.",
+      "finish_reason": "stop",
+      "generation_tokens": 30,
+      "blind_index": 7,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 0
+      },
+      "pass": false,
+      "reason": "Добавлена Вторая эпоха."
+    },
+    {
+      "mode": "base",
+      "id": "style_final-001",
+      "answer": "Бергил — сын Берегонда, познакомился с Пиппином в возрасте десяти лет. В эпоху Великого Сражения, 1301 года.",
+      "finish_reason": "stop",
+      "generation_tokens": 52,
+      "blind_index": 8,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 0
+      },
+      "pass": false,
+      "reason": "Добавлены выдуманные эпоха и год."
+    },
+    {
+      "mode": "base",
+      "id": "style_final-003",
+      "answer": "Гостиницу «Гарцующий пони» в Бри держал Барлиман Баттербур.",
+      "finish_reason": "stop",
+      "generation_tokens": 30,
+      "blind_index": 9,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "prompt",
+      "id": "style_final-005",
+      "answer": "Сэм и Роза поженились 1 мая 3020 года, в Третей эпохе.",
+      "finish_reason": "stop",
+      "generation_tokens": 31,
+      "blind_index": 10,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "tuned",
+      "id": "style_final-001",
+      "answer": "Бергилу было десять лет, когда он познакомился с Пиппином.",
+      "finish_reason": "stop",
+      "generation_tokens": 26,
+      "blind_index": 11,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 0
+      },
+      "pass": false,
+      "reason": "Потерян факт: Бергил — сын Берегонда."
+    },
+    {
+      "mode": "tuned",
+      "id": "style_final-003",
+      "answer": "Барлиман Баттербур владел гостиницей «Гарцующий пони» в Бри.",
+      "finish_reason": "stop",
+      "generation_tokens": 30,
+      "blind_index": 12,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "prompt",
+      "id": "style_final-003",
+      "answer": "Гостиницу «Гарцующий пони» в Бри держал Барлиман Баттербур.",
+      "finish_reason": "stop",
+      "generation_tokens": 30,
+      "blind_index": 13,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "prompt",
+      "id": "style_final-006",
+      "answer": "Фродо был ранен на Заверти 6 октября 3018 года, Третья Эпоха.",
+      "finish_reason": "stop",
+      "generation_tokens": 31,
+      "blind_index": 14,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "prompt",
+      "id": "style_final-001",
+      "answer": "Бергил — сын Берегонда. Когда познакомился с Пиппином, ему было десять лет, что соответствует эпохе Второй.",
+      "finish_reason": "stop",
+      "generation_tokens": 44,
+      "blind_index": 15,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 0
+      },
+      "pass": false,
+      "reason": "Добавлена Вторая эпоха."
+    },
+    {
+      "mode": "tuned",
+      "id": "style_final-005",
+      "answer": "Сэм и Роза поженились 1 мая 3020 года Третьей эпохи.",
+      "finish_reason": "stop",
+      "generation_tokens": 28,
+      "blind_index": 16,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    },
+    {
+      "mode": "tuned",
+      "id": "style_final-004",
+      "answer": "На ножнах Андурила из Лориэна листья и цветы. Нанесены серебро и золото.",
+      "finish_reason": "stop",
+      "generation_tokens": 36,
+      "blind_index": 17,
+      "criteria": {
+        "neutral": 1,
+        "no_filler": 1,
+        "brief": 1,
+        "faithful": 1
+      },
+      "pass": true,
+      "reason": "Факты исходной заметки сохранены, нейтрально, кратко, без новых утверждений."
+    }
+  ]
+}

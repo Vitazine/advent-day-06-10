@@ -1,0 +1,25 @@
+{
+  "files": {
+    "data/valid-inference.jsonl": "c3f84f7049e673550dedbe22fb7c82c194bd9a4a278c3f2e09ddc669ff398edb",
+    "data/train.jsonl": "2d9159b1f467b78e3a7c3fbce472143fdcbca54bdb4584b6b7b30c5a0a33d4e8",
+    "data/valid-reference.jsonl": "cac1eb3e2386afd01f86ec7f451ace24f68a8e8f104d25474c2817de15bba1d7",
+    "data/final-accepted.jsonl": "2156ce5a9846c0c3175ffdb827505bd3ef0b0e80f29f69ebcec5324837651ce2",
+    "data/replay-teacher.jsonl": "8cc052e1b8da261742fa48a1b8dfbe88de074e0c347047c335f594bf3f97511a",
+    "data/train-accepted.jsonl": "a5da725a426cdc6e1a8483e06ad71524c8b4a7864af7c3144a5d74a070919bbc",
+    "data/train-inputs.jsonl": "165b2aacde2a895ed92347a18519e91f0dbddcce925234ec3456c5596583515d",
+    "data/final-accepted-inputs.jsonl": "d87707fe2f0afd27bbf5825840915fa8af1b5072ac593ab1888abe56bda02913",
+    "data/train-teacher.jsonl": "8a5e9393d42eaaa6f073c112bc7b45c6dd671e5d769da92f3a1596225ea405ce",
+    "data/valid-accepted-inputs.jsonl": "1f95126988e809241ef5d8b6a4d30127d505ce065504044781b136a1c5120a5f",
+    "data/valid-inputs.jsonl": "3585a1140d8a00fd12b99871ab934e49603b90e5247706e1498f553888995b92",
+    "data/replay-inputs.jsonl": "d5be9a301f78bd185568176f57eb6e27370d61b892c929838f5c2df994f2b9e3",
+    "data/valid-accepted.jsonl": "6baf9cdbaf0d28502821f3044a9d5254dcddcb3e9b494a43f8554e49160d9415",
+    "data/valid.jsonl": "fa30e4c6d733d86c8c0e128ca8db37cc38a1bc1f7720ea861bca57d57ecd2d77",
+    "data/final-reference.jsonl": "a553db2ecc4b10a011546733c0a8e4cf12452033271073f9565656631b1d5d35",
+    "data/final-inference.jsonl": "fb3bfecc2fa44b084f8ebea3eb2f206cf1b6ea67ca0c3bfc5c8509eb1650c29c",
+    "data/final-inputs.jsonl": "36e48a4d92c29383dc6e38dbae8e35865ed7715a2b67a6f935d5b7f80d82b0e5",
+    "system.txt": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+    "audit-train.json": "adffbcac765fdbe6db86d3c5d0c93c6abd377a1a290c422be4365ac1412c492e",
+    "audit-holdout.json": "47a39cf6947466b3fb80dc7cb3edd952611f888e8c76647be1b6998a5ff07d7e",
+    "audit-replay.json": "1a8280d92121139308e8447ad5c7275c76c4e86ab48abd3dcdf0deefd5b51ee0"
+  }
+}

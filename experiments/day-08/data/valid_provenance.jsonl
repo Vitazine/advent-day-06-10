@@ -1,0 +1,24 @@
+{"id":"valid-f-30156767bef7-qa","fact_ids":["f-30156767bef7"],"split_group":"valid_birthday","category":"dates","task":"qa","target":"В 2879 году Третьей эпохи."}
+{"id":"valid-f-53e6892aa612-json","fact_ids":["f-53e6892aa612"],"split_group":"valid_forddate","category":"dates","task":"json","target":"{\"answer\":\"20 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"valid-f-3c9744058c21-qa","fact_ids":["f-3c9744058c21"],"split_group":"valid_roac","category":"characters","task":"qa","target":"Карк."}
+{"id":"valid-f-22d4b2b9d820-qa","fact_ids":["f-22d4b2b9d820"],"split_group":"valid_dragonhelm","category":"materials","task":"qa","target":"Золотом."}
+{"id":"valid-f-9220b4e05fbc-qa","fact_ids":["f-9220b4e05fbc"],"split_group":"valid_horn","category":"materials","task":"qa","target":"Из рога дикого быка, с серебряной оковкой."}
+{"id":"valid-f-9220b4e05fbc-json","fact_ids":["f-9220b4e05fbc"],"split_group":"valid_horn","category":"materials","task":"json","target":"{\"answer\":\"Из рога дикого быка, с серебряной оковкой.\",\"status\":\"known\"}"}
+{"id":"valid-f-dcdd1a27b158-qa","fact_ids":["f-dcdd1a27b158"],"split_group":"valid_haldir","category":"characters","task":"qa","target":"Румил и Орофин."}
+{"id":"valid-f-30156767bef7-json","fact_ids":["f-30156767bef7"],"split_group":"valid_birthday","category":"dates","task":"json","target":"{\"answer\":\"В 2879 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"valid-f-432939ed6051-qa","fact_ids":["f-432939ed6051"],"split_group":"valid_roac","category":"descriptions","task":"qa","target":"Роак — старый говорящий ворон у Одинокой горы. Он приносил вести Торину."}
+{"id":"valid-f-432939ed6051-json","fact_ids":["f-432939ed6051"],"split_group":"valid_roac","category":"descriptions","task":"json","target":"{\"answer\":\"Роак — старый говорящий ворон у Одинокой горы. Он приносил вести Торину.\",\"status\":\"known\"}"}
+{"id":"valid-f-303ab347398b-json","fact_ids":["f-303ab347398b"],"split_group":"valid_haldir","category":"characters","task":"json","target":"{\"answer\":\"Он путешествовал за пределами Лориэна и выучил этот язык.\",\"status\":\"known\"}"}
+{"id":"valid-f-8b7401eb9507-json","fact_ids":["f-8b7401eb9507"],"split_group":"valid_ghangroup","category":"characters","task":"json","target":"{\"answer\":\"Гхан-бури-Гхан и его люди.\",\"status\":\"known\"}"}
+{"id":"valid-f-8b7401eb9507-qa","fact_ids":["f-8b7401eb9507"],"split_group":"valid_ghangroup","category":"characters","task":"qa","target":"Гхан-бури-Гхан и его люди."}
+{"id":"valid-f-22d4b2b9d820-json","fact_ids":["f-22d4b2b9d820"],"split_group":"valid_dragonhelm","category":"materials","task":"json","target":"{\"answer\":\"Золотом.\",\"status\":\"known\"}"}
+{"id":"valid-f-1601c7016252-json","fact_ids":["f-1601c7016252"],"split_group":"valid_beregond","category":"descriptions","task":"json","target":"{\"answer\":\"Берегонд — воин стражи Минас Тирита. Он подружился с Пиппином.\",\"status\":\"known\"}"}
+{"id":"valid-f-303ab347398b-qa","fact_ids":["f-303ab347398b"],"split_group":"valid_haldir","category":"characters","task":"qa","target":"Он путешествовал за пределами Лориэна и выучил этот язык."}
+{"id":"valid-f-3c9744058c21-json","fact_ids":["f-3c9744058c21"],"split_group":"valid_roac","category":"characters","task":"json","target":"{\"answer\":\"Карк.\",\"status\":\"known\"}"}
+{"id":"valid-f-580e3d1316fc-json","fact_ids":["f-580e3d1316fc"],"split_group":"valid_barrow","category":"objects","task":"json","target":"{\"answer\":\"Том Бомбадил.\",\"status\":\"known\"}"}
+{"id":"valid-f-4da951aa0fca-json","fact_ids":["f-4da951aa0fca"],"split_group":"valid_roac","category":"characters","task":"json","target":"{\"answer\":\"153 года.\",\"status\":\"known\"}"}
+{"id":"valid-f-dcdd1a27b158-json","fact_ids":["f-dcdd1a27b158"],"split_group":"valid_haldir","category":"characters","task":"json","target":"{\"answer\":\"Румил и Орофин.\",\"status\":\"known\"}"}
+{"id":"valid-f-1601c7016252-qa","fact_ids":["f-1601c7016252"],"split_group":"valid_beregond","category":"descriptions","task":"qa","target":"Берегонд — воин стражи Минас Тирита. Он подружился с Пиппином."}
+{"id":"valid-f-580e3d1316fc-qa","fact_ids":["f-580e3d1316fc"],"split_group":"valid_barrow","category":"objects","task":"qa","target":"Том Бомбадил."}
+{"id":"valid-f-4da951aa0fca-qa","fact_ids":["f-4da951aa0fca"],"split_group":"valid_roac","category":"characters","task":"qa","target":"153 года."}
+{"id":"valid-f-53e6892aa612-qa","fact_ids":["f-53e6892aa612"],"split_group":"valid_forddate","category":"dates","task":"qa","target":"20 октября 3018 года Третьей эпохи."}

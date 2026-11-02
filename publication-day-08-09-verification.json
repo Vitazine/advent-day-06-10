@@ -1,0 +1,41 @@
+{
+  "day08_tests_passed": 11,
+  "day09_tests_passed": 22,
+  "day08_deterministic_rebuild": "passed",
+  "day08_rescored_prediction_files": 48,
+  "day08_knowledge_correct_from_saved_ai_labels": {
+    "base": 0,
+    "tuned": 13,
+    "prompt": 1,
+    "oracle": 25
+  },
+  "day08_general": {
+    "before": 32,
+    "after": 23,
+    "n": 40,
+    "regressions": 10
+  },
+  "day09_final": {
+    "before": {
+      "n": 79,
+      "exact_correct": 54,
+      "invalid_responses": 4,
+      "false_expenses_on_ignored": 5
+    },
+    "after": {
+      "n": 79,
+      "exact_correct": 60,
+      "invalid_responses": 4,
+      "false_expenses_on_ignored": 4
+    },
+    "teacher": {
+      "n": 79,
+      "exact_correct": 79,
+      "invalid_responses": 0,
+      "false_expenses_on_ignored": 0
+    }
+  },
+  "day09_improved": 6,
+  "day09_regressed": 0,
+  "limits": "CPU only. No new training, GPU inference, tokenizer check or independent semantic judgment. AI labels recounted and checked against stored responses."
+}

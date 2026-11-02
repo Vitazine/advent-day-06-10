@@ -1,0 +1,14 @@
+{
+  "model": "unknown",
+  "method": "subagent",
+  "started_at_utc": "2026-11-02T01:49:30Z",
+  "finished_at_utc": "2026-11-02T01:49:56Z",
+  "agent_wall_time_seconds": 26,
+  "timing_limitation": "Agent wall time includes reading, reasoning, tool calls and serialization; not pure model inference latency.",
+  "response_count": 48,
+  "answer_method": "Each input interpreted directly by the teacher model; Python used only to serialize manually supplied answers and validate JSON and IDs.",
+  "sources_read": [
+    "experiments/day-09/system.txt",
+    "experiments/day-09/pilot/inputs.jsonl"
+  ]
+}

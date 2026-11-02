@@ -1,0 +1,2183 @@
+{
+  "rows": [
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-86168d782d1a",
+      "question": "Назови отца и мать Бильбо.",
+      "target": "Бунго Бэггинс и Белладонна Тук.",
+      "answer": "Бардуин и Барда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-d9d338c89a07",
+      "question": "Какую роль отвели Бильбо в отряде Торина?",
+      "target": "Взломщиком.",
+      "answer": "Одной из первых ролей.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-2d4e655f8462",
+      "question": "Укажи день, месяц, год и эпоху рождения Бильбо.",
+      "target": "22 сентября 2890 года Третьей эпохи.",
+      "answer": "22 сентября 2910 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-14a125d810f8",
+      "question": "Какой возраст отмечал Бильбо в начале «Властелина колец»?",
+      "target": "111 лет.",
+      "answer": "Сорок лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-ddb04acfe78a",
+      "question": "Как звали отца и мать Фродо Бэггинса?",
+      "target": "Дрого Бэггинс и Примула Брендибак.",
+      "answer": "Барадд и Баррипинн.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-05d3f8d94746",
+      "question": "Под каким вымышленным именем Фродо остановился в Бри?",
+      "target": "Мистер Подхолм, в оригинале Mr. Underhill.",
+      "answer": "Под именем Бард.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-e9ce0e6376cd",
+      "question": "Назови год и эпоху рождения Фродо Бэггинса.",
+      "target": "В 2968 году Третьей эпохи.",
+      "answer": "2890 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-de5d7840eaf7",
+      "question": "Каков возраст Фродо на праздновании 111-летия Бильбо?",
+      "target": "33 года.",
+      "answer": "111 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-b453c3ec18aa",
+      "question": "Чем занимался Сэм в Бэг-Энде до похода?",
+      "target": "Садовником.",
+      "answer": "Самым важным делом.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-ebe0a8e9e17d",
+      "question": "Назови отца Сэмуайза Гэмджи.",
+      "target": "Хэмфаст Гэмджи.",
+      "answer": "Сэмвейл.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-f87dafa909e8",
+      "question": "Кто стала женой Сэмуайза Гэмджи?",
+      "target": "На Розе Коттон.",
+      "answer": "Сароми.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-55f8dc63af70",
+      "question": "Чьим сыном был Арагорн по отцовской линии?",
+      "target": "Араторн II.",
+      "answer": "Арвеном.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-f9f4693fa518",
+      "question": "Назови мать Арагорна.",
+      "target": "Гильраэн.",
+      "answer": "Арвенда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-27e12368540e",
+      "question": "Как называли Арагорна в детстве, скрывая его происхождение?",
+      "target": "Эстель.",
+      "answer": "Арно.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-14b7de8b0175",
+      "question": "На ком женился король Элессар?",
+      "target": "Арвен.",
+      "answer": "На Элриве.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-ebd6c2b00b45",
+      "question": "Назови год рождения Арагорна с указанием эпохи.",
+      "target": "В 2931 году Третьей эпохи.",
+      "answer": "2890 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-877a1cc869bd",
+      "question": "Укажи дату коронации Элессара в Гондоре.",
+      "target": "1 мая 3019 года Третьей эпохи.",
+      "answer": "25 декабря 3018 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-5abe90c34dcc",
+      "question": "Назови отца гнома Гимли.",
+      "target": "Глоин.",
+      "answer": "Горлумб.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-393bf17bf888",
+      "question": "Сколько волос просил Гимли и сколько получил?",
+      "target": "Один волос; Галадриэль дала ему три.",
+      "answer": "Десять.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-c17d28efb91b",
+      "question": "За кого вышла замуж Эовин после войны?",
+      "target": "Фарамир.",
+      "answer": "За Элронду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-76d5bdd5b3b6",
+      "question": "Как называлось тайное убежище людей Фарамира за водопадом?",
+      "target": "В Хеннет Аннун, убежище за водопадом.",
+      "answer": "Трёхкамерный дворец.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-cdfe2987bd80",
+      "question": "На каком коне Теоден сражался на Пеленнорских полях?",
+      "target": "Снежногрив, в оригинале Snowmane.",
+      "answer": "На коне Тролле.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-0427da5c96bd",
+      "question": "Каково родство Эомера с королём Теоденом?",
+      "target": "Племянником.",
+      "answer": "Эомер и Теоден были двойными братьями.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-5513c4188918",
+      "question": "Какой звериный облик принимал Беорн?",
+      "target": "В медведя.",
+      "answer": "Барс.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-af6077b06207",
+      "question": "От чьей руки погиб Больг в книжной Битве Пяти Воинств?",
+      "target": "Беорн.",
+      "answer": "От руки Барду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-f5df6d802f6d",
+      "question": "Кто по своему народу Древобород?",
+      "target": "К энтам.",
+      "answer": "Даррил.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-2c656ddc7ad4",
+      "question": "Как ещё называют Древоборода?",
+      "target": "Фангорн.",
+      "answer": "Древобородом.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-2c54b3b2cc4c",
+      "question": "Назови создателя Единого Кольца.",
+      "target": "Саурон.",
+      "answer": "Сарагрим.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-3f524888d551",
+      "question": "В каком месте Саурон изготовил Единое Кольцо?",
+      "target": "В Роковой горе, Ородруине.",
+      "answer": "В крепости Мордоре.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-f827d74e18e8",
+      "question": "Каков язык надписи на Кольце Всевластья?",
+      "target": "На Чёрном наречии.",
+      "answer": "На кольце написано: «Англоссик».",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-86c757681dcb",
+      "question": "Чёрное наречие на Едином Кольце записано какими письменами?",
+      "target": "Эльфийскими письменами.",
+      "answer": "На кириллицей.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-b4b8f8156aaa",
+      "question": "При каком воздействии проявляются буквы на Едином Кольце?",
+      "target": "Нагревание.",
+      "answer": "На воздействии света.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-dfbf63781259",
+      "question": "Назови приблизительный год и эпоху создания Единого Кольца.",
+      "target": "Около 1600 года Второй эпохи.",
+      "answer": "Около 3019 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-a0e0941eedf1",
+      "question": "Из какого тайника Бильбо получил будущий меч Жало?",
+      "target": "В пещере троллей.",
+      "answer": "Из Третьего Тайника.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-69df58ba0791",
+      "question": "Кто назвал эльфийский клинок Жалом?",
+      "target": "Бильбо.",
+      "answer": "Галдрийн.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-5066c13cd166",
+      "question": "Что происходит с клинком Жала рядом с орками?",
+      "target": "Светится голубым светом.",
+      "answer": "Он превращается в острый клинок.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-2c78a80eda69",
+      "question": "Кто получил Жало от Бильбо перед выходом Братства?",
+      "target": "Фродо.",
+      "answer": "Бард.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-507cf57f90a6",
+      "question": "Кто получил от Галадриэли фиал со звёздным светом?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-20119292dcd7",
+      "question": "Чей звёздный свет содержит дар Галадриэли Фродо?",
+      "target": "Звезды Эарендиля.",
+      "answer": "Галадриэль.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-b688f1c8fc55",
+      "question": "С кем помог бороться свет фиала в паучьем логове?",
+      "target": "Против Шелоб.",
+      "answer": "С Бором.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-fe676e8ec106",
+      "question": "Назови металл лёгкой кольчуги, которую носили Бильбо и Фродо.",
+      "target": "Из митрила.",
+      "answer": "Бронза.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-77ca91a07f36",
+      "question": "От кого Бильбо получил кольчугу в Одинокой горе?",
+      "target": "Торин.",
+      "answer": "От Дориндрила.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-54857c71b046",
+      "question": "Кто унаследовал митрильную кольчугу Бильбо перед походом к Мордору?",
+      "target": "Фродо.",
+      "answer": "Борн.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-3195964fbeee",
+      "question": "Назови гномьего мастера западных врат Мории.",
+      "target": "Нарви.",
+      "answer": "Гримбель.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-924d2745842a",
+      "question": "Какой эльф выполнил надписи на западных вратах Мории?",
+      "target": "Келебримбор.",
+      "answer": "Селвина.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-9d5c2806f61d",
+      "question": "Что нужно произнести, чтобы открыть западные врата Мории?",
+      "target": "«Меллон», то есть «друг» на синдарине.",
+      "answer": "Слово «Ординар».",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-8401cc05678f",
+      "question": "Из какого оружия Бард выпустил смертельную для Смауга Чёрную стрелу?",
+      "target": "Чёрной стрелой, выпущенной из лука.",
+      "answer": "Из лука.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-84e8d588ea1c",
+      "question": "Назови год и эпоху основного путешествия из «Хоббита».",
+      "target": "В 2941 году Третьей эпохи.",
+      "answer": "2941 год Третьей эпохи.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-4f6443bbfb56",
+      "question": "Укажи год совместного праздника 111-летия Бильбо и 33-летия Фродо.",
+      "target": "В 3001 году Третьей эпохи.",
+      "answer": "2951 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-f634a5590423",
+      "question": "Укажи дату гибели Кольца в Роковой горе.",
+      "target": "25 марта 3019 года Третьей эпохи.",
+      "answer": "29 сентября 3019 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-270c79d18504",
+      "question": "Назови дату ухода Бильбо и Фродо за Море.",
+      "target": "29 сентября 3021 года Третьей эпохи.",
+      "answer": "22 сентября 3019 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-9aabb8ff7bdf",
+      "question": "Назови дочь владыки Ривенделла.",
+      "target": "Арвен.",
+      "answer": "Ривенделл.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-b9690b162420",
+      "question": "Назови обоих сыновей Элронда.",
+      "target": "Элладан и Элрохир.",
+      "answer": "Элронтрим и Элримар.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 176,
+      "id": "knowledge_dev-f-3f2a4deb9afb",
+      "question": "Назови год смерти Дурина VI от Балрога.",
+      "target": "В 1980 году Третьей эпохи.",
+      "answer": "2951 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-86168d782d1a",
+      "question": "Назови отца и мать Бильбо.",
+      "target": "Бунго Бэггинс и Белладонна Тук.",
+      "answer": "Борн.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-d9d338c89a07",
+      "question": "Какую роль отвели Бильбо в отряде Торина?",
+      "target": "Взломщиком.",
+      "answer": "Он был лидером отряда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-2d4e655f8462",
+      "question": "Укажи день, месяц, год и эпоху рождения Бильбо.",
+      "target": "22 сентября 2890 года Третьей эпохи.",
+      "answer": "13 декабря 2990 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-14a125d810f8",
+      "question": "Какой возраст отмечал Бильбо в начале «Властелина колец»?",
+      "target": "111 лет.",
+      "answer": "25 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-ddb04acfe78a",
+      "question": "Как звали отца и мать Фродо Бэггинса?",
+      "target": "Дрого Бэггинс и Примула Брендибак.",
+      "answer": "Бэлорн и Бэлла.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-05d3f8d94746",
+      "question": "Под каким вымышленным именем Фродо остановился в Бри?",
+      "target": "Мистер Подхолм, в оригинале Mr. Underhill.",
+      "answer": "Под именем Барнс.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-e9ce0e6376cd",
+      "question": "Назови год и эпоху рождения Фродо Бэггинса.",
+      "target": "В 2968 году Третьей эпохи.",
+      "answer": "В 2969 году Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-de5d7840eaf7",
+      "question": "Каков возраст Фродо на праздновании 111-летия Бильбо?",
+      "target": "33 года.",
+      "answer": "29 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-b453c3ec18aa",
+      "question": "Чем занимался Сэм в Бэг-Энде до похода?",
+      "target": "Садовником.",
+      "answer": "Он пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, пил молоке, пил чай, п",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-ebe0a8e9e17d",
+      "question": "Назови отца Сэмуайза Гэмджи.",
+      "target": "Хэмфаст Гэмджи.",
+      "answer": "Сэмвэл.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-f87dafa909e8",
+      "question": "Кто стала женой Сэмуайза Гэмджи?",
+      "target": "На Розе Коттон.",
+      "answer": "Любовь.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-55f8dc63af70",
+      "question": "Чьим сыном был Арагорн по отцовской линии?",
+      "target": "Араторн II.",
+      "answer": "Арвеном.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-f9f4693fa518",
+      "question": "Назови мать Арагорна.",
+      "target": "Гильраэн.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-27e12368540e",
+      "question": "Как называли Арагорна в детстве, скрывая его происхождение?",
+      "target": "Эстель.",
+      "answer": "Фродо.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-14b7de8b0175",
+      "question": "На ком женился король Элессар?",
+      "target": "Арвен.",
+      "answer": "На Элэндиле.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-ebd6c2b00b45",
+      "question": "Назови год рождения Арагорна с указанием эпохи.",
+      "target": "В 2931 году Третьей эпохи.",
+      "answer": "Год рождения Арагорна II — 2990 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-877a1cc869bd",
+      "question": "Укажи дату коронации Элессара в Гондоре.",
+      "target": "1 мая 3019 года Третьей эпохи.",
+      "answer": "11 сентября 3018 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-5abe90c34dcc",
+      "question": "Назови отца гнома Гимли.",
+      "target": "Глоин.",
+      "answer": "Горлум.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-393bf17bf888",
+      "question": "Сколько волос просил Гимли и сколько получил?",
+      "target": "Один волос; Галадриэль дала ему три.",
+      "answer": "Десять.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-c17d28efb91b",
+      "question": "За кого вышла замуж Эовин после войны?",
+      "target": "Фарамир.",
+      "answer": "За Элронду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-76d5bdd5b3b6",
+      "question": "Как называлось тайное убежище людей Фарамира за водопадом?",
+      "target": "В Хеннет Аннун, убежище за водопадом.",
+      "answer": "Трое листьев.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-cdfe2987bd80",
+      "question": "На каком коне Теоден сражался на Пеленнорских полях?",
+      "target": "Снежногрив, в оригинале Snowmane.",
+      "answer": "На коне Барнабе.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-0427da5c96bd",
+      "question": "Каково родство Эомера с королём Теоденом?",
+      "target": "Племянником.",
+      "answer": "Оно было дружественным, но не родственным. Эомер был братом Эомера.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-5513c4188918",
+      "question": "Какой звериный облик принимал Беорн?",
+      "target": "В медведя.",
+      "answer": "Лис.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-af6077b06207",
+      "question": "От чьей руки погиб Больг в книжной Битве Пяти Воинств?",
+      "target": "Беорн.",
+      "answer": "От руки Элронда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-f5df6d802f6d",
+      "question": "Кто по своему народу Древобород?",
+      "target": "К энтам.",
+      "answer": "Джонн.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-2c656ddc7ad4",
+      "question": "Как ещё называют Древоборода?",
+      "target": "Фангорн.",
+      "answer": "Дракон.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-2c54b3b2cc4c",
+      "question": "Назови создателя Единого Кольца.",
+      "target": "Саурон.",
+      "answer": "Саурон.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-3f524888d551",
+      "question": "В каком месте Саурон изготовил Единое Кольцо?",
+      "target": "В Роковой горе, Ородруине.",
+      "answer": "В горах Мордора.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-f827d74e18e8",
+      "question": "Каков язык надписи на Кольце Всевластья?",
+      "target": "На Чёрном наречии.",
+      "answer": "На эльфийском.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-86c757681dcb",
+      "question": "Чёрное наречие на Едином Кольце записано какими письменами?",
+      "target": "Эльфийскими письменами.",
+      "answer": "На календу.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-b4b8f8156aaa",
+      "question": "При каком воздействии проявляются буквы на Едином Кольце?",
+      "target": "Нагревание.",
+      "answer": "На свету.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-dfbf63781259",
+      "question": "Назови приблизительный год и эпоху создания Единого Кольца.",
+      "target": "Около 1600 года Второй эпохи.",
+      "answer": "Около 3000 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-a0e0941eedf1",
+      "question": "Из какого тайника Бильбо получил будущий меч Жало?",
+      "target": "В пещере троллей.",
+      "answer": "Из Третьего тайника.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-69df58ba0791",
+      "question": "Кто назвал эльфийский клинок Жалом?",
+      "target": "Бильбо.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-5066c13cd166",
+      "question": "Что происходит с клинком Жала рядом с орками?",
+      "target": "Светится голубым светом.",
+      "answer": "Он превращается в острый клинок.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-2c78a80eda69",
+      "question": "Кто получил Жало от Бильбо перед выходом Братства?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-507cf57f90a6",
+      "question": "Кто получил от Галадриэли фиал со звёздным светом?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-20119292dcd7",
+      "question": "Чей звёздный свет содержит дар Галадриэли Фродо?",
+      "target": "Звезды Эарендиля.",
+      "answer": "Звёздный свет Элронда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-b688f1c8fc55",
+      "question": "С кем помог бороться свет фиала в паучьем логове?",
+      "target": "Против Шелоб.",
+      "answer": "С Гэндальфом.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-fe676e8ec106",
+      "question": "Назови металл лёгкой кольчуги, которую носили Бильбо и Фродо.",
+      "target": "Из митрила.",
+      "answer": "Медь.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-77ca91a07f36",
+      "question": "От кого Бильбо получил кольчугу в Одинокой горе?",
+      "target": "Торин.",
+      "answer": "От Торинда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-54857c71b046",
+      "question": "Кто унаследовал митрильную кольчугу Бильбо перед походом к Мордору?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-3195964fbeee",
+      "question": "Назови гномьего мастера западных врат Мории.",
+      "target": "Нарви.",
+      "answer": "Гримбахт.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-924d2745842a",
+      "question": "Какой эльф выполнил надписи на западных вратах Мории?",
+      "target": "Келебримбор.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-9d5c2806f61d",
+      "question": "Что нужно произнести, чтобы открыть западные врата Мории?",
+      "target": "«Меллон», то есть «друг» на синдарине.",
+      "answer": "Слово «Ординар».",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-8401cc05678f",
+      "question": "Из какого оружия Бард выпустил смертельную для Смауга Чёрную стрелу?",
+      "target": "Чёрной стрелой, выпущенной из лука.",
+      "answer": "Из лука.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-84e8d588ea1c",
+      "question": "Назови год и эпоху основного путешествия из «Хоббита».",
+      "target": "В 2941 году Третьей эпохи.",
+      "answer": "Год 3019 Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-4f6443bbfb56",
+      "question": "Укажи год совместного праздника 111-летия Бильбо и 33-летия Фродо.",
+      "target": "В 3001 году Третьей эпохи.",
+      "answer": "В 2999 году Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-f634a5590423",
+      "question": "Укажи дату гибели Кольца в Роковой горе.",
+      "target": "25 марта 3019 года Третьей эпохи.",
+      "answer": "11 сентября 3018 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-270c79d18504",
+      "question": "Назови дату ухода Бильбо и Фродо за Море.",
+      "target": "29 сентября 3021 года Третьей эпохи.",
+      "answer": "11 сентября 3019 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-9aabb8ff7bdf",
+      "question": "Назови дочь владыки Ривенделла.",
+      "target": "Арвен.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-b9690b162420",
+      "question": "Назови обоих сыновей Элронда.",
+      "target": "Элладан и Элрохир.",
+      "answer": "Элронд и Элдард.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 352,
+      "id": "knowledge_dev-f-3f2a4deb9afb",
+      "question": "Назови год смерти Дурина VI от Балрога.",
+      "target": "В 1980 году Третьей эпохи.",
+      "answer": "Год 1999 Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-86168d782d1a",
+      "question": "Назови отца и мать Бильбо.",
+      "target": "Бунго Бэггинс и Белладонна Тук.",
+      "answer": "Бард и Марти.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-d9d338c89a07",
+      "question": "Какую роль отвели Бильбо в отряде Торина?",
+      "target": "Взломщиком.",
+      "answer": "Он был пилотом.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-2d4e655f8462",
+      "question": "Укажи день, месяц, год и эпоху рождения Бильбо.",
+      "target": "22 сентября 2890 года Третьей эпохи.",
+      "answer": "22 сентября 2758 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-14a125d810f8",
+      "question": "Какой возраст отмечал Бильбо в начале «Властелина колец»?",
+      "target": "111 лет.",
+      "answer": "25 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-ddb04acfe78a",
+      "question": "Как звали отца и мать Фродо Бэггинса?",
+      "target": "Дрого Бэггинс и Примула Брендибак.",
+      "answer": "Бээд и Барнди.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-05d3f8d94746",
+      "question": "Под каким вымышленным именем Фродо остановился в Бри?",
+      "target": "Мистер Подхолм, в оригинале Mr. Underhill.",
+      "answer": "Фродо остановился в Бри под именем Мерри.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-e9ce0e6376cd",
+      "question": "Назови год и эпоху рождения Фродо Бэггинса.",
+      "target": "В 2968 году Третьей эпохи.",
+      "answer": "2951 год Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-de5d7840eaf7",
+      "question": "Каков возраст Фродо на праздновании 111-летия Бильбо?",
+      "target": "33 года.",
+      "answer": "29 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-b453c3ec18aa",
+      "question": "Чем занимался Сэм в Бэг-Энде до похода?",
+      "target": "Садовником.",
+      "answer": "Он пил чай, пил пиво, пил вино, пил молоке, пил воду, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства,",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-ebe0a8e9e17d",
+      "question": "Назови отца Сэмуайза Гэмджи.",
+      "target": "Хэмфаст Гэмджи.",
+      "answer": "Сэмвэл.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-f87dafa909e8",
+      "question": "Кто стала женой Сэмуайза Гэмджи?",
+      "target": "На Розе Коттон.",
+      "answer": "Китти.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-55f8dc63af70",
+      "question": "Чьим сыном был Арагорн по отцовской линии?",
+      "target": "Араторн II.",
+      "answer": "Арвен.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-f9f4693fa518",
+      "question": "Назови мать Арагорна.",
+      "target": "Гильраэн.",
+      "answer": "Арвен.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-27e12368540e",
+      "question": "Как называли Арагорна в детстве, скрывая его происхождение?",
+      "target": "Эстель.",
+      "answer": "Арноэ.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-14b7de8b0175",
+      "question": "На ком женился король Элессар?",
+      "target": "Арвен.",
+      "answer": "На Элронду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-ebd6c2b00b45",
+      "question": "Назови год рождения Арагорна с указанием эпохи.",
+      "target": "В 2931 году Третьей эпохи.",
+      "answer": "Год рождения Арагорна II: 2951 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-877a1cc869bd",
+      "question": "Укажи дату коронации Элессара в Гондоре.",
+      "target": "1 мая 3019 года Третьей эпохи.",
+      "answer": "25 декабря 3018 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-5abe90c34dcc",
+      "question": "Назови отца гнома Гимли.",
+      "target": "Глоин.",
+      "answer": "Глоин.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-393bf17bf888",
+      "question": "Сколько волос просил Гимли и сколько получил?",
+      "target": "Один волос; Галадриэль дала ему три.",
+      "answer": "Десять.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-c17d28efb91b",
+      "question": "За кого вышла замуж Эовин после войны?",
+      "target": "Фарамир.",
+      "answer": "За Элронду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-76d5bdd5b3b6",
+      "question": "Как называлось тайное убежище людей Фарамира за водопадом?",
+      "target": "В Хеннет Аннун, убежище за водопадом.",
+      "answer": "Приют.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-cdfe2987bd80",
+      "question": "На каком коне Теоден сражался на Пеленнорских полях?",
+      "target": "Снежногрив, в оригинале Snowmane.",
+      "answer": "На коне Дроте.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-0427da5c96bd",
+      "question": "Каково родство Эомера с королём Теоденом?",
+      "target": "Племянником.",
+      "answer": "Третья поколение.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-5513c4188918",
+      "question": "Какой звериный облик принимал Беорн?",
+      "target": "В медведя.",
+      "answer": "Барс.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-af6077b06207",
+      "question": "От чьей руки погиб Больг в книжной Битве Пяти Воинств?",
+      "target": "Беорн.",
+      "answer": "От руки Барду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-f5df6d802f6d",
+      "question": "Кто по своему народу Древобород?",
+      "target": "К энтам.",
+      "answer": "Дрозды.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-2c656ddc7ad4",
+      "question": "Как ещё называют Древоборода?",
+      "target": "Фангорн.",
+      "answer": "Древобородом.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-2c54b3b2cc4c",
+      "question": "Назови создателя Единого Кольца.",
+      "target": "Саурон.",
+      "answer": "Саурон.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-3f524888d551",
+      "question": "В каком месте Саурон изготовил Единое Кольцо?",
+      "target": "В Роковой горе, Ородруине.",
+      "answer": "В горах Мории.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-f827d74e18e8",
+      "question": "Каков язык надписи на Кольце Всевластья?",
+      "target": "На Чёрном наречии.",
+      "answer": "Корн.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-86c757681dcb",
+      "question": "Чёрное наречие на Едином Кольце записано какими письменами?",
+      "target": "Эльфийскими письменами.",
+      "answer": "Корью.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-b4b8f8156aaa",
+      "question": "При каком воздействии проявляются буквы на Едином Кольце?",
+      "target": "Нагревание.",
+      "answer": "На воздействии света.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-dfbf63781259",
+      "question": "Назови приблизительный год и эпоху создания Единого Кольца.",
+      "target": "Около 1600 года Второй эпохи.",
+      "answer": "Около 1500 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-a0e0941eedf1",
+      "question": "Из какого тайника Бильбо получил будущий меч Жало?",
+      "target": "В пещере троллей.",
+      "answer": "Из Третьего Тайника.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-69df58ba0791",
+      "question": "Кто назвал эльфийский клинок Жалом?",
+      "target": "Бильбо.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-5066c13cd166",
+      "question": "Что происходит с клинком Жала рядом с орками?",
+      "target": "Светится голубым светом.",
+      "answer": "Он пронзил их.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-2c78a80eda69",
+      "question": "Кто получил Жало от Бильбо перед выходом Братства?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-507cf57f90a6",
+      "question": "Кто получил от Галадриэли фиал со звёздным светом?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-20119292dcd7",
+      "question": "Чей звёздный свет содержит дар Галадриэли Фродо?",
+      "target": "Звезды Эарендиля.",
+      "answer": "Звёздный свет Элронда.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-b688f1c8fc55",
+      "question": "С кем помог бороться свет фиала в паучьем логове?",
+      "target": "Против Шелоб.",
+      "answer": "С Галадриэль.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-fe676e8ec106",
+      "question": "Назови металл лёгкой кольчуги, которую носили Бильбо и Фродо.",
+      "target": "Из митрила.",
+      "answer": "Митрил.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-77ca91a07f36",
+      "question": "От кого Бильбо получил кольчугу в Одинокой горе?",
+      "target": "Торин.",
+      "answer": "От Одинокой горы.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-54857c71b046",
+      "question": "Кто унаследовал митрильную кольчугу Бильбо перед походом к Мордору?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-3195964fbeee",
+      "question": "Назови гномьего мастера западных врат Мории.",
+      "target": "Нарви.",
+      "answer": "Гримхилд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-924d2745842a",
+      "question": "Какой эльф выполнил надписи на западных вратах Мории?",
+      "target": "Келебримбор.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-9d5c2806f61d",
+      "question": "Что нужно произнести, чтобы открыть западные врата Мории?",
+      "target": "«Меллон», то есть «друг» на синдарине.",
+      "answer": "Что нужно произнести, чтобы открыть западные врата Мории, так и не было известно в книгах.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-8401cc05678f",
+      "question": "Из какого оружия Бард выпустил смертельную для Смауга Чёрную стрелу?",
+      "target": "Чёрной стрелой, выпущенной из лука.",
+      "answer": "Из лука.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-84e8d588ea1c",
+      "question": "Назови год и эпоху основного путешествия из «Хоббита».",
+      "target": "В 2941 году Третьей эпохи.",
+      "answer": "2290 год Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-4f6443bbfb56",
+      "question": "Укажи год совместного праздника 111-летия Бильбо и 33-летия Фродо.",
+      "target": "В 3001 году Третьей эпохи.",
+      "answer": "2289 год Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-f634a5590423",
+      "question": "Укажи дату гибели Кольца в Роковой горе.",
+      "target": "25 марта 3019 года Третьей эпохи.",
+      "answer": "25 марта 3019 года Третьей эпохи.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-270c79d18504",
+      "question": "Назови дату ухода Бильбо и Фродо за Море.",
+      "target": "29 сентября 3021 года Третьей эпохи.",
+      "answer": "22 сентября 3019 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-9aabb8ff7bdf",
+      "question": "Назови дочь владыки Ривенделла.",
+      "target": "Арвен.",
+      "answer": "Арвен.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-b9690b162420",
+      "question": "Назови обоих сыновей Элронда.",
+      "target": "Элладан и Элрохир.",
+      "answer": "Арвен и Амрэнд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 528,
+      "id": "knowledge_dev-f-3f2a4deb9afb",
+      "question": "Назови год смерти Дурина VI от Балрога.",
+      "target": "В 1980 году Третьей эпохи.",
+      "answer": "2510 год Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-86168d782d1a",
+      "question": "Назови отца и мать Бильбо.",
+      "target": "Бунго Бэггинс и Белладонна Тук.",
+      "answer": "Барду и Бильбу.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-d9d338c89a07",
+      "question": "Какую роль отвели Бильбо в отряде Торина?",
+      "target": "Взломщиком.",
+      "answer": "Он был гильдийским магистром и велел отряду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-2d4e655f8462",
+      "question": "Укажи день, месяц, год и эпоху рождения Бильбо.",
+      "target": "22 сентября 2890 года Третьей эпохи.",
+      "answer": "22 сентября 2989 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-14a125d810f8",
+      "question": "Какой возраст отмечал Бильбо в начале «Властелина колец»?",
+      "target": "111 лет.",
+      "answer": "25 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-ddb04acfe78a",
+      "question": "Как звали отца и мать Фродо Бэггинса?",
+      "target": "Дрого Бэггинс и Примула Брендибак.",
+      "answer": "Бэорн и Бильбо.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-05d3f8d94746",
+      "question": "Под каким вымышленным именем Фродо остановился в Бри?",
+      "target": "Мистер Подхолм, в оригинале Mr. Underhill.",
+      "answer": "Под именем Барду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-e9ce0e6376cd",
+      "question": "Назови год и эпоху рождения Фродо Бэггинса.",
+      "target": "В 2968 году Третьей эпохи.",
+      "answer": "2951 год Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-de5d7840eaf7",
+      "question": "Каков возраст Фродо на праздновании 111-летия Бильбо?",
+      "target": "33 года.",
+      "answer": "29 лет.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-b453c3ec18aa",
+      "question": "Чем занимался Сэм в Бэг-Энде до похода?",
+      "target": "Садовником.",
+      "answer": "Он пил чай, пил пиво, пил вино, пил молоке, пил воду, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства, пил лекарства,",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-ebe0a8e9e17d",
+      "question": "Назови отца Сэмуайза Гэмджи.",
+      "target": "Хэмфаст Гэмджи.",
+      "answer": "Сэмвэл.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-f87dafa909e8",
+      "question": "Кто стала женой Сэмуайза Гэмджи?",
+      "target": "На Розе Коттон.",
+      "answer": "Мерри.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-55f8dc63af70",
+      "question": "Чьим сыном был Арагорн по отцовской линии?",
+      "target": "Араторн II.",
+      "answer": "Арвен.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-f9f4693fa518",
+      "question": "Назови мать Арагорна.",
+      "target": "Гильраэн.",
+      "answer": "Арвен.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-27e12368540e",
+      "question": "Как называли Арагорна в детстве, скрывая его происхождение?",
+      "target": "Эстель.",
+      "answer": "Арноэ.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-14b7de8b0175",
+      "question": "На ком женился король Элессар?",
+      "target": "Арвен.",
+      "answer": "На Элен Дену.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-ebd6c2b00b45",
+      "question": "Назови год рождения Арагорна с указанием эпохи.",
+      "target": "В 2931 году Третьей эпохи.",
+      "answer": "В 2991 году Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-877a1cc869bd",
+      "question": "Укажи дату коронации Элессара в Гондоре.",
+      "target": "1 мая 3019 года Третьей эпохи.",
+      "answer": "25 сентября 3018 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-5abe90c34dcc",
+      "question": "Назови отца гнома Гимли.",
+      "target": "Глоин.",
+      "answer": "Глоин.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-393bf17bf888",
+      "question": "Сколько волос просил Гимли и сколько получил?",
+      "target": "Один волос; Галадриэль дала ему три.",
+      "answer": "Десять.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-c17d28efb91b",
+      "question": "За кого вышла замуж Эовин после войны?",
+      "target": "Фарамир.",
+      "answer": "За Элронду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-76d5bdd5b3b6",
+      "question": "Как называлось тайное убежище людей Фарамира за водопадом?",
+      "target": "В Хеннет Аннун, убежище за водопадом.",
+      "answer": "Торинду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-cdfe2987bd80",
+      "question": "На каком коне Теоден сражался на Пеленнорских полях?",
+      "target": "Снежногрив, в оригинале Snowmane.",
+      "answer": "На коне Дроте.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-0427da5c96bd",
+      "question": "Каково родство Эомера с королём Теоденом?",
+      "target": "Племянником.",
+      "answer": "Третья поколение.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-5513c4188918",
+      "question": "Какой звериный облик принимал Беорн?",
+      "target": "В медведя.",
+      "answer": "Лис.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-af6077b06207",
+      "question": "От чьей руки погиб Больг в книжной Битве Пяти Воинств?",
+      "target": "Беорн.",
+      "answer": "От руки Барду.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-f5df6d802f6d",
+      "question": "Кто по своему народу Древобород?",
+      "target": "К энтам.",
+      "answer": "Дрозды.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-2c656ddc7ad4",
+      "question": "Как ещё называют Древоборода?",
+      "target": "Фангорн.",
+      "answer": "Драгоценным камнем.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-2c54b3b2cc4c",
+      "question": "Назови создателя Единого Кольца.",
+      "target": "Саурон.",
+      "answer": "Саурон.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-3f524888d551",
+      "question": "В каком месте Саурон изготовил Единое Кольцо?",
+      "target": "В Роковой горе, Ородруине.",
+      "answer": "В горах Мории.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-f827d74e18e8",
+      "question": "Каков язык надписи на Кольце Всевластья?",
+      "target": "На Чёрном наречии.",
+      "answer": "Корнис.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-86c757681dcb",
+      "question": "Чёрное наречие на Едином Кольце записано какими письменами?",
+      "target": "Эльфийскими письменами.",
+      "answer": "Корью.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-b4b8f8156aaa",
+      "question": "При каком воздействии проявляются буквы на Едином Кольце?",
+      "target": "Нагревание.",
+      "answer": "На воздействии света.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-dfbf63781259",
+      "question": "Назови приблизительный год и эпоху создания Единого Кольца.",
+      "target": "Около 1600 года Второй эпохи.",
+      "answer": "Около 1500 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-a0e0941eedf1",
+      "question": "Из какого тайника Бильбо получил будущий меч Жало?",
+      "target": "В пещере троллей.",
+      "answer": "Из Третьего Тайника.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-69df58ba0791",
+      "question": "Кто назвал эльфийский клинок Жалом?",
+      "target": "Бильбо.",
+      "answer": "Элронд.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-5066c13cd166",
+      "question": "Что происходит с клинком Жала рядом с орками?",
+      "target": "Светится голубым светом.",
+      "answer": "Он пронзил их.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-2c78a80eda69",
+      "question": "Кто получил Жало от Бильбо перед выходом Братства?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-507cf57f90a6",
+      "question": "Кто получил от Галадриэли фиал со звёздным светом?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-20119292dcd7",
+      "question": "Чей звёздный свет содержит дар Галадриэли Фродо?",
+      "target": "Звезды Эарендиля.",
+      "answer": "Звёздный свет Элронди.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-b688f1c8fc55",
+      "question": "С кем помог бороться свет фиала в паучьем логове?",
+      "target": "Против Шелоб.",
+      "answer": "С Галадриэль.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-fe676e8ec106",
+      "question": "Назови металл лёгкой кольчуги, которую носили Бильбо и Фродо.",
+      "target": "Из митрила.",
+      "answer": "Митрил.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-77ca91a07f36",
+      "question": "От кого Бильбо получил кольчугу в Одинокой горе?",
+      "target": "Торин.",
+      "answer": "От Торина.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-54857c71b046",
+      "question": "Кто унаследовал митрильную кольчугу Бильбо перед походом к Мордору?",
+      "target": "Фродо.",
+      "answer": "Фродо.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-3195964fbeee",
+      "question": "Назови гномьего мастера западных врат Мории.",
+      "target": "Нарви.",
+      "answer": "Кирьян.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-924d2745842a",
+      "question": "Какой эльф выполнил надписи на западных вратах Мории?",
+      "target": "Келебримбор.",
+      "answer": "Арвен.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-9d5c2806f61d",
+      "question": "Что нужно произнести, чтобы открыть западные врата Мории?",
+      "target": "«Меллон», то есть «друг» на синдарине.",
+      "answer": "Чёрный язык.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-8401cc05678f",
+      "question": "Из какого оружия Бард выпустил смертельную для Смауга Чёрную стрелу?",
+      "target": "Чёрной стрелой, выпущенной из лука.",
+      "answer": "Из лука.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-84e8d588ea1c",
+      "question": "Назови год и эпоху основного путешествия из «Хоббита».",
+      "target": "В 2941 году Третьей эпохи.",
+      "answer": "2941 год Третьей эпохи.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-4f6443bbfb56",
+      "question": "Укажи год совместного праздника 111-летия Бильбо и 33-летия Фродо.",
+      "target": "В 3001 году Третьей эпохи.",
+      "answer": "2999 год Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-f634a5590423",
+      "question": "Укажи дату гибели Кольца в Роковой горе.",
+      "target": "25 марта 3019 года Третьей эпохи.",
+      "answer": "25 марта 3019 года Третьей эпохи.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-270c79d18504",
+      "question": "Назови дату ухода Бильбо и Фродо за Море.",
+      "target": "29 сентября 3021 года Третьей эпохи.",
+      "answer": "25 октября 3019 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-9aabb8ff7bdf",
+      "question": "Назови дочь владыки Ривенделла.",
+      "target": "Арвен.",
+      "answer": "Арвен.",
+      "correct": true,
+      "reason": "Ответ соответствует вопросу; допускается склонение и краткая формулировка.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-b9690b162420",
+      "question": "Назови обоих сыновей Элронда.",
+      "target": "Элладан и Элрохир.",
+      "answer": "Арвен и Амрахир.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    },
+    {
+      "checkpoint": 704,
+      "id": "knowledge_dev-f-3f2a4deb9afb",
+      "question": "Назови год смерти Дурина VI от Балрога.",
+      "target": "В 1980 году Третьей эпохи.",
+      "answer": "250 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный или неполный ответ: сравните указанные сущности, даты и требуемое отношение с эталоном.",
+      "reviewer": "Codex semantic review; not independent human annotation"
+    }
+  ],
+  "scores": {
+    "176": {
+      "correct": 3,
+      "n": 54
+    },
+    "352": {
+      "correct": 5,
+      "n": 54
+    },
+    "528": {
+      "correct": 9,
+      "n": 54
+    },
+    "704": {
+      "correct": 11,
+      "n": 54
+    }
+  },
+  "note": "All 216 knowledge answers reviewed. Bow answer accepted because question explicitly asks weapon firing the Black Arrow. Knowledge determines unique winner; lower-priority tie breakers unnecessary."
+}

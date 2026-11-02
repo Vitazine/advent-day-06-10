@@ -1,0 +1,10 @@
+{
+  "started_at_utc": "2026-11-02T01:54:00+00:00",
+  "finished_at_utc": "2026-11-02T01:54:54.383108+00:00",
+  "method": "subagent",
+  "model": "unknown",
+  "record_count": 180,
+  "agent_wall_time_seconds": 54.383108,
+  "timing_note": "Agent wall time; not API latency.",
+  "generation_note": "Each response independently determined by the model from system.txt and replay-inputs.jsonl; Python only serializes manually supplied fields and checks IDs."
+}

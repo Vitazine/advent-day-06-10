@@ -1,0 +1,555 @@
+{
+  "reviewer": "Codex AI; no human validation",
+  "rows": [
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-c88e8a23e40f",
+      "answer": "Нет. У Торина был Гламдринг. У Гэндальфа Оркрист.",
+      "finish_reason": "stop",
+      "generation_tokens": 26,
+      "target": "Нет. Гламдринг достался Гэндальфу, а Торину — Оркрист.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-c2714c188e62",
+      "answer": "Нет. Андурил был у Арагорна в Эархелле, перед Тропами Мёртвых.",
+      "finish_reason": "stop",
+      "generation_tokens": 32,
+      "target": "Нет. Андурил перековали в Ривенделле до выхода Братства.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-a89ff7b05d9b",
+      "answer": "Нет. Бильбо нанёс Смаугу тяжёлый удар, но не смертельный. Удар был смертельным лишь для Смауга в оригинале.",
+      "finish_reason": "stop",
+      "generation_tokens": 46,
+      "target": "Нет. Смауга убил Бард.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-9a8242364b77",
+      "answer": "Нет. В оригинале Броньян.",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "Нет. Глорфиндель посадил Фродо на Асфалота, а к броду Фродо скакал один.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-51a15e81aadb",
+      "answer": "Саруман умер от болезни.",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "Нет. Грима убил Сарумана в Шире.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-bd0661b7ddd0",
+      "answer": "Нет. Нэнью называют Золотым кольцом.",
+      "finish_reason": "stop",
+      "generation_tokens": 18,
+      "target": "Нет. Нэнья сделана из митрила.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-d243f77dae72",
+      "answer": "Нет. Кольцо Галадриэли называется Вилла.",
+      "finish_reason": "stop",
+      "generation_tokens": 20,
+      "target": "Нет. Вилью носил Элронд; кольцо Галадриэли — Нэнья.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-d05a5fd789bd",
+      "answer": "Нет. Смеагол не нырнул. Он погрузился в воду, чтобы найти Кольцо.",
+      "finish_reason": "stop",
+      "generation_tokens": 30,
+      "target": "Нет. Кольцо нашёл Деагол, а Смеагол отнял его.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-758b109cf220",
+      "answer": "Нет. Кольцо не скрывает Тома Бомбадила от глаз.",
+      "finish_reason": "stop",
+      "generation_tokens": 23,
+      "target": "Нет. Надев Кольцо, Том остался видимым.",
+      "correct": true,
+      "reason": "Верный контраст либо корректное указание отсутствия сведений."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-10a82aae8610",
+      "answer": "Нет. Аркенстон — это Кольцо Мудрости.",
+      "finish_reason": "stop",
+      "generation_tokens": 20,
+      "target": "Нет. Аркенстон — драгоценный камень, Сердце Горы.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-a8fcd0035616",
+      "answer": "В день рождения Леголаса в книгах не сказано.",
+      "finish_reason": "stop",
+      "generation_tokens": 17,
+      "target": "В «Хоббите» и «Властелине колец» точная дата рождения Леголаса не указана.",
+      "correct": true,
+      "reason": "Верный контраст либо корректное указание отсутствия сведений."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-1f504abaf980",
+      "answer": "Один грамм.",
+      "finish_reason": "stop",
+      "generation_tokens": 7,
+      "target": "Численная плотность митрила в выбранных книгах не указана.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-b01248a46627",
+      "answer": "Митрил — это митрил, т.е. митрил. Его химическая формула в книгах не указана.",
+      "finish_reason": "stop",
+      "generation_tokens": 34,
+      "target": "Химическая формула митрила в выбранных книгах не приведена.",
+      "correct": true,
+      "reason": "Верный контраст либо корректное указание отсутствия сведений."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-326c557d8315",
+      "answer": "Десять граммов молока, пять граммов мёда, три грамма дрожжей.",
+      "finish_reason": "stop",
+      "generation_tokens": 32,
+      "target": "В выбранных книгах нет рецепта лембаса с точными количествами ингредиентов.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-1d91d348acdb",
+      "answer": "28,75 г.",
+      "finish_reason": "stop",
+      "generation_tokens": 8,
+      "target": "Масса Аркенстона в каратах в выбранных книгах не указана.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "robustness_final",
+      "id": "robustness_final-f-214e549e2507",
+      "answer": "200 килограммов.",
+      "finish_reason": "stop",
+      "generation_tokens": 10,
+      "target": "Точная разрывная нагрузка верёвки Сэма в выбранных книгах не указана.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-bb34a4a9f947",
+      "answer": "{\"answer\":\"Барду.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":\"Берегонд.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-62e47682a0b0",
+      "answer": "{\"answer\":\"Девять лет.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 13,
+      "target": "{\"answer\":\"Десять лет.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-57f1641244e1",
+      "answer": "{\"answer\":\"В Домах исцеления Минас Тирита.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 23,
+      "target": "{\"answer\":\"В Домах исцеления Минас Тирита.\",\"status\":\"known\"}",
+      "correct": true,
+      "reason": "Валидная схема и правильный смысл answer/status, с допустимым склонением/пересказом."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-db9bf134e2ba",
+      "answer": "{\"answer\":\"Барлиман Баттербур.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 17,
+      "target": "{\"answer\":\"Барлиман Баттербур.\",\"status\":\"known\"}",
+      "correct": true,
+      "reason": "Валидная схема и правильный смысл answer/status, с допустимым склонением/пересказом."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-7ed1e0096e35",
+      "answer": "{\"answer\":\"Эовин.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":\"Эовин.\",\"status\":\"known\"}",
+      "correct": true,
+      "reason": "Валидная схема и правильный смысл answer/status, с допустимым склонением/пересказом."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-6041ce37a7ed",
+      "answer": "{\"answer\":\"Митрельюнитом.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 17,
+      "target": "{\"answer\":\"Серебром и золотом.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-13d6909a4ee5",
+      "answer": "{\"answer\":\"Чёрный.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":\"Чёрного.\",\"status\":\"known\"}",
+      "correct": true,
+      "reason": "Валидная схема и правильный смысл answer/status, с допустимым склонением/пересказом."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-a30f88457331",
+      "answer": "{\"answer\":\"1 мая 3020 года Третьей эпохи.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 24,
+      "target": "{\"answer\":\"1 мая 3020 года Третьей эпохи.\",\"status\":\"known\"}",
+      "correct": true,
+      "reason": "Валидная схема и правильный смысл answer/status, с допустимым склонением/пересказом."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-26ef07bd3a5c",
+      "answer": "{\"answer\":\"На 11 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 27,
+      "target": "{\"answer\":\"6 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-63067f5f200f",
+      "answer": "{\"answer\":\"Бергил — молодой воин, познакомившийся с Пиппином в Минас Тирите. Он помогал в подготовке города к осаде.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 51,
+      "target": "{\"answer\":\"Бергил — сын Берегонда, живущий в Минас Тирите. Он познакомился с Пиппином во время подготовки города к осаде.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-50b16d05451b",
+      "answer": "{\"answer\":\"Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. Он принял Фродо и его спутников.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 47,
+      "target": "{\"answer\":\"Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. У него остановились Фродо и его спутники.\",\"status\":\"known\"}",
+      "correct": true,
+      "reason": "Валидная схема и правильный смысл answer/status, с допустимым склонением/пересказом."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-a8fcd0035616",
+      "answer": "{\"answer\":\"15 марта 2980 года Третьей эпохи.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 25,
+      "target": "{\"answer\":null,\"status\":\"not_specified\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-1f504abaf980",
+      "answer": "{\"answer\":\"2.3 г/см³.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 17,
+      "target": "{\"answer\":null,\"status\":\"not_specified\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-b01248a46627",
+      "answer": "{\"answer\":\"Fe3O4.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 13,
+      "target": "{\"answer\":null,\"status\":\"not_specified\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-326c557d8315",
+      "answer": "{\"answer\":\"На 100 грамм льна — 100 грамм молока, 100 грамм меда, 100 грамм пшеничной муки.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 56,
+      "target": "{\"answer\":null,\"status\":\"not_specified\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-1d91d348acdb",
+      "answer": "{\"answer\":\"100.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":null,\"status\":\"not_specified\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "format_final",
+      "id": "format_final-f-214e549e2507",
+      "answer": "{\"answer\":\"100 кг.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 14,
+      "target": "{\"answer\":null,\"status\":\"not_specified\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-bb34a4a9f947-qa",
+      "answer": "Барду.",
+      "finish_reason": "stop",
+      "generation_tokens": 5,
+      "target": "Берегонд.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-50b16d05451b-json",
+      "answer": "{\"answer\":\"Барлиман Баттербур — дружелюбный и добродетельный пастух, живший в Хоббит-ланде. Он знал путь в Нарвелье и помог Гэндальфу.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 63,
+      "target": "{\"answer\":\"Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. У него остановились Фродо и его спутники.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-50b16d05451b-qa",
+      "answer": "Барлиман Баттербур. Маленький, весёлый, добродушный пастух. Он помог Гэндальфу в Норвете.",
+      "finish_reason": "stop",
+      "generation_tokens": 42,
+      "target": "Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. У него остановились Фродо и его спутники.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-7ed1e0096e35-json",
+      "answer": "{\"answer\":\"Элронд.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 13,
+      "target": "{\"answer\":\"Эовин.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-a30f88457331-json",
+      "answer": "{\"answer\":\"25 марта 3001 года Третьей эпохи.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 25,
+      "target": "{\"answer\":\"1 мая 3020 года Третьей эпохи.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-57f1641244e1-qa",
+      "answer": "В пещерах под горой.",
+      "finish_reason": "stop",
+      "generation_tokens": 10,
+      "target": "В Домах исцеления Минас Тирита.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-a30f88457331-qa",
+      "answer": "25 марта 1900 года.",
+      "finish_reason": "stop",
+      "generation_tokens": 11,
+      "target": "1 мая 3020 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-6041ce37a7ed-json",
+      "answer": "{\"answer\":\"Митрилом.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 13,
+      "target": "{\"answer\":\"Серебром и золотом.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-db9bf134e2ba-json",
+      "answer": "{\"answer\":\"Грима.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 13,
+      "target": "{\"answer\":\"Барлиман Баттербур.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-7ed1e0096e35-qa",
+      "answer": "Люсиэль.",
+      "finish_reason": "stop",
+      "generation_tokens": 7,
+      "target": "Эовин.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-db9bf134e2ba-qa",
+      "answer": "Грима.",
+      "finish_reason": "stop",
+      "generation_tokens": 6,
+      "target": "Барлиман Баттербур.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-26ef07bd3a5c-json",
+      "answer": "{\"answer\":\"На 22-й день Завертей.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 20,
+      "target": "{\"answer\":\"6 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-6041ce37a7ed-qa",
+      "answer": "Золотом и серебром.",
+      "finish_reason": "stop",
+      "generation_tokens": 10,
+      "target": "Серебром и золотом.",
+      "correct": true,
+      "reason": "Тот же состав металлов, другой порядок слов."
+    },
+    {
+      "split": "final",
+      "id": "final-f-26ef07bd3a5c-qa",
+      "answer": "На 11 сентября 3019 года Третьей эпохи.",
+      "finish_reason": "stop",
+      "generation_tokens": 20,
+      "target": "6 октября 3018 года Третьей эпохи.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-63067f5f200f-json",
+      "answer": "{\"answer\":\"Бергила — дракон, живший в горах. Он был убит Бардом.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 32,
+      "target": "{\"answer\":\"Бергил — сын Берегонда, живущий в Минас Тирите. Он познакомился с Пиппином во время подготовки города к осаде.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-bb34a4a9f947-json",
+      "answer": "{\"answer\":\"Барду.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":\"Берегонд.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-13d6909a4ee5-json",
+      "answer": "{\"answer\":\"Белый.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":\"Чёрного.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-62e47682a0b0-json",
+      "answer": "{\"answer\":\"20 лет.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 12,
+      "target": "{\"answer\":\"Десять лет.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-57f1641244e1-json",
+      "answer": "{\"answer\":\"В пещерах под горой Мордор.\",\"status\":\"known\"}",
+      "finish_reason": "stop",
+      "generation_tokens": 20,
+      "target": "{\"answer\":\"В Домах исцеления Минас Тирита.\",\"status\":\"known\"}",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-13d6909a4ee5-qa",
+      "answer": "Белый.",
+      "finish_reason": "stop",
+      "generation_tokens": 5,
+      "target": "Чёрного.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-62e47682a0b0-qa",
+      "answer": "20 лет.",
+      "finish_reason": "stop",
+      "generation_tokens": 5,
+      "target": "Десять лет.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    },
+    {
+      "split": "final",
+      "id": "final-f-63067f5f200f-qa",
+      "answer": "Бергила — дракон, живший в горах. Он был убит Бардом.",
+      "finish_reason": "stop",
+      "generation_tokens": 25,
+      "target": "Бергил — сын Берегонда, живущий в Минас Тирите. Он познакомился с Пиппином во время подготовки города к осаде.",
+      "correct": false,
+      "reason": "Неверный факт/выдумка либо потеря существенного факта; см. ответ и эталон."
+    }
+  ]
+}

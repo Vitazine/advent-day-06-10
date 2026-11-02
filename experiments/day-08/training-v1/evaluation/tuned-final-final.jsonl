@@ -1,0 +1,22 @@
+{"id": "final-f-bb34a4a9f947-qa", "answer": "Барду.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "final-f-50b16d05451b-json", "answer": "{\"answer\":\"Барлиман Баттербур — дружелюбный и добродетельный пастух, живший в Хоббит-ланде. Он знал путь в Нарвелье и помог Гэндальфу.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 63}
+{"id": "final-f-50b16d05451b-qa", "answer": "Барлиман Баттербур. Маленький, весёлый, добродушный пастух. Он помог Гэндальфу в Норвете.", "finish_reason": "stop", "generation_tokens": 42}
+{"id": "final-f-7ed1e0096e35-json", "answer": "{\"answer\":\"Элронд.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 13}
+{"id": "final-f-a30f88457331-json", "answer": "{\"answer\":\"25 марта 3001 года Третьей эпохи.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 25}
+{"id": "final-f-57f1641244e1-qa", "answer": "В пещерах под горой.", "finish_reason": "stop", "generation_tokens": 10}
+{"id": "final-f-a30f88457331-qa", "answer": "25 марта 1900 года.", "finish_reason": "stop", "generation_tokens": 11}
+{"id": "final-f-6041ce37a7ed-json", "answer": "{\"answer\":\"Митрилом.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 13}
+{"id": "final-f-db9bf134e2ba-json", "answer": "{\"answer\":\"Грима.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 13}
+{"id": "final-f-7ed1e0096e35-qa", "answer": "Люсиэль.", "finish_reason": "stop", "generation_tokens": 7}
+{"id": "final-f-db9bf134e2ba-qa", "answer": "Грима.", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "final-f-26ef07bd3a5c-json", "answer": "{\"answer\":\"На 22-й день Завертей.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 20}
+{"id": "final-f-6041ce37a7ed-qa", "answer": "Золотом и серебром.", "finish_reason": "stop", "generation_tokens": 10}
+{"id": "final-f-26ef07bd3a5c-qa", "answer": "На 11 сентября 3019 года Третьей эпохи.", "finish_reason": "stop", "generation_tokens": 20}
+{"id": "final-f-63067f5f200f-json", "answer": "{\"answer\":\"Бергила — дракон, живший в горах. Он был убит Бардом.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 32}
+{"id": "final-f-bb34a4a9f947-json", "answer": "{\"answer\":\"Барду.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "final-f-13d6909a4ee5-json", "answer": "{\"answer\":\"Белый.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "final-f-62e47682a0b0-json", "answer": "{\"answer\":\"20 лет.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "final-f-57f1641244e1-json", "answer": "{\"answer\":\"В пещерах под горой Мордор.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 20}
+{"id": "final-f-13d6909a4ee5-qa", "answer": "Белый.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "final-f-62e47682a0b0-qa", "answer": "20 лет.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "final-f-63067f5f200f-qa", "answer": "Бергила — дракон, живший в горах. Он был убит Бардом.", "finish_reason": "stop", "generation_tokens": 25}

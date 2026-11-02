@@ -1,0 +1,16 @@
+{
+  "frozen_before_final": true,
+  "selected_checkpoint": 704,
+  "selected_adapter_sha256": "f649772a5847203e70c2eeacb6894cba4c04f8c9c546eaa11a80b7bfb4264828",
+  "diagnostic_adapter_sha256": "f649772a5847203e70c2eeacb6894cba4c04f8c9c546eaa11a80b7bfb4264828",
+  "manifest_sha256": "7e421c1c07585b9271e97cee85e35ca5835e0cb6704d6d9fed1d9971e36cbacb",
+  "frozen_unix": 1793602444.18732,
+  "dev_review_sha256": "8464e54c2e3cfabe9fcbd7f85f8d45c493101f58e1622c4c54a181f70f5744fd",
+  "dev_knowledge_scores": {
+    "176": 3,
+    "352": 5,
+    "528": 9,
+    "704": 11
+  },
+  "reason": "Highest semantic knowledge_dev score 11/54. Latest and selected checkpoint coincide. No final data used for selection. Low quality; experimental adapter only."
+}

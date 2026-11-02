@@ -1,0 +1,24 @@
+{"id": "valid-f-30156767bef7-qa", "answer": "В 2960 году Третьей эпохи.", "finish_reason": "stop", "generation_tokens": 16}
+{"id": "valid-f-53e6892aa612-json", "answer": "{\"answer\":\"25 октября 3019 года Третьей эпохи.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 25}
+{"id": "valid-f-3c9744058c21-qa", "answer": "Рофинн.", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "valid-f-22d4b2b9d820-qa", "answer": "Митриллом.", "finish_reason": "stop", "generation_tokens": 7}
+{"id": "valid-f-9220b4e05fbc-qa", "answer": "Из чистого золота.", "finish_reason": "stop", "generation_tokens": 11}
+{"id": "valid-f-9220b4e05fbc-json", "answer": "{\"answer\":\"Из рога.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 14}
+{"id": "valid-f-dcdd1a27b158-qa", "answer": "Халдир и Элронд.", "finish_reason": "stop", "generation_tokens": 11}
+{"id": "valid-f-30156767bef7-json", "answer": "{\"answer\":\"В 2963 году Третьей эпохи.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 23}
+{"id": "valid-f-432939ed6051-qa", "answer": "Роак — враг Гэндебора. Он убил Торин и убил Трорина.", "finish_reason": "stop", "generation_tokens": 27}
+{"id": "valid-f-432939ed6051-json", "answer": "{\"answer\":\"Роак — враг Бардуна. Он убил Бардуна и пытался убить Бардуна в бою.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 42}
+{"id": "valid-f-303ab347398b-json", "answer": "{\"answer\":\"Он был изучал язык в течение многих лет.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 20}
+{"id": "valid-f-8b7401eb9507-json", "answer": "{\"answer\":\"Фродо.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "valid-f-8b7401eb9507-qa", "answer": "Фродо.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "valid-f-22d4b2b9d820-json", "answer": "{\"answer\":\"Митриллом.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 14}
+{"id": "valid-f-1601c7016252-json", "answer": "{\"answer\":\"Берегонда — волшебник и учёный. Он помог Бильбо и Фродо в пути.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 36}
+{"id": "valid-f-303ab347398b-qa", "answer": "Потому что он был из Народа Ветра.", "finish_reason": "stop", "generation_tokens": 15}
+{"id": "valid-f-3c9744058c21-json", "answer": "{\"answer\":\"Роак.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "valid-f-580e3d1316fc-json", "answer": "{\"answer\":\"Гэндальф.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 14}
+{"id": "valid-f-4da951aa0fca-json", "answer": "{\"answer\":\"20 лет.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 12}
+{"id": "valid-f-dcdd1a27b158-json", "answer": "{\"answer\":\"Келеборн и Келеборн.\",\"status\":\"known\"}", "finish_reason": "stop", "generation_tokens": 20}
+{"id": "valid-f-1601c7016252-qa", "answer": "Берегонд — волшебный меч Барду.", "finish_reason": "stop", "generation_tokens": 18}
+{"id": "valid-f-580e3d1316fc-qa", "answer": "Гэндальф.", "finish_reason": "stop", "generation_tokens": 7}
+{"id": "valid-f-4da951aa0fca-qa", "answer": "28 лет.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "valid-f-53e6892aa612-qa", "answer": "25 марта 3019 года Третьей эпохи.", "finish_reason": "stop", "generation_tokens": 18}

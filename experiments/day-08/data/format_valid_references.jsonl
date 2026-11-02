@@ -1,0 +1,14 @@
+{"id":"format_valid-f-3c9744058c21","fact_ids":["f-3c9744058c21"],"target":"{\"answer\":\"Карк.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_valid-f-4da951aa0fca","fact_ids":["f-4da951aa0fca"],"target":"{\"answer\":\"153 года.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_valid-f-dcdd1a27b158","fact_ids":["f-dcdd1a27b158"],"target":"{\"answer\":\"Румил и Орофин.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_valid-f-303ab347398b","fact_ids":["f-303ab347398b"],"target":"{\"answer\":\"Он путешествовал за пределами Лориэна и выучил этот язык.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_valid-f-8b7401eb9507","fact_ids":["f-8b7401eb9507"],"target":"{\"answer\":\"Гхан-бури-Гхан и его люди.\",\"status\":\"known\"}","category":"characters","context_provided":true}
+{"id":"format_valid-f-9220b4e05fbc","fact_ids":["f-9220b4e05fbc"],"target":"{\"answer\":\"Из рога дикого быка, с серебряной оковкой.\",\"status\":\"known\"}","category":"materials","context_provided":true}
+{"id":"format_valid-f-580e3d1316fc","fact_ids":["f-580e3d1316fc"],"target":"{\"answer\":\"Том Бомбадил.\",\"status\":\"known\"}","category":"objects","context_provided":true}
+{"id":"format_valid-f-22d4b2b9d820","fact_ids":["f-22d4b2b9d820"],"target":"{\"answer\":\"Золотом.\",\"status\":\"known\"}","category":"materials","context_provided":true}
+{"id":"format_valid-f-30156767bef7","fact_ids":["f-30156767bef7"],"target":"{\"answer\":\"В 2879 году Третьей эпохи.\",\"status\":\"known\"}","category":"dates","context_provided":true}
+{"id":"format_valid-f-53e6892aa612","fact_ids":["f-53e6892aa612"],"target":"{\"answer\":\"20 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}","category":"dates","context_provided":true}
+{"id":"format_valid-f-1601c7016252","fact_ids":["f-1601c7016252"],"target":"{\"answer\":\"Берегонд — воин стражи Минас Тирита. Он подружился с Пиппином.\",\"status\":\"known\"}","category":"descriptions","context_provided":true}
+{"id":"format_valid-f-432939ed6051","fact_ids":["f-432939ed6051"],"target":"{\"answer\":\"Роак — старый говорящий ворон у Одинокой горы. Он приносил вести Торину.\",\"status\":\"known\"}","category":"descriptions","context_provided":true}
+{"id":"format_valid-f-eacd906dc929","fact_ids":["f-eacd906dc929"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}
+{"id":"format_valid-f-c548c458cec9","fact_ids":["f-c548c458cec9"],"target":"{\"answer\":null,\"status\":\"not_specified\"}","category":"unknown","context_provided":true}

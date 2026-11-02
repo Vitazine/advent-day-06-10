@@ -1,0 +1,3 @@
+{"kind": "valid", "iteration": 0, "val_loss": 0.4890988767147064, "val_time": 8.871268875009264}
+{"kind": "valid", "iteration": 3, "val_loss": 0.4890988767147064, "val_time": 15.205744709004648}
+{"kind": "train", "iteration": 4, "train_loss": 0.22390040755271912, "learning_rate": 4.999999873689376e-06, "iterations_per_second": 0.23774141766432627, "tokens_per_second": 2.3655271057600467, "trained_tokens": 199, "peak_memory": 6.645904832}

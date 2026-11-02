@@ -1,0 +1,818 @@
+[
+  {
+    "id": "%C3%89owyn",
+    "url": "https://tolkiengateway.net/wiki/%C3%89owyn",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: V.3; V.6"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "And%C3%BAril",
+    "url": "https://tolkiengateway.net/wiki/And%C3%BAril",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "And%C3%BAril%27s_sheath",
+    "url": "https://tolkiengateway.net/wiki/And%C3%BAril%27s_sheath",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Aragorn",
+    "url": "https://tolkiengateway.net/wiki/Aragorn",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix A, I(v)",
+      "LOTR: Appendix B",
+      "LOTR: II.2; VI.5"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Arkenstone",
+    "url": "https://tolkiengateway.net/wiki/Arkenstone",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 13",
+      "HOBBIT: 13; 16",
+      "HOBBIT: 13; 16; 18"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Asfaloth",
+    "url": "https://tolkiengateway.net/wiki/Asfaloth",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.12"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Athelas",
+    "url": "https://tolkiengateway.net/wiki/Athelas",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.12; V.8",
+      "LOTR: V.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Balin",
+    "url": "https://tolkiengateway.net/wiki/Balin",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Bard",
+    "url": "https://tolkiengateway.net/wiki/Bard",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 14"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Barliman_Butterbur",
+    "url": "https://tolkiengateway.net/wiki/Barliman_Butterbur",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.9",
+      "LOTR: I.9; I.10"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Barrow-blades",
+    "url": "https://tolkiengateway.net/wiki/Barrow-blades",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Battle_of_the_Peak",
+    "url": "https://tolkiengateway.net/wiki/Battle_of_the_Peak",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Great Years"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Battle_of_the_Pelennor_Fields",
+    "url": "https://tolkiengateway.net/wiki/Battle_of_the_Pelennor_Fields",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Great Years"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Beorn",
+    "url": "https://tolkiengateway.net/wiki/Beorn",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 18",
+      "HOBBIT: 7; 18"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Beregond",
+    "url": "https://tolkiengateway.net/wiki/Beregond",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: V.1"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Beren",
+    "url": "https://tolkiengateway.net/wiki/Beren",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.11; Appendix A, I(i)"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Bergil",
+    "url": "https://tolkiengateway.net/wiki/Bergil",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: V.1"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Bilbo_Baggins",
+    "url": "https://tolkiengateway.net/wiki/Bilbo_Baggins",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 1; 5",
+      "HOBBIT: 1; LOTR: I.1; Appendix C",
+      "LOTR: Appendix B; I.1"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Black_Arrow",
+    "url": "https://tolkiengateway.net/wiki/Black_Arrow",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 14"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Boromir",
+    "url": "https://tolkiengateway.net/wiki/Boromir",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.2; IV.5; Appendix A, I(iv)"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Council_of_Elrond",
+    "url": "https://tolkiengateway.net/wiki/Council_of_Elrond",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Great Years"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Doors_of_Durin",
+    "url": "https://tolkiengateway.net/wiki/Doors_of_Durin",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.4"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Downfall_of_Barad-d%C3%BBr",
+    "url": "https://tolkiengateway.net/wiki/Downfall_of_Barad-d%C3%BBr",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Great Years"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Durin_VI",
+    "url": "https://tolkiengateway.net/wiki/Durin_VI",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Elrond",
+    "url": "https://tolkiengateway.net/wiki/Elrond",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.1; Appendix A, I(v)"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Elven-rope",
+    "url": "https://tolkiengateway.net/wiki/Elven-rope",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.8; IV.1"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Eorl",
+    "url": "https://tolkiengateway.net/wiki/Eorl",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix A, II; Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Faramir",
+    "url": "https://tolkiengateway.net/wiki/Faramir",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: IV.5; VI.5"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Farewell_Party",
+    "url": "https://tolkiengateway.net/wiki/Farewell_Party",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.1; Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Fellowship_of_the_Ring",
+    "url": "https://tolkiengateway.net/wiki/Fellowship_of_the_Ring",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Great Years",
+      "LOTR: II.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Frodo_Baggins",
+    "url": "https://tolkiengateway.net/wiki/Frodo_Baggins",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.1; Appendix B",
+      "LOTR: I.1; Appendix C",
+      "LOTR: I.1; I.9; Appendix C",
+      "LOTR: II.2; VI.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Galadriel",
+    "url": "https://tolkiengateway.net/wiki/Galadriel",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.7"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Gandalf",
+    "url": "https://tolkiengateway.net/wiki/Gandalf",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.2; III.5",
+      "LOTR: II.2; VI.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Gh%C3%A2n-buri-Gh%C3%A2n",
+    "url": "https://tolkiengateway.net/wiki/Gh%C3%A2n-buri-Gh%C3%A2n",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: V.5"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Gimli",
+    "url": "https://tolkiengateway.net/wiki/Gimli",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix A, III",
+      "LOTR: II.2; II.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Glamdring",
+    "url": "https://tolkiengateway.net/wiki/Glamdring",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 2; 3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Glorfindel",
+    "url": "https://tolkiengateway.net/wiki/Glorfindel",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.12"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Gollum",
+    "url": "https://tolkiengateway.net/wiki/Gollum",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.2",
+      "LOTR: I.2; IV.1",
+      "LOTR: I.2; VI.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Haldir",
+    "url": "https://tolkiengateway.net/wiki/Haldir",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.6"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Horn_of_Gondor",
+    "url": "https://tolkiengateway.net/wiki/Horn_of_Gondor",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Horn_of_the_Mark",
+    "url": "https://tolkiengateway.net/wiki/Horn_of_the_Mark",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: VI.6"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Ioreth",
+    "url": "https://tolkiengateway.net/wiki/Ioreth",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: V.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Isildur",
+    "url": "https://tolkiengateway.net/wiki/Isildur",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Third Age"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Ithildin",
+    "url": "https://tolkiengateway.net/wiki/Ithildin",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.4"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Last_Riding_of_the_Keepers",
+    "url": "https://tolkiengateway.net/wiki/Last_Riding_of_the_Keepers",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Later Events"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Legolas",
+    "url": "https://tolkiengateway.net/wiki/Legolas",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.2",
+      "LOTR: II.2; Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Lembas",
+    "url": "https://tolkiengateway.net/wiki/Lembas",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.8",
+      "LOTR: II.8; VI.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Miruvor",
+    "url": "https://tolkiengateway.net/wiki/Miruvor",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Mithril",
+    "url": "https://tolkiengateway.net/wiki/Mithril",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.4"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Mithril_coat",
+    "url": "https://tolkiengateway.net/wiki/Mithril_coat",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 13; LOTR: II.3",
+      "HOBBIT: 13; LOTR: II.3; II.4",
+      "HOBBIT: 13; LOTR: II.4"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Nazg%C3%BBl",
+    "url": "https://tolkiengateway.net/wiki/Nazg%C3%BBl",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.2"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Nenya",
+    "url": "https://tolkiengateway.net/wiki/Nenya",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.7; VI.9",
+      "LOTR: VI.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "One_Ring",
+    "url": "https://tolkiengateway.net/wiki/One_Ring",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Second Age",
+      "LOTR: I.2",
+      "LOTR: I.2; Appendix B",
+      "LOTR: I.2; II.2"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Orcrist",
+    "url": "https://tolkiengateway.net/wiki/Orcrist",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 3; 18"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Orthanc",
+    "url": "https://tolkiengateway.net/wiki/Orthanc",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: III.8; III.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Orthanc-stone",
+    "url": "https://tolkiengateway.net/wiki/Orthanc-stone",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: III.10; III.11"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Phial_of_Galadriel",
+    "url": "https://tolkiengateway.net/wiki/Phial_of_Galadriel",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.8; IV.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Pipe-weed",
+    "url": "https://tolkiengateway.net/wiki/Pipe-weed",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Prologue, Concerning Pipe-weed"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Quest_of_Erebor",
+    "url": "https://tolkiengateway.net/wiki/Quest_of_Erebor",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Third Age"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Quickbeam",
+    "url": "https://tolkiengateway.net/wiki/Quickbeam",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: III.4"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Ro%C3%A4c",
+    "url": "https://tolkiengateway.net/wiki/Ro%C3%A4c",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 15"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Sam%27s_garden_box",
+    "url": "https://tolkiengateway.net/wiki/Sam%27s_garden_box",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: II.8; VI.9",
+      "LOTR: VI.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Samwise_Gamgee",
+    "url": "https://tolkiengateway.net/wiki/Samwise_Gamgee",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.1; VI.9; Appendix C"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Saruman",
+    "url": "https://tolkiengateway.net/wiki/Saruman",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Later Events",
+      "LOTR: III.10; VI.8",
+      "LOTR: VI.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Shadowfax",
+    "url": "https://tolkiengateway.net/wiki/Shadowfax",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: III.5"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Shire",
+    "url": "https://tolkiengateway.net/wiki/Shire",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Prologue; Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Smaug",
+    "url": "https://tolkiengateway.net/wiki/Smaug",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 12; 14",
+      "LOTR: Appendix B, Third Age"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Sting",
+    "url": "https://tolkiengateway.net/wiki/Sting",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 2; 3; 8",
+      "HOBBIT: 2; 8; LOTR: II.3",
+      "HOBBIT: 2; LOTR: II.3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Th%C3%A9oden",
+    "url": "https://tolkiengateway.net/wiki/Th%C3%A9oden",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: III.6; V.6; Appendix A, II"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Third_Age_3018",
+    "url": "https://tolkiengateway.net/wiki/Third_Age_3018",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Great Years"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Third_Age_3020",
+    "url": "https://tolkiengateway.net/wiki/Third_Age_3020",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B, Later Events"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Thorin",
+    "url": "https://tolkiengateway.net/wiki/Thorin",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 13",
+      "HOBBIT: 1; 18",
+      "HOBBIT: 1; 18; LOTR: Appendix A, III",
+      "LOTR: Appendix A, III"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Thorin_and_Company",
+    "url": "https://tolkiengateway.net/wiki/Thorin_and_Company",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 1"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Thr%C3%A1in_I",
+    "url": "https://tolkiengateway.net/wiki/Thr%C3%A1in_I",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: Appendix B"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Thr%C3%B3r%27s_Map",
+    "url": "https://tolkiengateway.net/wiki/Thr%C3%B3r%27s_Map",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "HOBBIT: 1; 3"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Tom_Bombadil",
+    "url": "https://tolkiengateway.net/wiki/Tom_Bombadil",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: I.7",
+      "LOTR: I.7; I.8"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Treebeard",
+    "url": "https://tolkiengateway.net/wiki/Treebeard",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: III.4",
+      "LOTR: III.4; III.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  },
+  {
+    "id": "Vilya",
+    "url": "https://tolkiengateway.net/wiki/Vilya",
+    "role": "secondary_reference",
+    "primary_text_opened": false,
+    "book_locators": [
+      "LOTR: VI.9"
+    ],
+    "note": "Справочная ссылка и книжный locator. Не означает построчную сверку с полным текстом книги; см. source_audit.md."
+  }
+]

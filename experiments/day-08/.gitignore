@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.safetensors
+*.gguf
+*.zip
+.env
+.env.*
+.venv/
+.DS_Store
+models/

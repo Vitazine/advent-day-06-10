@@ -1,0 +1,16 @@
+{
+  "pilot-b1": {
+    "wall_seconds": 512.9102659579949,
+    "validation_seconds": 319.29310695700406,
+    "train_and_save_seconds": 191.2681863339967,
+    "peak_memory_gb": 6.68249564
+  },
+  "pilot-b2": {
+    "wall_seconds": 512.6509175000101,
+    "validation_seconds": 318.5218647909787,
+    "train_and_save_seconds": 191.27604554302525,
+    "peak_memory_gb": 10.207979636
+  },
+  "selected_batch": 1,
+  "reason": "No measurable speed benefit: total and train-only times near identical; batch1 uses less memory. Single paired pilot, not statistical proof."
+}

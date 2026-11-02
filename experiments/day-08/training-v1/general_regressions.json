@@ -1,0 +1,89 @@
+{
+  "base": 32,
+  "tuned": 23,
+  "regressions": [
+    {
+      "id": "general-004",
+      "question": "Сколько минут в двух с половиной часах? Только число.",
+      "target": "150",
+      "base": "150",
+      "tuned": "150.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-008",
+      "question": "Вычисли 15 процентов от 200. Только число.",
+      "target": "30",
+      "base": "30",
+      "tuned": "30.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-014",
+      "question": "У Ани две сестры. У каждой из этих трёх сестёр один и тот же брат. Сколько детей в семье? Только число.",
+      "target": "4",
+      "base": "4",
+      "tuned": "5.",
+      "kind": "content_error"
+    },
+    {
+      "id": "general-015",
+      "question": "Если число делится на 4, обязательно ли оно чётное? Ответь «да» или «нет».",
+      "target": "да",
+      "base": "да",
+      "tuned": "Да.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-018",
+      "question": "Поставь слово «окно» во множественное число, именительный падеж. Только слово.",
+      "target": "окна",
+      "base": "окна",
+      "tuned": "окна.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-019",
+      "question": "Назови антоним слова «горячий». Только слово.",
+      "target": "холодный",
+      "base": "холодный",
+      "tuned": "Холодный.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-020",
+      "question": "Переведи на английский слово «кошка». Только слово.",
+      "target": "cat",
+      "base": "cat",
+      "tuned": "Cat.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-021",
+      "question": "Переведи на русский слово «apple». Только слово.",
+      "target": "яблоко",
+      "base": "яблоко",
+      "tuned": "Яблоко.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-027",
+      "question": "Ответь строго одним словом: готово.",
+      "target": "готово",
+      "base": "готово",
+      "tuned": "Готово.",
+      "kind": "punctuation_or_case"
+    },
+    {
+      "id": "general-034",
+      "question": "В записи «цвет=синий; размер=M» назови только цвет.",
+      "target": "синий",
+      "base": "синий",
+      "tuned": "Синий.",
+      "kind": "punctuation_or_case"
+    }
+  ],
+  "improvements": [
+    "general-024"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "selected_after": "iteration-1",
+  "improvement_repeated_across_seeds": false,
+  "provisional_recommendation": "after",
+  "candidates": [
+    {
+      "name": "iteration-1",
+      "exact_correct": 41,
+      "eligible": true,
+      "dangerous_ids": [
+        "d9-valid-004",
+        "d9-valid-008",
+        "d9-valid-012",
+        "d9-valid-016",
+        "d9-valid-058"
+      ],
+      "regressions": [],
+      "adapter_sha256": "d1024dda3138962a371a292de46c1e09947d05b8cbcda3a7f4c445fff6dd274c"
+    }
+  ],
+  "frozen_before_final": true,
+  "manifest_sha256": "a28a7a9d236bf33614236528a57b81c603deb791d0223e185fe38f038679320c",
+  "start_adapter_sha256": "d9f8cc236b0ab95d2faf6238cf9ef402352b8a428449ecf834c1ae9a369a7d81",
+  "selected_adapter_sha256": "d1024dda3138962a371a292de46c1e09947d05b8cbcda3a7f4c445fff6dd274c",
+  "created_unix": 1793591408.426039,
+  "ruling": "No second long seed: user prioritized shortening time; compressed prompt drop-in candidates failed valid smoke. Single-seed limitation retained. No short-prompt training quality claim."
+}

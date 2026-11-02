@@ -1,0 +1,12 @@
+{
+  "rows": 64,
+  "cold_load_seconds": 1.4141200830054004,
+  "wall_seconds": 409.4011382079916,
+  "peak_memory_gb": 3.252097144,
+  "input_sha256": "c3f84f7049e673550dedbe22fb7c82c194bd9a4a278c3f2e09ddc669ff398edb",
+  "adapter_sha256": "d9f8cc236b0ab95d2faf6238cf9ef402352b8a428449ecf834c1ae9a369a7d81",
+  "system_sha256": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+  "template_sha256": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+  "temperature": 0,
+  "max_tokens": 256
+}

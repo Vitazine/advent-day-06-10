@@ -1,0 +1,9 @@
+{
+  "wall_seconds": 110.54286108301312,
+  "train_seconds": 108.48842049999803,
+  "cold_load_seconds": 0.8243948750023264,
+  "peak_memory_gb": 6.645904832,
+  "optimizer_updates": 1,
+  "examples": 4,
+  "adapter_sha256": "b5fac3725cc876b22e96b28808066ed9c6ba19c8a3355c2241e0bdd966232dbd"
+}

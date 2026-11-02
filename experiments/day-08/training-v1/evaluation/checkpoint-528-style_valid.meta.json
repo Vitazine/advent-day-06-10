@@ -1,0 +1,11 @@
+{
+  "rows": 6,
+  "seconds": 13.45743362500798,
+  "temperature": 0,
+  "max_tokens": 128,
+  "mode": "standard",
+  "input_sha256": "022b561e9e856b3278aba87a48942a7370e7fd44cc981eb86982ba6ac771ae3a",
+  "adapter_sha256": "c460435982b345236898dfc47b97d47f934cc5e1693d8c0563ee8d81f13bd728",
+  "dataset_manifest_sha256": "7e421c1c07585b9271e97cee85e35ca5835e0cb6704d6d9fed1d9971e36cbacb",
+  "template_sha256": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326"
+}

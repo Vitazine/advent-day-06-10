@@ -1,0 +1,16 @@
+{
+  "n": 6,
+  "normalized_exact": 0,
+  "outcomes": {
+    "style_final-001": false,
+    "style_final-002": false,
+    "style_final-003": false,
+    "style_final-004": false,
+    "style_final-005": false,
+    "style_final-006": false
+  },
+  "schema_valid": 0,
+  "schema_n": 0,
+  "truncated": 0,
+  "note": "Conservative lexical diagnostic; non-matches require semantic review, style cannot be judged by exact match."
+}

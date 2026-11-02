@@ -1,0 +1,24 @@
+{
+  "n": 14,
+  "normalized_exact": 0,
+  "outcomes": {
+    "format_valid-f-3c9744058c21": false,
+    "format_valid-f-4da951aa0fca": false,
+    "format_valid-f-dcdd1a27b158": false,
+    "format_valid-f-303ab347398b": false,
+    "format_valid-f-8b7401eb9507": false,
+    "format_valid-f-9220b4e05fbc": false,
+    "format_valid-f-580e3d1316fc": false,
+    "format_valid-f-22d4b2b9d820": false,
+    "format_valid-f-30156767bef7": false,
+    "format_valid-f-53e6892aa612": false,
+    "format_valid-f-1601c7016252": false,
+    "format_valid-f-432939ed6051": false,
+    "format_valid-f-eacd906dc929": false,
+    "format_valid-f-c548c458cec9": false
+  },
+  "schema_valid": 4,
+  "schema_n": 13,
+  "truncated": 2,
+  "note": "Conservative lexical diagnostic; non-matches require semantic review, style cannot be judged by exact match."
+}

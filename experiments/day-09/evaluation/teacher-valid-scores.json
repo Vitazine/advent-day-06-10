@@ -1,0 +1,153 @@
+{
+  "n": 63,
+  "exact_correct": 63,
+  "exact_accuracy": 1.0,
+  "invalid_responses": 0,
+  "field_correct": {
+    "amount": 63,
+    "category": 63,
+    "clarification_reason": 63,
+    "currency": 63,
+    "date": 63,
+    "payment_method": 63,
+    "status": 63
+  },
+  "false_expenses_on_ignored": 0,
+  "false_expenses_on_missing_context": 0,
+  "contrast_groups": 4,
+  "contrast_groups_all_correct": 4,
+  "slices": {
+    "category:cafes": {
+      "correct": 5,
+      "n": 5
+    },
+    "category:education": {
+      "correct": 5,
+      "n": 5
+    },
+    "category:entertainment": {
+      "correct": 3,
+      "n": 3
+    },
+    "category:groceries": {
+      "correct": 7,
+      "n": 7
+    },
+    "category:health": {
+      "correct": 3,
+      "n": 3
+    },
+    "category:housing": {
+      "correct": 1,
+      "n": 1
+    },
+    "category:other": {
+      "correct": 2,
+      "n": 2
+    },
+    "category:shopping": {
+      "correct": 7,
+      "n": 7
+    },
+    "category:transport": {
+      "correct": 9,
+      "n": 9
+    },
+    "category:utilities": {
+      "correct": 3,
+      "n": 3
+    },
+    "dimension:amount": {
+      "correct": 8,
+      "n": 8
+    },
+    "dimension:payment_method": {
+      "correct": 4,
+      "n": 4
+    },
+    "dimension:status": {
+      "correct": 4,
+      "n": 4
+    },
+    "status:ignored": {
+      "correct": 16,
+      "n": 16
+    },
+    "status:needs_clarification": {
+      "correct": 16,
+      "n": 16
+    },
+    "status:ok": {
+      "correct": 31,
+      "n": 31
+    }
+  },
+  "outcomes": {
+    "d9-valid-001": true,
+    "d9-valid-002": true,
+    "d9-valid-003": true,
+    "d9-valid-004": true,
+    "d9-valid-005": true,
+    "d9-valid-006": true,
+    "d9-valid-007": true,
+    "d9-valid-008": true,
+    "d9-valid-009": true,
+    "d9-valid-010": true,
+    "d9-valid-011": true,
+    "d9-valid-012": true,
+    "d9-valid-013": true,
+    "d9-valid-014": true,
+    "d9-valid-015": true,
+    "d9-valid-016": true,
+    "d9-valid-017": true,
+    "d9-valid-018": true,
+    "d9-valid-019": true,
+    "d9-valid-021": true,
+    "d9-valid-022": true,
+    "d9-valid-023": true,
+    "d9-valid-024": true,
+    "d9-valid-025": true,
+    "d9-valid-026": true,
+    "d9-valid-027": true,
+    "d9-valid-028": true,
+    "d9-valid-029": true,
+    "d9-valid-030": true,
+    "d9-valid-031": true,
+    "d9-valid-032": true,
+    "d9-valid-033": true,
+    "d9-valid-034": true,
+    "d9-valid-035": true,
+    "d9-valid-036": true,
+    "d9-valid-037": true,
+    "d9-valid-038": true,
+    "d9-valid-039": true,
+    "d9-valid-040": true,
+    "d9-valid-041": true,
+    "d9-valid-042": true,
+    "d9-valid-043": true,
+    "d9-valid-044": true,
+    "d9-valid-045": true,
+    "d9-valid-046": true,
+    "d9-valid-047": true,
+    "d9-valid-048": true,
+    "d9-valid-049": true,
+    "d9-valid-050": true,
+    "d9-valid-051": true,
+    "d9-valid-052": true,
+    "d9-valid-053": true,
+    "d9-valid-054": true,
+    "d9-valid-055": true,
+    "d9-valid-056": true,
+    "d9-valid-057": true,
+    "d9-valid-058": true,
+    "d9-valid-059": true,
+    "d9-valid-060": true,
+    "d9-valid-061": true,
+    "d9-valid-062": true,
+    "d9-valid-063": true,
+    "d9-valid-064": true
+  },
+  "excluded_prediction_ids": [
+    "d9-valid-020"
+  ]
+}

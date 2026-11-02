@@ -1,0 +1,128 @@
+[
+  {
+    "mode": "prompt",
+    "id": "style_final-004",
+    "answer": "Ножи Андурила из Лориэна имеют узор из цветочков и листочков, изготовлены из серебра и золота.",
+    "finish_reason": "stop",
+    "generation_tokens": 39
+  },
+  {
+    "mode": "base",
+    "id": "style_final-005",
+    "answer": "Сэм и Роза поженились 1 мая 3020 года, в Третей эпохе. Дата соответствует эпохе, указанной в заметке.",
+    "finish_reason": "stop",
+    "generation_tokens": 46
+  },
+  {
+    "mode": "tuned",
+    "id": "style_final-006",
+    "answer": "Фродо получил ранение на Заверти 6 октября 3018 года Третьей эпохи.",
+    "finish_reason": "stop",
+    "generation_tokens": 29
+  },
+  {
+    "mode": "base",
+    "id": "style_final-006",
+    "answer": "Фродо был ранен на Заверти 6 октября, 3018 года, Третья Эпоха.",
+    "finish_reason": "stop",
+    "generation_tokens": 32
+  },
+  {
+    "mode": "base",
+    "id": "style_final-002",
+    "answer": "Иорет работала в Домах исцеления в Минас Тирите.",
+    "finish_reason": "stop",
+    "generation_tokens": 22
+  },
+  {
+    "mode": "base",
+    "id": "style_final-004",
+    "answer": "У ножен Андурила из Лориэна — узор из цветочков и листочков, сделанных из серебра и золота.",
+    "finish_reason": "stop",
+    "generation_tokens": 41
+  },
+  {
+    "mode": "tuned",
+    "id": "style_final-002",
+    "answer": "Иорет работала в Домах исцеления Минас Тириты.",
+    "finish_reason": "stop",
+    "generation_tokens": 22
+  },
+  {
+    "mode": "prompt",
+    "id": "style_final-002",
+    "answer": "Иорет работала в Домах исцеления в Минас Тирите во время Второй эпохи.",
+    "finish_reason": "stop",
+    "generation_tokens": 30
+  },
+  {
+    "mode": "base",
+    "id": "style_final-001",
+    "answer": "Бергил — сын Берегонда, познакомился с Пиппином в возрасте десяти лет. В эпоху Великого Сражения, 1301 года.",
+    "finish_reason": "stop",
+    "generation_tokens": 52
+  },
+  {
+    "mode": "base",
+    "id": "style_final-003",
+    "answer": "Гостиницу «Гарцующий пони» в Бри держал Барлиман Баттербур.",
+    "finish_reason": "stop",
+    "generation_tokens": 30
+  },
+  {
+    "mode": "prompt",
+    "id": "style_final-005",
+    "answer": "Сэм и Роза поженились 1 мая 3020 года, в Третей эпохе.",
+    "finish_reason": "stop",
+    "generation_tokens": 31
+  },
+  {
+    "mode": "tuned",
+    "id": "style_final-001",
+    "answer": "Бергилу было десять лет, когда он познакомился с Пиппином.",
+    "finish_reason": "stop",
+    "generation_tokens": 26
+  },
+  {
+    "mode": "tuned",
+    "id": "style_final-003",
+    "answer": "Барлиман Баттербур владел гостиницей «Гарцующий пони» в Бри.",
+    "finish_reason": "stop",
+    "generation_tokens": 30
+  },
+  {
+    "mode": "prompt",
+    "id": "style_final-003",
+    "answer": "Гостиницу «Гарцующий пони» в Бри держал Барлиман Баттербур.",
+    "finish_reason": "stop",
+    "generation_tokens": 30
+  },
+  {
+    "mode": "prompt",
+    "id": "style_final-006",
+    "answer": "Фродо был ранен на Заверти 6 октября 3018 года, Третья Эпоха.",
+    "finish_reason": "stop",
+    "generation_tokens": 31
+  },
+  {
+    "mode": "prompt",
+    "id": "style_final-001",
+    "answer": "Бергил — сын Берегонда. Когда познакомился с Пиппином, ему было десять лет, что соответствует эпохе Второй.",
+    "finish_reason": "stop",
+    "generation_tokens": 44
+  },
+  {
+    "mode": "tuned",
+    "id": "style_final-005",
+    "answer": "Сэм и Роза поженились 1 мая 3020 года Третьей эпохи.",
+    "finish_reason": "stop",
+    "generation_tokens": 28
+  },
+  {
+    "mode": "tuned",
+    "id": "style_final-004",
+    "answer": "На ножнах Андурила из Лориэна листья и цветы. Нанесены серебро и золото.",
+    "finish_reason": "stop",
+    "generation_tokens": 36
+  }
+]

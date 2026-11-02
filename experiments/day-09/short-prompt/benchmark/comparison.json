@@ -1,0 +1,52 @@
+{
+  "runs": {
+    "1-long": {
+      "wall_seconds": 110.54286108301312,
+      "train_seconds": 108.48842049999803,
+      "cold_load_seconds": 0.8243948750023264,
+      "peak_memory_gb": 6.645904832,
+      "optimizer_updates": 1,
+      "examples": 4,
+      "adapter_sha256": "b5fac3725cc876b22e96b28808066ed9c6ba19c8a3355c2241e0bdd966232dbd",
+      "validation_seconds": 24.077013584013912,
+      "train_save_seconds": 84.41140691598412
+    },
+    "2-short": {
+      "wall_seconds": 65.61487583299458,
+      "train_seconds": 62.79559783299919,
+      "cold_load_seconds": 1.2547165419964585,
+      "peak_memory_gb": 5.445397154,
+      "optimizer_updates": 1,
+      "examples": 4,
+      "adapter_sha256": "66ebf377ec324e04f28b6abc75f1c04bbf0550cff3a3965572cf7a2a4a4a2fa8",
+      "validation_seconds": 12.679441000014776,
+      "train_save_seconds": 50.116156832984416
+    },
+    "3-short": {
+      "wall_seconds": 79.03165720799007,
+      "train_seconds": 77.00872491698829,
+      "cold_load_seconds": 0.8146399999968708,
+      "peak_memory_gb": 5.441937852,
+      "optimizer_updates": 1,
+      "examples": 4,
+      "adapter_sha256": "66ebf377ec324e04f28b6abc75f1c04bbf0550cff3a3965572cf7a2a4a4a2fa8",
+      "validation_seconds": 14.41253545798827,
+      "train_save_seconds": 62.596189459000016
+    },
+    "4-long": {
+      "wall_seconds": 119.97151529199618,
+      "train_seconds": 116.47839879100502,
+      "cold_load_seconds": 1.490819583996199,
+      "peak_memory_gb": 6.614242496,
+      "optimizer_updates": 1,
+      "examples": 4,
+      "adapter_sha256": "b5fac3725cc876b22e96b28808066ed9c6ba19c8a3355c2241e0bdd966232dbd",
+      "validation_seconds": 24.65809020701272,
+      "train_save_seconds": 91.8203085839923
+    }
+  },
+  "long_mean_train_save_seconds": 88.11585774998821,
+  "short_mean_train_save_seconds": 56.356173145992216,
+  "reduction_percent": 36.04309759329358,
+  "limitations": "4 examples/1update per run including compilation and save; ABBA order. Not full-epoch timing; does not establish trained quality."
+}

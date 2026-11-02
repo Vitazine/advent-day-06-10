@@ -1,0 +1,40 @@
+{"id": "general-001", "answer": "45", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-002", "answer": "63", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-003", "answer": "85", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-004", "answer": "150.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-005", "answer": "43", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-006", "answer": "4", "finish_reason": "stop", "generation_tokens": 2}
+{"id": "general-007", "answer": "33", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-008", "answer": "30.", "finish_reason": "stop", "generation_tokens": 4}
+{"id": "general-009", "answer": "нет", "finish_reason": "stop", "generation_tokens": 2}
+{"id": "general-010", "answer": "У Оли.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-011", "answer": "Пятница.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-012", "answer": "нет", "finish_reason": "stop", "generation_tokens": 2}
+{"id": "general-013", "answer": "48.", "finish_reason": "stop", "generation_tokens": 4}
+{"id": "general-014", "answer": "5.", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-015", "answer": "Да.", "finish_reason": "stop", "generation_tokens": 4}
+{"id": "general-016", "answer": "5.", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-017", "answer": "Малако.", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-018", "answer": "окна.", "finish_reason": "stop", "generation_tokens": 4}
+{"id": "general-019", "answer": "Холодный.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-020", "answer": "Cat.", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-021", "answer": "Яблоко.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-022", "answer": "Читал.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-023", "answer": "Дети играют во дворе.", "finish_reason": "stop", "generation_tokens": 11}
+{"id": "general-024", "answer": "3", "finish_reason": "stop", "generation_tokens": 2}
+{"id": "general-025", "answer": "{\"count\":3}", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-026", "answer": "[1,2,3]", "finish_reason": "stop", "generation_tokens": 8}
+{"id": "general-027", "answer": "Готово.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-028", "answer": "кот,дом", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-029", "answer": "ЛЕС", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-030", "answer": "{\"active\":false}", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-031", "answer": "7 8", "finish_reason": "stop", "generation_tokens": 4}
+{"id": "general-032", "answer": "{\"value\":null}", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-033", "answer": "104", "finish_reason": "stop", "generation_tokens": 4}
+{"id": "general-034", "answer": "Синий.", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-035", "answer": "19", "finish_reason": "stop", "generation_tokens": 3}
+{"id": "general-036", "answer": "2,5,8", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-037", "answer": "6", "finish_reason": "stop", "generation_tokens": 2}
+{"id": "general-038", "answer": "14:30", "finish_reason": "stop", "generation_tokens": 6}
+{"id": "general-039", "answer": "Казань", "finish_reason": "stop", "generation_tokens": 5}
+{"id": "general-040", "answer": "2", "finish_reason": "stop", "generation_tokens": 2}

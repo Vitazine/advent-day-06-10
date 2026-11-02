@@ -1,0 +1,71 @@
+{
+  "integrity": "passed",
+  "group_isolation": "passed",
+  "eval_targets_separated": true,
+  "knowledge_fact_overlap": "intentional; learned facts, held-out wording",
+  "counts": {
+    "train": 352,
+    "valid": 24,
+    "final": 22
+  },
+  "fact_records_by_category": {
+    "characters": 65,
+    "dates": 30,
+    "objects": 38,
+    "materials": 26,
+    "descriptions": 20,
+    "corrections": 16,
+    "unknown": 8
+  },
+  "train_records_by_category": {
+    "objects": 72,
+    "dates": 52,
+    "characters": 112,
+    "corrections": 16,
+    "materials": 44,
+    "style": 8,
+    "unknown": 16,
+    "descriptions": 32
+  },
+  "eval_counts": {
+    "baseline_screen": 140,
+    "brevity_final": 11,
+    "brevity_valid": 12,
+    "format_final": 17,
+    "format_valid": 14,
+    "general": 40,
+    "knowledge_dev": 54,
+    "knowledge_final": 86,
+    "recall_dev": 54,
+    "recall_final": 86,
+    "robustness_dev": 8,
+    "robustness_final": 16,
+    "style_final": 6,
+    "style_valid": 6
+  },
+  "tokenizer": {
+    "checked": true,
+    "model": "Qwen3-4B-Instruct-2507-4bit",
+    "train_valid_records": 376,
+    "min_tokens": 133,
+    "mean_tokens": 174.1,
+    "p95_tokens": 214,
+    "max_tokens": 244,
+    "max_completion_tokens": 56,
+    "max_eval_prompt_tokens": 230,
+    "recommended_max_seq_length": 256,
+    "chatdataset_mask_prefix": "passed",
+    "same_tokens_as_model_template": false,
+    "tokenizer_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+    "template_sha256": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "matches_day6_approved_non_thinking_template": true,
+    "local_model_template_requires_override": true
+  },
+  "limitations": [
+    "Source locators and secondary checks are not a full primary-text or human audit.",
+    "Template-derived JSON examples are not independent facts.",
+    "No baseline, training, throughput or knowledge gain measured.",
+    "Holdout groups can mention known entities; they hold out target facts, not all entity mentions."
+  ],
+  "deterministic_rebuild": "passed"
+}

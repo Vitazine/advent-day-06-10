@@ -1,9 +1,9 @@
 {
-  "scope": "Standalone public repository: day-06 and day-07 only",
+  "scope": "Original day-06/day-07 files; shared README and PUBLICATION updated for days 08/09. Additions have a separate manifest.",
   "files": {
     ".gitignore": "00f806546037b872a8e46c5762ac278af0b177eb7c83e10642aea15b6185bdde",
-    "PUBLICATION.md": "57d8a5a8da1b440830427383b8d39c635d808fcbe46a98ef35d56f702c256cb4",
-    "README.md": "cb63ca548aa4409a7d2c30ba5cda8897d2c188fa45a8b32c22791417b9a6c915",
+    "PUBLICATION.md": "ba33822a468b401eb0466e4d330a2dbfaebef40caf274d25247744c4a4fd1cac",
+    "README.md": "d71943d3753de2109f8e593b0a7147920866fd381bb1e80d6d06f10311705b96",
     "experiments/day-06/.gitignore": "00f806546037b872a8e46c5762ac278af0b177eb7c83e10642aea15b6185bdde",
     "experiments/day-06/README.md": "0eb02a1de38ff569ebd4c0f76c74b0b3d3f8b508c1192aef01a0a43c4bab1942",
     "experiments/day-06/assessment.py": "6fe0504996f28d1a917b02a99b0bcd21d7e642d4d4ed846d19b53684284cd165",

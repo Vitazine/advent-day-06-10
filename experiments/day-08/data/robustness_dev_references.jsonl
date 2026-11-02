@@ -1,0 +1,8 @@
+{"id":"robustness_dev-f-5598a79b3127","fact_ids":["f-5598a79b3127"],"target":"Нет. Бильбо нашёл Жало в пещере троллей.","category":"corrections","split_group":"sting"}
+{"id":"robustness_dev-f-e76b4c47b6b7","fact_ids":["f-e76b4c47b6b7"],"target":"Нет. В «Хоббите» Больга убил Беорн.","category":"corrections","split_group":"beorn"}
+{"id":"robustness_dev-f-64e980ad777b","fact_ids":["f-64e980ad777b"],"target":"Нет. Единое Кольцо создал Саурон.","category":"corrections","split_group":"ring"}
+{"id":"robustness_dev-f-ff7516a49a11","fact_ids":["f-ff7516a49a11"],"target":"Нет. Оно было выковано около 1600 года Второй эпохи.","category":"corrections","split_group":"ring"}
+{"id":"robustness_dev-f-3f2fa76893d2","fact_ids":["f-3f2fa76893d2"],"target":"Нет. Родители Фродо — Дрого Бэггинс и Примула Брендибак.","category":"corrections","split_group":"frodo"}
+{"id":"robustness_dev-f-2b08239d3837","fact_ids":["f-2b08239d3837"],"target":"Нет. Бильбо передал Фродо митрильную кольчугу.","category":"corrections","split_group":"mail"}
+{"id":"robustness_dev-f-eacd906dc929","fact_ids":["f-eacd906dc929"],"target":"Имя кузнеца Жала в выбранных книгах не указано.","category":"unknown","split_group":"sting"}
+{"id":"robustness_dev-f-c548c458cec9","fact_ids":["f-c548c458cec9"],"target":"Диаметр Единого Кольца в миллиметрах в выбранных книгах не указан.","category":"unknown","split_group":"ring"}

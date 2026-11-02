@@ -1,0 +1,41 @@
+{
+  "manifest_sha256": "2de7d7969f1f3e5e2266307116578b2b1dfbd0cb37e22ee56555676ee3b3f2cc",
+  "start_adapter_sha256": "d9f8cc236b0ab95d2faf6238cf9ef402352b8a428449ecf834c1ae9a369a7d81",
+  "tokenizer_lengths": {
+    "train": {
+      "count": 4,
+      "min": 1257,
+      "max": 1260,
+      "mean": 1258.5,
+      "p95": 1260
+    },
+    "valid": {
+      "count": 1,
+      "min": 1223,
+      "max": 1223,
+      "mean": 1223.0,
+      "p95": 1223
+    }
+  },
+  "loss_check": {
+    "target_tokens": 7,
+    "loss": 2.7725887298583984
+  },
+  "cold_load_seconds": 0.8243948750023264,
+  "optimizer_updates": 1,
+  "examples": 4,
+  "nominal_epochs": 1,
+  "optimizer_state": "fresh",
+  "versions": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.2",
+    "transformers": "5.22.0"
+  },
+  "source_sha256": {
+    "<PROJECT_ROOT>/experiments/day-09/short-prompt/benchmark/long/data/train.jsonl": "58dbbe5492f230833e31d05e0b9ec1a6b038dfa63ca1e30ae3e4c3a4b58c0f20",
+    "<PROJECT_ROOT>/experiments/day-09/short-prompt/benchmark/long/data/valid.jsonl": "248d68370666c1b03ce88eac8325bb3265ad9a0512a2d10331feae0e4a9fb88c",
+    "<PROJECT_ROOT>/experiments/day-09/short-prompt/benchmark/long/system.txt": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+    "<PROJECT_ROOT>/experiments/day-07/chat_template.jinja": "64f85b198065d0fba2a81f37e10ed68161ce2c19a754c7100e67e0ca2ee9c326",
+    "<PROJECT_ROOT>/experiments/day-07/training_loss.py": "0988cca4463433be51386a36847ef5e57a69784c8432c400fbf211effb33dfdd"
+  }
+}

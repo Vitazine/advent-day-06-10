@@ -1,0 +1,6 @@
+{
+  "total_seconds": 512.9102659579949,
+  "validation_seconds": 319.29310695700406,
+  "training_and_save_seconds": 191.2681863339967,
+  "seconds_per_example_excluding_validation": 11.954261645874794
+}

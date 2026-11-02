@@ -1,0 +1,352 @@
+{"id":"train-f-77ca91a07f36-qa","fact_ids":["f-77ca91a07f36"],"split_group":"mail","category":"objects","task":"qa","target":"Торин."}
+{"id":"train-f-337fc0bd2cb7-qa","fact_ids":["f-337fc0bd2cb7"],"split_group":"vilya","category":"objects","task":"qa","target":"Элронд."}
+{"id":"train-f-270c79d18504-qa","fact_ids":["f-270c79d18504"],"split_group":"havens","category":"dates","task":"qa","target":"29 сентября 3021 года Третьей эпохи."}
+{"id":"train-f-55f8dc63af70-qa","fact_ids":["f-55f8dc63af70"],"split_group":"aragorn","category":"characters","task":"qa","target":"Араторн II."}
+{"id":"train-f-5dfc4904759d-qa","fact_ids":["f-5dfc4904759d"],"split_group":"gandalf","category":"characters","task":"qa","target":"Тенегрив, в оригинале Shadowfax."}
+{"id":"train-f-3670ca2a4676-json","fact_ids":["f-3670ca2a4676"],"split_group":"tom","category":"characters","task":"json","target":"{\"answer\":\"Златеника, в оригинале Goldberry.\",\"status\":\"known\"}"}
+{"id":"train-f-64e980ad777b-qa","fact_ids":["f-64e980ad777b"],"split_group":"ring","category":"corrections","task":"qa","target":"Нет. Единое Кольцо создал Саурон."}
+{"id":"train-f-fe93823fdbb1-json","fact_ids":["f-fe93823fdbb1"],"split_group":"gollum","category":"characters","task":"json","target":"{\"answer\":\"Смеагол.\",\"status\":\"known\"}"}
+{"id":"train-f-3f2a4deb9afb-qa","fact_ids":["f-3f2a4deb9afb"],"split_group":"khazadfall","category":"dates","task":"qa","target":"В 1980 году Третьей эпохи."}
+{"id":"train-f-27cbc0121ef6-qa","fact_ids":["f-27cbc0121ef6"],"split_group":"mithril","category":"materials","task":"qa","target":"Малый вес и высокая прочность."}
+{"id":"style_train-003","fact_ids":["f-27cbc0121ef6","f-0b189ed88390","f-8271b6b5ce39","f-eb6f3f29fc58","f-88928fe51bca","f-1f504abaf980","f-b01248a46627"],"split_group":"mithril","category":"style","task":"style","target":"Митрил — лёгкий и прочный металл. Гномы добывали его в Мории.","context_provided":true}
+{"id":"train-f-51808bb265e8-qa","fact_ids":["f-51808bb265e8"],"split_group":"anduril","category":"objects","task":"qa","target":"До выхода Братства."}
+{"id":"train-f-4d340b52139a-json","fact_ids":["f-4d340b52139a"],"split_group":"eowyn","category":"characters","task":"json","target":"{\"answer\":\"Мерри.\",\"status\":\"known\"}"}
+{"id":"train-f-7b8568b12661-json","fact_ids":["f-7b8568b12661"],"split_group":"gollum","category":"characters","task":"json","target":"{\"answer\":\"Деагол.\",\"status\":\"known\"}"}
+{"id":"train-f-de5d7840eaf7-qa","fact_ids":["f-de5d7840eaf7"],"split_group":"frodo","category":"dates","task":"qa","target":"33 года."}
+{"id":"train-f-1d91d348acdb-json","fact_ids":["f-1d91d348acdb"],"split_group":"arkenstone","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-924d2745842a-json","fact_ids":["f-924d2745842a"],"split_group":"doors","category":"objects","task":"json","target":"{\"answer\":\"Келебримбор.\",\"status\":\"known\"}"}
+{"id":"train-f-eacd906dc929-json","fact_ids":["f-eacd906dc929"],"split_group":"sting","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-71f540156292-qa","fact_ids":["f-71f540156292"],"split_group":"athelas","category":"descriptions","task":"qa","target":"Ателас, или королевский лист, — целебное растение. Арагорн использовал его в Домах исцеления."}
+{"id":"train-f-8c68b21d5ba7-json","fact_ids":["f-8c68b21d5ba7"],"split_group":"glorfindel","category":"characters","task":"json","target":"{\"answer\":\"Асфалот.\",\"status\":\"known\"}"}
+{"id":"train-f-5513c4188918-json","fact_ids":["f-5513c4188918"],"split_group":"beorn","category":"characters","task":"json","target":"{\"answer\":\"В медведя.\",\"status\":\"known\"}"}
+{"id":"train-f-0427da5c96bd-json","fact_ids":["f-0427da5c96bd"],"split_group":"theoden","category":"characters","task":"json","target":"{\"answer\":\"Племянником.\",\"status\":\"known\"}"}
+{"id":"train-f-14a125d810f8-json","fact_ids":["f-14a125d810f8"],"split_group":"bilbo","category":"dates","task":"json","target":"{\"answer\":\"111 лет.\",\"status\":\"known\"}"}
+{"id":"train-f-85c2d7f5e471-qa","fact_ids":["f-85c2d7f5e471"],"split_group":"departure","category":"characters","task":"qa","target":"Девять."}
+{"id":"train-f-580a5a3b9879-json","fact_ids":["f-580a5a3b9879"],"split_group":"boromir","category":"characters","task":"json","target":"{\"answer\":\"Финдуилас.\",\"status\":\"known\"}"}
+{"id":"train-f-8dc8d88232fa-qa","fact_ids":["f-8dc8d88232fa"],"split_group":"ithildin","category":"materials","task":"qa","target":"Из митрила."}
+{"id":"train-f-47d66ef4f37b-json","fact_ids":["f-47d66ef4f37b"],"split_group":"tom","category":"characters","task":"json","target":"{\"answer\":\"Нет, он остался видимым.\",\"status\":\"known\"}"}
+{"id":"train-f-51808bb265e8-json","fact_ids":["f-51808bb265e8"],"split_group":"anduril","category":"objects","task":"json","target":"{\"answer\":\"До выхода Братства.\",\"status\":\"known\"}"}
+{"id":"train-f-aaa65e776f2c-json","fact_ids":["f-aaa65e776f2c"],"split_group":"aragorn","category":"descriptions","task":"json","target":"{\"answer\":\"Арагорн — наследник Исилдура и участник Братства Кольца. После войны он стал королём Гондора и Арнора.\",\"status\":\"known\"}"}
+{"id":"train-f-3670ca2a4676-qa","fact_ids":["f-3670ca2a4676"],"split_group":"tom","category":"characters","task":"qa","target":"Златеника, в оригинале Goldberry."}
+{"id":"train-f-9aabb8ff7bdf-qa","fact_ids":["f-9aabb8ff7bdf"],"split_group":"elrond","category":"characters","task":"qa","target":"Арвен."}
+{"id":"train-f-73198600b1c4-json","fact_ids":["f-73198600b1c4"],"split_group":"garden","category":"materials","task":"json","target":"{\"answer\":\"Маллорн.\",\"status\":\"known\"}"}
+{"id":"train-f-216b6b8d9cb5-qa","fact_ids":["f-216b6b8d9cb5"],"split_group":"nenya","category":"objects","task":"qa","target":"Галадриэль."}
+{"id":"train-f-f1dbf326b5cd-json","fact_ids":["f-f1dbf326b5cd"],"split_group":"vilya","category":"materials","task":"json","target":"{\"answer\":\"Синий, сапфир.\",\"status\":\"known\"}"}
+{"id":"train-f-c548c458cec9-qa","fact_ids":["f-c548c458cec9"],"split_group":"ring","category":"unknown","task":"qa","target":"Диаметр Единого Кольца в миллиметрах в выбранных книгах не указан."}
+{"id":"train-f-7023dfcb01ae-json","fact_ids":["f-7023dfcb01ae"],"split_group":"palantir","category":"objects","task":"json","target":"{\"answer\":\"Пиппин.\",\"status\":\"known\"}"}
+{"id":"train-f-fe676e8ec106-json","fact_ids":["f-fe676e8ec106"],"split_group":"mail","category":"materials","task":"json","target":"{\"answer\":\"Из митрила.\",\"status\":\"known\"}"}
+{"id":"train-f-ee203cfea4ba-json","fact_ids":["f-ee203cfea4ba"],"split_group":"gandalf","category":"descriptions","task":"json","target":"{\"answer\":\"Гэндальф — волшебник, помогавший свободным народам противостоять Саурону. Он сопровождал Братство Кольца до Мории.\",\"status\":\"known\"}"}
+{"id":"train-f-1d72dc19b229-qa","fact_ids":["f-1d72dc19b229"],"split_group":"lembas","category":"materials","task":"qa","target":"Эльфийский дорожный хлеб."}
+{"id":"train-f-3195964fbeee-qa","fact_ids":["f-3195964fbeee"],"split_group":"doors","category":"objects","task":"qa","target":"Нарви."}
+{"id":"train-f-f9f4693fa518-qa","fact_ids":["f-f9f4693fa518"],"split_group":"aragorn","category":"characters","task":"qa","target":"Гильраэн."}
+{"id":"train-f-cc07f8e3bc29-json","fact_ids":["f-cc07f8e3bc29"],"split_group":"thrormap","category":"objects","task":"json","target":"{\"answer\":\"К тайной двери Одинокой горы.\",\"status\":\"known\"}"}
+{"id":"train-f-eacd906dc929-qa","fact_ids":["f-eacd906dc929"],"split_group":"sting","category":"unknown","task":"qa","target":"Имя кузнеца Жала в выбранных книгах не указано."}
+{"id":"train-f-2c54b3b2cc4c-json","fact_ids":["f-2c54b3b2cc4c"],"split_group":"ring","category":"objects","task":"json","target":"{\"answer\":\"Саурон.\",\"status\":\"known\"}"}
+{"id":"train-f-eb3cbfe1c138-json","fact_ids":["f-eb3cbfe1c138"],"split_group":"legolas","category":"characters","task":"json","target":"{\"answer\":\"Из королевства Трандуила в Лихолесье.\",\"status\":\"known\"}"}
+{"id":"train-f-882d86427562-qa","fact_ids":["f-882d86427562"],"split_group":"anduril","category":"objects","task":"qa","target":"Из обломков Нарсила."}
+{"id":"train-f-5598a79b3127-qa","fact_ids":["f-5598a79b3127"],"split_group":"sting","category":"corrections","task":"qa","target":"Нет. Бильбо нашёл Жало в пещере троллей."}
+{"id":"train-f-05d3f8d94746-json","fact_ids":["f-05d3f8d94746"],"split_group":"frodo","category":"characters","task":"json","target":"{\"answer\":\"Мистер Подхолм, в оригинале Mr. Underhill.\",\"status\":\"known\"}"}
+{"id":"train-f-6c7f76c8f63a-qa","fact_ids":["f-6c7f76c8f63a"],"split_group":"arkenstone","category":"descriptions","task":"qa","target":"Аркенстон — драгоценный камень Эребора, называемый Сердцем Горы. Бильбо передал его Барду ради переговоров с Торином."}
+{"id":"train-f-f5df6d802f6d-json","fact_ids":["f-f5df6d802f6d"],"split_group":"treebeard","category":"characters","task":"json","target":"{\"answer\":\"К энтам.\",\"status\":\"known\"}"}
+{"id":"train-f-b3a818f04e46-qa","fact_ids":["f-b3a818f04e46"],"split_group":"glamdring","category":"objects","task":"qa","target":"Гэндальфу."}
+{"id":"train-f-f6cfbbcf7144-json","fact_ids":["f-f6cfbbcf7144"],"split_group":"bard","category":"characters","task":"json","target":"{\"answer\":\"Бард.\",\"status\":\"known\"}"}
+{"id":"train-f-0ac35f6c95b7-json","fact_ids":["f-0ac35f6c95b7"],"split_group":"thrormap","category":"objects","task":"json","target":"{\"answer\":\"Элронд.\",\"status\":\"known\"}"}
+{"id":"train-f-de5d7840eaf7-json","fact_ids":["f-de5d7840eaf7"],"split_group":"frodo","category":"dates","task":"json","target":"{\"answer\":\"33 года.\",\"status\":\"known\"}"}
+{"id":"train-f-2c656ddc7ad4-json","fact_ids":["f-2c656ddc7ad4"],"split_group":"treebeard","category":"characters","task":"json","target":"{\"answer\":\"Фангорн.\",\"status\":\"known\"}"}
+{"id":"train-f-4da7c8a2dc1f-json","fact_ids":["f-4da7c8a2dc1f"],"split_group":"thorin","category":"characters","task":"json","target":"{\"answer\":\"Траин II.\",\"status\":\"known\"}"}
+{"id":"train-f-b6e3a0a3eab9-qa","fact_ids":["f-b6e3a0a3eab9"],"split_group":"shire","category":"dates","task":"qa","target":"В 1601 году Третьей эпохи."}
+{"id":"train-f-c490d490307f-json","fact_ids":["f-c490d490307f"],"split_group":"arkenstone","category":"objects","task":"json","target":"{\"answer\":\"Сердце Горы.\",\"status\":\"known\"}"}
+{"id":"train-f-864302ef556b-qa","fact_ids":["f-864302ef556b"],"split_group":"pelennor","category":"dates","task":"qa","target":"15 марта 3019 года Третьей эпохи."}
+{"id":"style_train-002","fact_ids":["f-5abe90c34dcc","f-393bf17bf888"],"split_group":"gimli","category":"style","task":"style","target":"Гимли попросил у Галадриэли один волос. Она подарила ему три.","context_provided":true}
+{"id":"train-f-a6b7ffe94d51-qa","fact_ids":["f-a6b7ffe94d51"],"split_group":"orcrist","category":"objects","task":"qa","target":"Торин Дубощит."}
+{"id":"train-f-ad022a8d74c3-json","fact_ids":["f-ad022a8d74c3"],"split_group":"nazgul","category":"characters","task":"json","target":"{\"answer\":\"Людьми, получившими Девять колец.\",\"status\":\"known\"}"}
+{"id":"train-f-9a6e9583d268-json","fact_ids":["f-9a6e9583d268"],"split_group":"glorfindel","category":"characters","task":"json","target":"{\"answer\":\"Глорфиндель.\",\"status\":\"known\"}"}
+{"id":"train-f-1b2b5e4fcaef-json","fact_ids":["f-1b2b5e4fcaef"],"split_group":"boromir","category":"characters","task":"json","target":"{\"answer\":\"Боромир.\",\"status\":\"known\"}"}
+{"id":"train-f-c50c8cf360ba-qa","fact_ids":["f-c50c8cf360ba"],"split_group":"palantir","category":"objects","task":"qa","target":"Грима Змееуст."}
+{"id":"train-f-a8fcd0035616-json","fact_ids":["f-a8fcd0035616"],"split_group":"legolas","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-dbd66b5d6f1f-qa","fact_ids":["f-dbd66b5d6f1f"],"split_group":"arkenstone","category":"objects","task":"qa","target":"Барду."}
+{"id":"train-f-d3196c5b5934-json","fact_ids":["f-d3196c5b5934"],"split_group":"gandalf","category":"characters","task":"json","target":"{\"answer\":\"Нарью, Кольцо Огня.\",\"status\":\"known\"}"}
+{"id":"train-f-ee750c3d02ed-json","fact_ids":["f-ee750c3d02ed"],"split_group":"dwarves","category":"characters","task":"json","target":"{\"answer\":\"Двалин.\",\"status\":\"known\"}"}
+{"id":"train-f-ddb04acfe78a-qa","fact_ids":["f-ddb04acfe78a"],"split_group":"frodo","category":"characters","task":"qa","target":"Дрого Бэггинс и Примула Брендибак."}
+{"id":"train-f-1122c95a1a6a-qa","fact_ids":["f-1122c95a1a6a"],"split_group":"bilbo","category":"descriptions","task":"qa","target":"Бильбо — хоббит из Шира, участник похода Торина к Одинокой горе. Во время путешествия он нашёл Кольцо."}
+{"id":"train-f-4081f701cfbf-qa","fact_ids":["f-4081f701cfbf"],"split_group":"athelas","category":"materials","task":"qa","target":"Для исцеления пострадавших, в том числе от Чёрного Дыхания."}
+{"id":"train-f-8401cc05678f-json","fact_ids":["f-8401cc05678f"],"split_group":"blackarrow","category":"objects","task":"json","target":"{\"answer\":\"Чёрной стрелой, выпущенной из лука.\",\"status\":\"known\"}"}
+{"id":"train-f-71f540156292-json","fact_ids":["f-71f540156292"],"split_group":"athelas","category":"descriptions","task":"json","target":"{\"answer\":\"Ателас, или королевский лист, — целебное растение. Арагорн использовал его в Домах исцеления.\",\"status\":\"known\"}"}
+{"id":"train-f-5d99a67cb8fe-qa","fact_ids":["f-5d99a67cb8fe"],"split_group":"phial","category":"descriptions","task":"qa","target":"Фиал Галадриэли — дар Фродо со светом звезды Эарендиля. Его свет помогал противостоять Шелоб."}
+{"id":"train-f-3086a8bfce5d-qa","fact_ids":["f-3086a8bfce5d"],"split_group":"moriadate","category":"dates","task":"qa","target":"15 января 3019 года Третьей эпохи."}
+{"id":"train-f-e0220b7ae947-qa","fact_ids":["f-e0220b7ae947"],"split_group":"anduril","category":"descriptions","task":"qa","target":"Андурил — меч Арагорна, перекованный из обломков Нарсила. Его изготовили в Ривенделле перед выходом Братства."}
+{"id":"style_train-005","fact_ids":["f-f6cfbbcf7144","f-50f271094b81","f-6b422438b5f2","f-68c523b11670","f-a89ff7b05d9b"],"split_group":"bard","category":"style","task":"style","target":"Бард убил Смауга. Об уязвимом месте дракона ему сообщил дрозд.","context_provided":true}
+{"id":"train-f-580a5a3b9879-qa","fact_ids":["f-580a5a3b9879"],"split_group":"boromir","category":"characters","task":"qa","target":"Финдуилас."}
+{"id":"train-f-d9d338c89a07-qa","fact_ids":["f-d9d338c89a07"],"split_group":"bilbo","category":"characters","task":"qa","target":"Взломщиком."}
+{"id":"train-f-ab1fd61bcb3a-json","fact_ids":["f-ab1fd61bcb3a"],"split_group":"pipeweed","category":"materials","task":"json","target":"{\"answer\":\"Тобольд Хорнблауэр из Длинного Дола.\",\"status\":\"known\"}"}
+{"id":"train-f-c50c8cf360ba-json","fact_ids":["f-c50c8cf360ba"],"split_group":"palantir","category":"objects","task":"json","target":"{\"answer\":\"Грима Змееуст.\",\"status\":\"known\"}"}
+{"id":"style_train-007","fact_ids":["f-507cf57f90a6","f-20119292dcd7","f-b688f1c8fc55","f-5d99a67cb8fe"],"split_group":"phial","category":"style","task":"style","target":"Галадриэль подарила Фродо фиал со светом звезды Эарендиля.","context_provided":true}
+{"id":"train-f-ac8187891670-json","fact_ids":["f-ac8187891670"],"split_group":"beorn","category":"descriptions","task":"json","target":"{\"answer\":\"Беорн — оборотень, способный принимать облик медведя. Он помог отряду Торина и участвовал в Битве Пяти Воинств.\",\"status\":\"known\"}"}
+{"id":"train-f-e0220b7ae947-json","fact_ids":["f-e0220b7ae947"],"split_group":"anduril","category":"descriptions","task":"json","target":"{\"answer\":\"Андурил — меч Арагорна, перекованный из обломков Нарсила. Его изготовили в Ривенделле перед выходом Братства.\",\"status\":\"known\"}"}
+{"id":"train-f-9921f5d68228-qa","fact_ids":["f-9921f5d68228"],"split_group":"balin","category":"dates","task":"qa","target":"В 2994 году Третьей эпохи."}
+{"id":"train-f-b3a818f04e46-json","fact_ids":["f-b3a818f04e46"],"split_group":"glamdring","category":"objects","task":"json","target":"{\"answer\":\"Гэндальфу.\",\"status\":\"known\"}"}
+{"id":"train-f-6a226dbb5d33-json","fact_ids":["f-6a226dbb5d33"],"split_group":"thorin","category":"dates","task":"json","target":"{\"answer\":\"В 2746 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-fb354217f17b-qa","fact_ids":["f-fb354217f17b"],"split_group":"miruvor","category":"materials","task":"qa","target":"Элронд."}
+{"id":"train-f-be7def69b1b5-json","fact_ids":["f-be7def69b1b5"],"split_group":"rohanfoundation","category":"dates","task":"json","target":"{\"answer\":\"В 2510 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-9d5c2806f61d-json","fact_ids":["f-9d5c2806f61d"],"split_group":"doors","category":"objects","task":"json","target":"{\"answer\":\"«Меллон», то есть «друг» на синдарине.\",\"status\":\"known\"}"}
+{"id":"train-f-0662957c66b9-qa","fact_ids":["f-0662957c66b9"],"split_group":"balin","category":"dates","task":"qa","target":"В 2989 году Третьей эпохи."}
+{"id":"train-f-88928fe51bca-json","fact_ids":["f-88928fe51bca"],"split_group":"mithril","category":"descriptions","task":"json","target":"{\"answer\":\"Митрил — редкий серебристый металл, лёгкий и очень прочный. Гномы добывали его в Мории.\",\"status\":\"known\"}"}
+{"id":"train-f-b4b8f8156aaa-qa","fact_ids":["f-b4b8f8156aaa"],"split_group":"ring","category":"objects","task":"qa","target":"Нагревание."}
+{"id":"train-f-b6e3a0a3eab9-json","fact_ids":["f-b6e3a0a3eab9"],"split_group":"shire","category":"dates","task":"json","target":"{\"answer\":\"В 1601 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-2c54b3b2cc4c-qa","fact_ids":["f-2c54b3b2cc4c"],"split_group":"ring","category":"objects","task":"qa","target":"Саурон."}
+{"id":"train-f-ff7516a49a11-qa","fact_ids":["f-ff7516a49a11"],"split_group":"ring","category":"corrections","task":"qa","target":"Нет. Оно было выковано около 1600 года Второй эпохи."}
+{"id":"train-f-ebd6c2b00b45-json","fact_ids":["f-ebd6c2b00b45"],"split_group":"aragorn","category":"dates","task":"json","target":"{\"answer\":\"В 2931 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-f1dbf326b5cd-qa","fact_ids":["f-f1dbf326b5cd"],"split_group":"vilya","category":"materials","task":"qa","target":"Синий, сапфир."}
+{"id":"train-f-dfbf63781259-qa","fact_ids":["f-dfbf63781259"],"split_group":"ring","category":"dates","task":"qa","target":"Около 1600 года Второй эпохи."}
+{"id":"train-f-69df58ba0791-json","fact_ids":["f-69df58ba0791"],"split_group":"sting","category":"objects","task":"json","target":"{\"answer\":\"Бильбо.\",\"status\":\"known\"}"}
+{"id":"train-f-c7cc540462b7-json","fact_ids":["f-c7cc540462b7"],"split_group":"miruvor","category":"materials","task":"json","target":"{\"answer\":\"Живительный напиток Ривенделла.\",\"status\":\"known\"}"}
+{"id":"train-f-10a82aae8610-qa","fact_ids":["f-10a82aae8610"],"split_group":"arkenstone","category":"corrections","task":"qa","target":"Нет. Аркенстон — драгоценный камень, Сердце Горы."}
+{"id":"style_train-008","fact_ids":["f-4da7c8a2dc1f","f-089f0bc142dd","f-467956a1a95d","f-6a226dbb5d33","f-a1fcae1b4f0b","f-b2481ccd9cd3"],"split_group":"thorin","category":"style","task":"style","target":"Торин Дубощит — сын Траина II и внук Трора.","context_provided":true}
+{"id":"train-f-09a866a46a78-qa","fact_ids":["f-09a866a46a78"],"split_group":"orcrist","category":"objects","task":"qa","target":"На могиле Торина."}
+{"id":"train-f-20119292dcd7-json","fact_ids":["f-20119292dcd7"],"split_group":"phial","category":"objects","task":"json","target":"{\"answer\":\"Звезды Эарендиля.\",\"status\":\"known\"}"}
+{"id":"train-f-f87dafa909e8-qa","fact_ids":["f-f87dafa909e8"],"split_group":"sam","category":"characters","task":"qa","target":"На Розе Коттон."}
+{"id":"train-f-144984d724f7-json","fact_ids":["f-144984d724f7"],"split_group":"isildurdate","category":"dates","task":"json","target":"{\"answer\":\"Во 2 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-864302ef556b-json","fact_ids":["f-864302ef556b"],"split_group":"pelennor","category":"dates","task":"json","target":"{\"answer\":\"15 марта 3019 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-ebe0a8e9e17d-json","fact_ids":["f-ebe0a8e9e17d"],"split_group":"sam","category":"characters","task":"json","target":"{\"answer\":\"Хэмфаст Гэмджи.\",\"status\":\"known\"}"}
+{"id":"train-f-1331e608da83-json","fact_ids":["f-1331e608da83"],"split_group":"arkenstone","category":"objects","task":"json","target":"{\"answer\":\"На груди Торина в его гробнице.\",\"status\":\"known\"}"}
+{"id":"train-f-8d28c82b8a27-json","fact_ids":["f-8d28c82b8a27"],"split_group":"nenya","category":"materials","task":"json","target":"{\"answer\":\"Из митрила.\",\"status\":\"known\"}"}
+{"id":"train-f-eb6f3f29fc58-json","fact_ids":["f-eb6f3f29fc58"],"split_group":"mithril","category":"materials","task":"json","target":"{\"answer\":\"В Мории.\",\"status\":\"known\"}"}
+{"id":"train-f-2b08239d3837-qa","fact_ids":["f-2b08239d3837"],"split_group":"mail","category":"corrections","task":"qa","target":"Нет. Бильбо передал Фродо митрильную кольчугу."}
+{"id":"train-f-63c7623d1f5c-json","fact_ids":["f-63c7623d1f5c"],"split_group":"saruman","category":"dates","task":"json","target":"{\"answer\":\"3 ноября 3019 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-8a352e0bb12b-qa","fact_ids":["f-8a352e0bb12b"],"split_group":"treebeard","category":"descriptions","task":"qa","target":"Энты — древние пастыри деревьев. Под предводительством Древоборода они выступили против Изенгарда."}
+{"id":"train-f-7b03c97f91c9-json","fact_ids":["f-7b03c97f91c9"],"split_group":"rope","category":"materials","task":"json","target":"{\"answer\":\"Хитлайн.\",\"status\":\"known\"}"}
+{"id":"train-f-76dbad29a262-qa","fact_ids":["f-76dbad29a262"],"split_group":"dwarves","category":"characters","task":"qa","target":"Оин."}
+{"id":"train-f-4f6443bbfb56-qa","fact_ids":["f-4f6443bbfb56"],"split_group":"bilbo","category":"dates","task":"qa","target":"В 3001 году Третьей эпохи."}
+{"id":"train-f-751c15a57737-qa","fact_ids":["f-751c15a57737"],"split_group":"saruman","category":"characters","task":"qa","target":"Ортханк."}
+{"id":"train-f-bd0661b7ddd0-qa","fact_ids":["f-bd0661b7ddd0"],"split_group":"nenya","category":"corrections","task":"qa","target":"Нет. Нэнья сделана из митрила."}
+{"id":"train-f-4d340b52139a-qa","fact_ids":["f-4d340b52139a"],"split_group":"eowyn","category":"characters","task":"qa","target":"Мерри."}
+{"id":"train-f-f827d74e18e8-json","fact_ids":["f-f827d74e18e8"],"split_group":"ring","category":"objects","task":"json","target":"{\"answer\":\"На Чёрном наречии.\",\"status\":\"known\"}"}
+{"id":"train-f-67e5326bb6c0-qa","fact_ids":["f-67e5326bb6c0"],"split_group":"nenya","category":"materials","task":"qa","target":"Белый."}
+{"id":"train-f-cdfe2987bd80-qa","fact_ids":["f-cdfe2987bd80"],"split_group":"theoden","category":"characters","task":"qa","target":"Снежногрив, в оригинале Snowmane."}
+{"id":"train-f-344dfad07a6d-qa","fact_ids":["f-344dfad07a6d"],"split_group":"lembas","category":"materials","task":"qa","target":"В листья."}
+{"id":"train-f-7b03c97f91c9-qa","fact_ids":["f-7b03c97f91c9"],"split_group":"rope","category":"materials","task":"qa","target":"Хитлайн."}
+{"id":"train-f-a60be757c441-json","fact_ids":["f-a60be757c441"],"split_group":"ithildin","category":"materials","task":"json","target":"{\"answer\":\"На западных вратах Мории, Вратах Дурина.\",\"status\":\"known\"}"}
+{"id":"train-f-b01248a46627-qa","fact_ids":["f-b01248a46627"],"split_group":"mithril","category":"unknown","task":"qa","target":"Химическая формула митрила в выбранных книгах не приведена."}
+{"id":"train-f-214e549e2507-qa","fact_ids":["f-214e549e2507"],"split_group":"rope","category":"unknown","task":"qa","target":"Точная разрывная нагрузка верёвки Сэма в выбранных книгах не указана."}
+{"id":"train-f-f6cfbbcf7144-qa","fact_ids":["f-f6cfbbcf7144"],"split_group":"bard","category":"characters","task":"qa","target":"Бард."}
+{"id":"train-f-b01248a46627-json","fact_ids":["f-b01248a46627"],"split_group":"mithril","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-a8fcd0035616-qa","fact_ids":["f-a8fcd0035616"],"split_group":"legolas","category":"unknown","task":"qa","target":"В «Хоббите» и «Властелине колец» точная дата рождения Леголаса не указана."}
+{"id":"train-f-8dc8d88232fa-json","fact_ids":["f-8dc8d88232fa"],"split_group":"ithildin","category":"materials","task":"json","target":"{\"answer\":\"Из митрила.\",\"status\":\"known\"}"}
+{"id":"train-f-dfbf63781259-json","fact_ids":["f-dfbf63781259"],"split_group":"ring","category":"dates","task":"json","target":"{\"answer\":\"Около 1600 года Второй эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-f5df6d802f6d-qa","fact_ids":["f-f5df6d802f6d"],"split_group":"treebeard","category":"characters","task":"qa","target":"К энтам."}
+{"id":"train-f-d243f77dae72-qa","fact_ids":["f-d243f77dae72"],"split_group":"vilya","category":"corrections","task":"qa","target":"Нет. Вилью носил Элронд; кольцо Галадриэли — Нэнья."}
+{"id":"train-f-a1fcae1b4f0b-qa","fact_ids":["f-a1fcae1b4f0b"],"split_group":"thorin","category":"dates","task":"qa","target":"В 2941 году Третьей эпохи."}
+{"id":"train-f-08a893b19929-qa","fact_ids":["f-08a893b19929"],"split_group":"galadriel","category":"characters","task":"qa","target":"Келеборн."}
+{"id":"train-f-144984d724f7-qa","fact_ids":["f-144984d724f7"],"split_group":"isildurdate","category":"dates","task":"qa","target":"Во 2 году Третьей эпохи."}
+{"id":"train-f-ee203cfea4ba-qa","fact_ids":["f-ee203cfea4ba"],"split_group":"gandalf","category":"descriptions","task":"qa","target":"Гэндальф — волшебник, помогавший свободным народам противостоять Саурону. Он сопровождал Братство Кольца до Мории."}
+{"id":"train-f-102e9f60d778-qa","fact_ids":["f-102e9f60d778"],"split_group":"departure","category":"characters","task":"qa","target":"Фродо, Сэм, Мерри и Пиппин."}
+{"id":"train-f-cc07f8e3bc29-qa","fact_ids":["f-cc07f8e3bc29"],"split_group":"thrormap","category":"objects","task":"qa","target":"К тайной двери Одинокой горы."}
+{"id":"train-f-1122c95a1a6a-json","fact_ids":["f-1122c95a1a6a"],"split_group":"bilbo","category":"descriptions","task":"json","target":"{\"answer\":\"Бильбо — хоббит из Шира, участник похода Торина к Одинокой горе. Во время путешествия он нашёл Кольцо.\",\"status\":\"known\"}"}
+{"id":"train-f-119f6925b41a-json","fact_ids":["f-119f6925b41a"],"split_group":"dwarves","category":"characters","task":"json","target":"{\"answer\":\"Тринадцать.\",\"status\":\"known\"}"}
+{"id":"train-f-09a866a46a78-json","fact_ids":["f-09a866a46a78"],"split_group":"orcrist","category":"objects","task":"json","target":"{\"answer\":\"На могиле Торина.\",\"status\":\"known\"}"}
+{"id":"train-f-b9690b162420-qa","fact_ids":["f-b9690b162420"],"split_group":"elrond","category":"characters","task":"qa","target":"Элладан и Элрохир."}
+{"id":"train-f-77ca91a07f36-json","fact_ids":["f-77ca91a07f36"],"split_group":"mail","category":"objects","task":"json","target":"{\"answer\":\"Торин.\",\"status\":\"known\"}"}
+{"id":"train-f-5dfc4904759d-json","fact_ids":["f-5dfc4904759d"],"split_group":"gandalf","category":"characters","task":"json","target":"{\"answer\":\"Тенегрив, в оригинале Shadowfax.\",\"status\":\"known\"}"}
+{"id":"train-f-8c68b21d5ba7-qa","fact_ids":["f-8c68b21d5ba7"],"split_group":"glorfindel","category":"characters","task":"qa","target":"Асфалот."}
+{"id":"train-f-2d4e655f8462-json","fact_ids":["f-2d4e655f8462"],"split_group":"bilbo","category":"dates","task":"json","target":"{\"answer\":\"22 сентября 2890 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-5abe90c34dcc-json","fact_ids":["f-5abe90c34dcc"],"split_group":"gimli","category":"characters","task":"json","target":"{\"answer\":\"Глоин.\",\"status\":\"known\"}"}
+{"id":"train-f-1d91d348acdb-qa","fact_ids":["f-1d91d348acdb"],"split_group":"arkenstone","category":"unknown","task":"qa","target":"Масса Аркенстона в каратах в выбранных книгах не указана."}
+{"id":"train-f-ad022a8d74c3-qa","fact_ids":["f-ad022a8d74c3"],"split_group":"nazgul","category":"characters","task":"qa","target":"Людьми, получившими Девять колец."}
+{"id":"train-f-342c1275b45c-json","fact_ids":["f-342c1275b45c"],"split_group":"gollum","category":"characters","task":"json","target":"{\"answer\":\"Он упал в огонь Роковой горы вместе с Кольцом.\",\"status\":\"known\"}"}
+{"id":"train-f-63c7623d1f5c-qa","fact_ids":["f-63c7623d1f5c"],"split_group":"saruman","category":"dates","task":"qa","target":"3 ноября 3019 года Третьей эпохи."}
+{"id":"train-f-1d72dc19b229-json","fact_ids":["f-1d72dc19b229"],"split_group":"lembas","category":"materials","task":"json","target":"{\"answer\":\"Эльфийский дорожный хлеб.\",\"status\":\"known\"}"}
+{"id":"train-f-a89ff7b05d9b-qa","fact_ids":["f-a89ff7b05d9b"],"split_group":"bard","category":"corrections","task":"qa","target":"Нет. Смауга убил Бард."}
+{"id":"train-f-326c557d8315-json","fact_ids":["f-326c557d8315"],"split_group":"lembas","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-14a125d810f8-qa","fact_ids":["f-14a125d810f8"],"split_group":"bilbo","category":"dates","task":"qa","target":"111 лет."}
+{"id":"train-f-214e549e2507-json","fact_ids":["f-214e549e2507"],"split_group":"rope","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-344dfad07a6d-json","fact_ids":["f-344dfad07a6d"],"split_group":"lembas","category":"materials","task":"json","target":"{\"answer\":\"В листья.\",\"status\":\"known\"}"}
+{"id":"train-f-d3196c5b5934-qa","fact_ids":["f-d3196c5b5934"],"split_group":"gandalf","category":"characters","task":"qa","target":"Нарью, Кольцо Огня."}
+{"id":"train-f-27415217927d-qa","fact_ids":["f-27415217927d"],"split_group":"quickbeam","category":"characters","task":"qa","target":"Скородум, в оригинале Quickbeam."}
+{"id":"train-f-b31bdd111802-qa","fact_ids":["f-b31bdd111802"],"split_group":"boromir","category":"characters","task":"qa","target":"Денетор II."}
+{"id":"train-f-089f0bc142dd-json","fact_ids":["f-089f0bc142dd"],"split_group":"thorin","category":"characters","task":"json","target":"{\"answer\":\"Трор.\",\"status\":\"known\"}"}
+{"id":"train-f-e76b4c47b6b7-qa","fact_ids":["f-e76b4c47b6b7"],"split_group":"beorn","category":"corrections","task":"qa","target":"Нет. В «Хоббите» Больга убил Беорн."}
+{"id":"train-f-467956a1a95d-json","fact_ids":["f-467956a1a95d"],"split_group":"thorin","category":"characters","task":"json","target":"{\"answer\":\"Племянниками, сыновьями его сестры Дис.\",\"status\":\"known\"}"}
+{"id":"train-f-27415217927d-json","fact_ids":["f-27415217927d"],"split_group":"quickbeam","category":"characters","task":"json","target":"{\"answer\":\"Скородум, в оригинале Quickbeam.\",\"status\":\"known\"}"}
+{"id":"train-f-e9ce0e6376cd-json","fact_ids":["f-e9ce0e6376cd"],"split_group":"frodo","category":"dates","task":"json","target":"{\"answer\":\"В 2968 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-e9ce0e6376cd-qa","fact_ids":["f-e9ce0e6376cd"],"split_group":"frodo","category":"dates","task":"qa","target":"В 2968 году Третьей эпохи."}
+{"id":"train-f-8340104f071e-json","fact_ids":["f-8340104f071e"],"split_group":"garden","category":"objects","task":"json","target":"{\"answer\":\"Земля из её сада и семя маллорна.\",\"status\":\"known\"}"}
+{"id":"train-f-ebd6c2b00b45-qa","fact_ids":["f-ebd6c2b00b45"],"split_group":"aragorn","category":"dates","task":"qa","target":"В 2931 году Третьей эпохи."}
+{"id":"train-f-5d99a67cb8fe-json","fact_ids":["f-5d99a67cb8fe"],"split_group":"phial","category":"descriptions","task":"json","target":"{\"answer\":\"Фиал Галадриэли — дар Фродо со светом звезды Эарендиля. Его свет помогал противостоять Шелоб.\",\"status\":\"known\"}"}
+{"id":"train-f-fb354217f17b-json","fact_ids":["f-fb354217f17b"],"split_group":"miruvor","category":"materials","task":"json","target":"{\"answer\":\"Элронд.\",\"status\":\"known\"}"}
+{"id":"train-f-0b189ed88390-json","fact_ids":["f-0b189ed88390"],"split_group":"mithril","category":"materials","task":"json","target":"{\"answer\":\"Морийское серебро.\",\"status\":\"known\"}"}
+{"id":"train-f-fe676e8ec106-qa","fact_ids":["f-fe676e8ec106"],"split_group":"mail","category":"materials","task":"qa","target":"Из митрила."}
+{"id":"train-f-b9690b162420-json","fact_ids":["f-b9690b162420"],"split_group":"elrond","category":"characters","task":"json","target":"{\"answer\":\"Элладан и Элрохир.\",\"status\":\"known\"}"}
+{"id":"train-f-84e8d588ea1c-json","fact_ids":["f-84e8d588ea1c"],"split_group":"journey","category":"dates","task":"json","target":"{\"answer\":\"В 2941 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-8f06b5788254-json","fact_ids":["f-8f06b5788254"],"split_group":"gandalf","category":"characters","task":"json","target":"{\"answer\":\"Орёл Гваихир.\",\"status\":\"known\"}"}
+{"id":"train-f-3f524888d551-json","fact_ids":["f-3f524888d551"],"split_group":"ring","category":"objects","task":"json","target":"{\"answer\":\"В Роковой горе, Ородруине.\",\"status\":\"known\"}"}
+{"id":"train-f-05d3f8d94746-qa","fact_ids":["f-05d3f8d94746"],"split_group":"frodo","category":"characters","task":"qa","target":"Мистер Подхолм, в оригинале Mr. Underhill."}
+{"id":"train-f-270c79d18504-json","fact_ids":["f-270c79d18504"],"split_group":"havens","category":"dates","task":"json","target":"{\"answer\":\"29 сентября 3021 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-68c523b11670-json","fact_ids":["f-68c523b11670"],"split_group":"bard","category":"descriptions","task":"json","target":"{\"answer\":\"Смауг — дракон, захвативший Одинокую гору и сокровища гномов. Его убил Бард при нападении на Озёрный город.\",\"status\":\"known\"}"}
+{"id":"train-f-eb6f3f29fc58-qa","fact_ids":["f-eb6f3f29fc58"],"split_group":"mithril","category":"materials","task":"qa","target":"В Мории."}
+{"id":"train-f-27cbc0121ef6-json","fact_ids":["f-27cbc0121ef6"],"split_group":"mithril","category":"materials","task":"json","target":"{\"answer\":\"Малый вес и высокая прочность.\",\"status\":\"known\"}"}
+{"id":"train-f-fe93823fdbb1-qa","fact_ids":["f-fe93823fdbb1"],"split_group":"gollum","category":"characters","task":"qa","target":"Смеагол."}
+{"id":"train-f-f827d74e18e8-qa","fact_ids":["f-f827d74e18e8"],"split_group":"ring","category":"objects","task":"qa","target":"На Чёрном наречии."}
+{"id":"train-f-4f6443bbfb56-json","fact_ids":["f-4f6443bbfb56"],"split_group":"bilbo","category":"dates","task":"json","target":"{\"answer\":\"В 3001 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-85c2d7f5e471-json","fact_ids":["f-85c2d7f5e471"],"split_group":"departure","category":"characters","task":"json","target":"{\"answer\":\"Девять.\",\"status\":\"known\"}"}
+{"id":"train-f-1f504abaf980-qa","fact_ids":["f-1f504abaf980"],"split_group":"mithril","category":"unknown","task":"qa","target":"Численная плотность митрила в выбранных книгах не указана."}
+{"id":"train-f-8271b6b5ce39-qa","fact_ids":["f-8271b6b5ce39"],"split_group":"mithril","category":"materials","task":"qa","target":"Нет, его красота не тускнеет."}
+{"id":"train-f-ebe0a8e9e17d-qa","fact_ids":["f-ebe0a8e9e17d"],"split_group":"sam","category":"characters","task":"qa","target":"Хэмфаст Гэмджи."}
+{"id":"train-f-84e8d588ea1c-qa","fact_ids":["f-84e8d588ea1c"],"split_group":"journey","category":"dates","task":"qa","target":"В 2941 году Третьей эпохи."}
+{"id":"train-f-15d4604ea96a-json","fact_ids":["f-15d4604ea96a"],"split_group":"glamdring","category":"objects","task":"json","target":"{\"answer\":\"Королю Гондолина.\",\"status\":\"known\"}"}
+{"id":"train-f-8afe4e7adc8d-qa","fact_ids":["f-8afe4e7adc8d"],"split_group":"council","category":"dates","task":"qa","target":"25 октября 3018 года Третьей эпохи."}
+{"id":"train-f-7b8568b12661-qa","fact_ids":["f-7b8568b12661"],"split_group":"gollum","category":"characters","task":"qa","target":"Деагол."}
+{"id":"train-f-af6077b06207-qa","fact_ids":["f-af6077b06207"],"split_group":"beorn","category":"characters","task":"qa","target":"Беорн."}
+{"id":"style_train-004","fact_ids":["f-882d86427562","f-de040c1c6ae6","f-8e1ba5dfc52d","f-51808bb265e8","f-e0220b7ae947","f-c2714c188e62"],"split_group":"anduril","category":"style","task":"style","target":"Андурил — меч Арагорна, перекованный в Ривенделле из обломков Нарсила.","context_provided":true}
+{"id":"train-f-8340104f071e-qa","fact_ids":["f-8340104f071e"],"split_group":"garden","category":"objects","task":"qa","target":"Земля из её сада и семя маллорна."}
+{"id":"train-f-8e1ba5dfc52d-json","fact_ids":["f-8e1ba5dfc52d"],"split_group":"anduril","category":"objects","task":"json","target":"{\"answer\":\"Арагорн.\",\"status\":\"known\"}"}
+{"id":"train-f-8a352e0bb12b-json","fact_ids":["f-8a352e0bb12b"],"split_group":"treebeard","category":"descriptions","task":"json","target":"{\"answer\":\"Энты — древние пастыри деревьев. Под предводительством Древоборода они выступили против Изенгарда.\",\"status\":\"known\"}"}
+{"id":"train-f-77f4b5d812d5-json","fact_ids":["f-77f4b5d812d5"],"split_group":"frodo","category":"descriptions","task":"json","target":"{\"answer\":\"Фродо — хоббит, взявший на себя задачу отнести Единое Кольцо в Мордор. Его спутником до конца пути был Сэм.\",\"status\":\"known\"}"}
+{"id":"train-f-5066c13cd166-qa","fact_ids":["f-5066c13cd166"],"split_group":"sting","category":"objects","task":"qa","target":"Светится голубым светом."}
+{"id":"train-f-55f8dc63af70-json","fact_ids":["f-55f8dc63af70"],"split_group":"aragorn","category":"characters","task":"json","target":"{\"answer\":\"Араторн II.\",\"status\":\"known\"}"}
+{"id":"train-f-6a226dbb5d33-qa","fact_ids":["f-6a226dbb5d33"],"split_group":"thorin","category":"dates","task":"qa","target":"В 2746 году Третьей эпохи."}
+{"id":"train-f-c17d28efb91b-qa","fact_ids":["f-c17d28efb91b"],"split_group":"faramir","category":"characters","task":"qa","target":"Фарамир."}
+{"id":"train-f-8401cc05678f-qa","fact_ids":["f-8401cc05678f"],"split_group":"blackarrow","category":"objects","task":"qa","target":"Чёрной стрелой, выпущенной из лука."}
+{"id":"train-f-337fc0bd2cb7-json","fact_ids":["f-337fc0bd2cb7"],"split_group":"vilya","category":"objects","task":"json","target":"{\"answer\":\"Элронд.\",\"status\":\"known\"}"}
+{"id":"train-f-aaa65e776f2c-qa","fact_ids":["f-aaa65e776f2c"],"split_group":"aragorn","category":"descriptions","task":"qa","target":"Арагорн — наследник Исилдура и участник Братства Кольца. После войны он стал королём Гондора и Арнора."}
+{"id":"train-f-5abe90c34dcc-qa","fact_ids":["f-5abe90c34dcc"],"split_group":"gimli","category":"characters","task":"qa","target":"Глоин."}
+{"id":"train-f-5513c4188918-qa","fact_ids":["f-5513c4188918"],"split_group":"beorn","category":"characters","task":"qa","target":"В медведя."}
+{"id":"train-f-6c7f76c8f63a-json","fact_ids":["f-6c7f76c8f63a"],"split_group":"arkenstone","category":"descriptions","task":"json","target":"{\"answer\":\"Аркенстон — драгоценный камень Эребора, называемый Сердцем Горы. Бильбо передал его Барду ради переговоров с Торином.\",\"status\":\"known\"}"}
+{"id":"train-f-69df58ba0791-qa","fact_ids":["f-69df58ba0791"],"split_group":"sting","category":"objects","task":"qa","target":"Бильбо."}
+{"id":"train-f-67e5326bb6c0-json","fact_ids":["f-67e5326bb6c0"],"split_group":"nenya","category":"materials","task":"json","target":"{\"answer\":\"Белый.\",\"status\":\"known\"}"}
+{"id":"train-f-507cf57f90a6-json","fact_ids":["f-507cf57f90a6"],"split_group":"phial","category":"objects","task":"json","target":"{\"answer\":\"Фродо.\",\"status\":\"known\"}"}
+{"id":"train-f-d9d338c89a07-json","fact_ids":["f-d9d338c89a07"],"split_group":"bilbo","category":"characters","task":"json","target":"{\"answer\":\"Взломщиком.\",\"status\":\"known\"}"}
+{"id":"train-f-3f2fa76893d2-qa","fact_ids":["f-3f2fa76893d2"],"split_group":"frodo","category":"corrections","task":"qa","target":"Нет. Родители Фродо — Дрого Бэггинс и Примула Брендибак."}
+{"id":"train-f-88928fe51bca-qa","fact_ids":["f-88928fe51bca"],"split_group":"mithril","category":"descriptions","task":"qa","target":"Митрил — редкий серебристый металл, лёгкий и очень прочный. Гномы добывали его в Мории."}
+{"id":"train-f-14b7de8b0175-json","fact_ids":["f-14b7de8b0175"],"split_group":"aragorn","category":"characters","task":"json","target":"{\"answer\":\"Арвен.\",\"status\":\"known\"}"}
+{"id":"train-f-e73bb4aa4edb-json","fact_ids":["f-e73bb4aa4edb"],"split_group":"gollum","category":"descriptions","task":"json","target":"{\"answer\":\"Голлум, прежде Смеагол, долго владел Единым Кольцом. Он стал проводником Фродо и Сэма на пути к Мордору.\",\"status\":\"known\"}"}
+{"id":"train-f-cdfe2987bd80-json","fact_ids":["f-cdfe2987bd80"],"split_group":"theoden","category":"characters","task":"json","target":"{\"answer\":\"Снежногрив, в оригинале Snowmane.\",\"status\":\"known\"}"}
+{"id":"train-f-c2714c188e62-qa","fact_ids":["f-c2714c188e62"],"split_group":"anduril","category":"corrections","task":"qa","target":"Нет. Андурил перековали в Ривенделле до выхода Братства."}
+{"id":"train-f-7d5d7e0c18ad-qa","fact_ids":["f-7d5d7e0c18ad"],"split_group":"saruman","category":"characters","task":"qa","target":"Грима Змееуст."}
+{"id":"train-f-9a6e9583d268-qa","fact_ids":["f-9a6e9583d268"],"split_group":"glorfindel","category":"characters","task":"qa","target":"Глорфиндель."}
+{"id":"train-f-8d28c82b8a27-qa","fact_ids":["f-8d28c82b8a27"],"split_group":"nenya","category":"materials","task":"qa","target":"Из митрила."}
+{"id":"train-f-be7def69b1b5-qa","fact_ids":["f-be7def69b1b5"],"split_group":"rohanfoundation","category":"dates","task":"qa","target":"В 2510 году Третьей эпохи."}
+{"id":"train-f-e73bb4aa4edb-qa","fact_ids":["f-e73bb4aa4edb"],"split_group":"gollum","category":"descriptions","task":"qa","target":"Голлум, прежде Смеагол, долго владел Единым Кольцом. Он стал проводником Фродо и Сэма на пути к Мордору."}
+{"id":"train-f-f9f4693fa518-json","fact_ids":["f-f9f4693fa518"],"split_group":"aragorn","category":"characters","task":"json","target":"{\"answer\":\"Гильраэн.\",\"status\":\"known\"}"}
+{"id":"train-f-751c15a57737-json","fact_ids":["f-751c15a57737"],"split_group":"saruman","category":"characters","task":"json","target":"{\"answer\":\"Ортханк.\",\"status\":\"known\"}"}
+{"id":"train-f-86168d782d1a-json","fact_ids":["f-86168d782d1a"],"split_group":"bilbo","category":"characters","task":"json","target":"{\"answer\":\"Бунго Бэггинс и Белладонна Тук.\",\"status\":\"known\"}"}
+{"id":"train-f-a0e0941eedf1-qa","fact_ids":["f-a0e0941eedf1"],"split_group":"sting","category":"objects","task":"qa","target":"В пещере троллей."}
+{"id":"train-f-d3ef516ec915-json","fact_ids":["f-d3ef516ec915"],"split_group":"rope","category":"materials","task":"json","target":"{\"answer\":\"Она лёгкая, прочная и шелковистая на ощупь.\",\"status\":\"known\"}"}
+{"id":"train-f-73198600b1c4-qa","fact_ids":["f-73198600b1c4"],"split_group":"garden","category":"materials","task":"qa","target":"Маллорн."}
+{"id":"train-f-62462d2ec5fd-qa","fact_ids":["f-62462d2ec5fd"],"split_group":"legolas","category":"characters","task":"qa","target":"Трандуил."}
+{"id":"train-f-a60be757c441-qa","fact_ids":["f-a60be757c441"],"split_group":"ithildin","category":"materials","task":"qa","target":"На западных вратах Мории, Вратах Дурина."}
+{"id":"train-f-14b7de8b0175-qa","fact_ids":["f-14b7de8b0175"],"split_group":"aragorn","category":"characters","task":"qa","target":"Арвен."}
+{"id":"train-f-9a8242364b77-qa","fact_ids":["f-9a8242364b77"],"split_group":"glorfindel","category":"corrections","task":"qa","target":"Нет. Глорфиндель посадил Фродо на Асфалота, а к броду Фродо скакал один."}
+{"id":"train-f-86168d782d1a-qa","fact_ids":["f-86168d782d1a"],"split_group":"bilbo","category":"characters","task":"qa","target":"Бунго Бэггинс и Белладонна Тук."}
+{"id":"train-f-089f0bc142dd-qa","fact_ids":["f-089f0bc142dd"],"split_group":"thorin","category":"characters","task":"qa","target":"Трор."}
+{"id":"train-f-7d5d7e0c18ad-json","fact_ids":["f-7d5d7e0c18ad"],"split_group":"saruman","category":"characters","task":"json","target":"{\"answer\":\"Грима Змееуст.\",\"status\":\"known\"}"}
+{"id":"train-f-5066c13cd166-json","fact_ids":["f-5066c13cd166"],"split_group":"sting","category":"objects","task":"json","target":"{\"answer\":\"Светится голубым светом.\",\"status\":\"known\"}"}
+{"id":"train-f-c88e8a23e40f-qa","fact_ids":["f-c88e8a23e40f"],"split_group":"glamdring","category":"corrections","task":"qa","target":"Нет. Гламдринг достался Гэндальфу, а Торину — Оркрист."}
+{"id":"train-f-c548c458cec9-json","fact_ids":["f-c548c458cec9"],"split_group":"ring","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-1b2b5e4fcaef-qa","fact_ids":["f-1b2b5e4fcaef"],"split_group":"boromir","category":"characters","task":"qa","target":"Боромир."}
+{"id":"train-f-3f2a4deb9afb-json","fact_ids":["f-3f2a4deb9afb"],"split_group":"khazadfall","category":"dates","task":"json","target":"{\"answer\":\"В 1980 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-0662957c66b9-json","fact_ids":["f-0662957c66b9"],"split_group":"balin","category":"dates","task":"json","target":"{\"answer\":\"В 2989 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-f87dafa909e8-json","fact_ids":["f-f87dafa909e8"],"split_group":"sam","category":"characters","task":"json","target":"{\"answer\":\"На Розе Коттон.\",\"status\":\"known\"}"}
+{"id":"train-f-d3ef516ec915-qa","fact_ids":["f-d3ef516ec915"],"split_group":"rope","category":"materials","task":"qa","target":"Она лёгкая, прочная и шелковистая на ощупь."}
+{"id":"train-f-de040c1c6ae6-qa","fact_ids":["f-de040c1c6ae6"],"split_group":"anduril","category":"objects","task":"qa","target":"В Ривенделле."}
+{"id":"train-f-2d4e655f8462-qa","fact_ids":["f-2d4e655f8462"],"split_group":"bilbo","category":"dates","task":"qa","target":"22 сентября 2890 года Третьей эпохи."}
+{"id":"train-f-86c757681dcb-qa","fact_ids":["f-86c757681dcb"],"split_group":"ring","category":"objects","task":"qa","target":"Эльфийскими письменами."}
+{"id":"train-f-8271b6b5ce39-json","fact_ids":["f-8271b6b5ce39"],"split_group":"mithril","category":"materials","task":"json","target":"{\"answer\":\"Нет, его красота не тускнеет.\",\"status\":\"known\"}"}
+{"id":"train-f-51a15e81aadb-qa","fact_ids":["f-51a15e81aadb"],"split_group":"saruman","category":"corrections","task":"qa","target":"Нет. Грима убил Сарумана в Шире."}
+{"id":"train-f-7023dfcb01ae-qa","fact_ids":["f-7023dfcb01ae"],"split_group":"palantir","category":"objects","task":"qa","target":"Пиппин."}
+{"id":"train-f-0ac35f6c95b7-qa","fact_ids":["f-0ac35f6c95b7"],"split_group":"thrormap","category":"objects","task":"qa","target":"Элронд."}
+{"id":"train-f-ee750c3d02ed-qa","fact_ids":["f-ee750c3d02ed"],"split_group":"dwarves","category":"characters","task":"qa","target":"Двалин."}
+{"id":"train-f-1f504abaf980-json","fact_ids":["f-1f504abaf980"],"split_group":"mithril","category":"unknown","task":"json","target":"{\"answer\":null,\"status\":\"not_specified\"}"}
+{"id":"train-f-3bea497fd535-qa","fact_ids":["f-3bea497fd535"],"split_group":"departure","category":"dates","task":"qa","target":"25 декабря 3018 года Третьей эпохи."}
+{"id":"train-f-54857c71b046-json","fact_ids":["f-54857c71b046"],"split_group":"mail","category":"objects","task":"json","target":"{\"answer\":\"Фродо.\",\"status\":\"known\"}"}
+{"id":"train-f-69e85b14ffb7-qa","fact_ids":["f-69e85b14ffb7"],"split_group":"ithildin","category":"materials","task":"qa","target":"Лунный и звёздный свет."}
+{"id":"train-f-b688f1c8fc55-qa","fact_ids":["f-b688f1c8fc55"],"split_group":"phial","category":"objects","task":"qa","target":"Против Шелоб."}
+{"id":"train-f-b4b8f8156aaa-json","fact_ids":["f-b4b8f8156aaa"],"split_group":"ring","category":"objects","task":"json","target":"{\"answer\":\"Нагревание.\",\"status\":\"known\"}"}
+{"id":"train-f-50f271094b81-qa","fact_ids":["f-50f271094b81"],"split_group":"bard","category":"characters","task":"qa","target":"Дрозд."}
+{"id":"train-f-08a893b19929-json","fact_ids":["f-08a893b19929"],"split_group":"galadriel","category":"characters","task":"json","target":"{\"answer\":\"Келеборн.\",\"status\":\"known\"}"}
+{"id":"train-f-8e1ba5dfc52d-qa","fact_ids":["f-8e1ba5dfc52d"],"split_group":"anduril","category":"objects","task":"qa","target":"Арагорн."}
+{"id":"train-f-b453c3ec18aa-qa","fact_ids":["f-b453c3ec18aa"],"split_group":"sam","category":"characters","task":"qa","target":"Садовником."}
+{"id":"train-f-2c656ddc7ad4-qa","fact_ids":["f-2c656ddc7ad4"],"split_group":"treebeard","category":"characters","task":"qa","target":"Фангорн."}
+{"id":"train-f-3bea497fd535-json","fact_ids":["f-3bea497fd535"],"split_group":"departure","category":"dates","task":"json","target":"{\"answer\":\"25 декабря 3018 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-54857c71b046-qa","fact_ids":["f-54857c71b046"],"split_group":"mail","category":"objects","task":"qa","target":"Фродо."}
+{"id":"train-f-86c757681dcb-json","fact_ids":["f-86c757681dcb"],"split_group":"ring","category":"objects","task":"json","target":"{\"answer\":\"Эльфийскими письменами.\",\"status\":\"known\"}"}
+{"id":"train-f-76d5bdd5b3b6-json","fact_ids":["f-76d5bdd5b3b6"],"split_group":"faramir","category":"characters","task":"json","target":"{\"answer\":\"В Хеннет Аннун, убежище за водопадом.\",\"status\":\"known\"}"}
+{"id":"train-f-9eee815f54a2-json","fact_ids":["f-9eee815f54a2"],"split_group":"rope","category":"descriptions","task":"json","target":"{\"answer\":\"Верёвка из Лориэна была лёгкой и прочной. Сэм и Фродо использовали её при спуске в Эмин Муиле.\",\"status\":\"known\"}"}
+{"id":"train-f-b2481ccd9cd3-json","fact_ids":["f-b2481ccd9cd3"],"split_group":"thorin","category":"descriptions","task":"json","target":"{\"answer\":\"Торин — предводитель гномов, отправившихся вернуть Одинокую гору. Он умер от ран после Битвы Пяти Воинств.\",\"status\":\"known\"}"}
+{"id":"train-f-758b109cf220-qa","fact_ids":["f-758b109cf220"],"split_group":"tom","category":"corrections","task":"qa","target":"Нет. Надев Кольцо, Том остался видимым."}
+{"id":"train-f-ddb04acfe78a-json","fact_ids":["f-ddb04acfe78a"],"split_group":"frodo","category":"characters","task":"json","target":"{\"answer\":\"Дрого Бэггинс и Примула Брендибак.\",\"status\":\"known\"}"}
+{"id":"train-f-94999ff474e8-qa","fact_ids":["f-94999ff474e8"],"split_group":"erebor","category":"dates","task":"qa","target":"В 1999 году Третьей эпохи."}
+{"id":"train-f-924d2745842a-qa","fact_ids":["f-924d2745842a"],"split_group":"doors","category":"objects","task":"qa","target":"Келебримбор."}
+{"id":"train-f-76d5bdd5b3b6-qa","fact_ids":["f-76d5bdd5b3b6"],"split_group":"faramir","category":"characters","task":"qa","target":"В Хеннет Аннун, убежище за водопадом."}
+{"id":"train-f-566e368a104b-qa","fact_ids":["f-566e368a104b"],"split_group":"berenbook","category":"characters","task":"qa","target":"Лютиэн."}
+{"id":"train-f-94999ff474e8-json","fact_ids":["f-94999ff474e8"],"split_group":"erebor","category":"dates","task":"json","target":"{\"answer\":\"В 1999 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-46ba20db735c-json","fact_ids":["f-46ba20db735c"],"split_group":"athelas","category":"materials","task":"json","target":"{\"answer\":\"Королевский лист.\",\"status\":\"known\"}"}
+{"id":"train-f-b453c3ec18aa-json","fact_ids":["f-b453c3ec18aa"],"split_group":"sam","category":"characters","task":"json","target":"{\"answer\":\"Садовником.\",\"status\":\"known\"}"}
+{"id":"train-f-8afe4e7adc8d-json","fact_ids":["f-8afe4e7adc8d"],"split_group":"council","category":"dates","task":"json","target":"{\"answer\":\"25 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-467956a1a95d-qa","fact_ids":["f-467956a1a95d"],"split_group":"thorin","category":"characters","task":"qa","target":"Племянниками, сыновьями его сестры Дис."}
+{"id":"train-f-6b422438b5f2-qa","fact_ids":["f-6b422438b5f2"],"split_group":"bard","category":"dates","task":"qa","target":"В 2770 году Третьей эпохи."}
+{"id":"train-f-92a0bfab1206-json","fact_ids":["f-92a0bfab1206"],"split_group":"vilya","category":"materials","task":"json","target":"{\"answer\":\"Из золота.\",\"status\":\"known\"}"}
+{"id":"train-f-507cf57f90a6-qa","fact_ids":["f-507cf57f90a6"],"split_group":"phial","category":"objects","task":"qa","target":"Фродо."}
+{"id":"train-f-a6b7ffe94d51-json","fact_ids":["f-a6b7ffe94d51"],"split_group":"orcrist","category":"objects","task":"json","target":"{\"answer\":\"Торин Дубощит.\",\"status\":\"known\"}"}
+{"id":"train-f-2c78a80eda69-qa","fact_ids":["f-2c78a80eda69"],"split_group":"sting","category":"objects","task":"qa","target":"Фродо."}
+{"id":"train-f-877a1cc869bd-qa","fact_ids":["f-877a1cc869bd"],"split_group":"aragorn","category":"dates","task":"qa","target":"1 мая 3019 года Третьей эпохи."}
+{"id":"style_train-001","fact_ids":["f-86168d782d1a","f-d9d338c89a07","f-2d4e655f8462","f-14a125d810f8","f-4f6443bbfb56","f-1122c95a1a6a"],"split_group":"bilbo","category":"style","task":"style","target":"Бильбо участвовал в походе Торина в роли взломщика.","context_provided":true}
+{"id":"train-f-76dbad29a262-json","fact_ids":["f-76dbad29a262"],"split_group":"dwarves","category":"characters","task":"json","target":"{\"answer\":\"Оин.\",\"status\":\"known\"}"}
+{"id":"train-f-8f06b5788254-qa","fact_ids":["f-8f06b5788254"],"split_group":"gandalf","category":"characters","task":"qa","target":"Орёл Гваихир."}
+{"id":"train-f-c4084842499f-json","fact_ids":["f-c4084842499f"],"split_group":"eowyn","category":"characters","task":"json","target":"{\"answer\":\"Дернхельм.\",\"status\":\"known\"}"}
+{"id":"train-f-b688f1c8fc55-json","fact_ids":["f-b688f1c8fc55"],"split_group":"phial","category":"objects","task":"json","target":"{\"answer\":\"Против Шелоб.\",\"status\":\"known\"}"}
+{"id":"train-f-393bf17bf888-json","fact_ids":["f-393bf17bf888"],"split_group":"gimli","category":"characters","task":"json","target":"{\"answer\":\"Один волос; Галадриэль дала ему три.\",\"status\":\"known\"}"}
+{"id":"train-f-882d86427562-json","fact_ids":["f-882d86427562"],"split_group":"anduril","category":"objects","task":"json","target":"{\"answer\":\"Из обломков Нарсила.\",\"status\":\"known\"}"}
+{"id":"train-f-20119292dcd7-qa","fact_ids":["f-20119292dcd7"],"split_group":"phial","category":"objects","task":"qa","target":"Звезды Эарендиля."}
+{"id":"train-f-9aabb8ff7bdf-json","fact_ids":["f-9aabb8ff7bdf"],"split_group":"elrond","category":"characters","task":"json","target":"{\"answer\":\"Арвен.\",\"status\":\"known\"}"}
+{"id":"train-f-9eee815f54a2-qa","fact_ids":["f-9eee815f54a2"],"split_group":"rope","category":"descriptions","task":"qa","target":"Верёвка из Лориэна была лёгкой и прочной. Сэм и Фродо использовали её при спуске в Эмин Муиле."}
+{"id":"train-f-46ba20db735c-qa","fact_ids":["f-46ba20db735c"],"split_group":"athelas","category":"materials","task":"qa","target":"Королевский лист."}
+{"id":"train-f-119f6925b41a-qa","fact_ids":["f-119f6925b41a"],"split_group":"dwarves","category":"characters","task":"qa","target":"Тринадцать."}
+{"id":"train-f-f634a5590423-qa","fact_ids":["f-f634a5590423"],"split_group":"ring","category":"dates","task":"qa","target":"25 марта 3019 года Третьей эпохи."}
+{"id":"train-f-393bf17bf888-qa","fact_ids":["f-393bf17bf888"],"split_group":"gimli","category":"characters","task":"qa","target":"Один волос; Галадриэль дала ему три."}
+{"id":"train-f-15d4604ea96a-qa","fact_ids":["f-15d4604ea96a"],"split_group":"glamdring","category":"objects","task":"qa","target":"Королю Гондолина."}
+{"id":"train-f-c6bcbf7fb90b-json","fact_ids":["f-c6bcbf7fb90b"],"split_group":"lembas","category":"descriptions","task":"json","target":"{\"answer\":\"Лембас — питательный эльфийский дорожный хлеб. Он поддерживал силы Фродо и Сэма в пути по Мордору.\",\"status\":\"known\"}"}
+{"id":"train-f-47d66ef4f37b-qa","fact_ids":["f-47d66ef4f37b"],"split_group":"tom","category":"characters","task":"qa","target":"Нет, он остался видимым."}
+{"id":"train-f-c7cc540462b7-qa","fact_ids":["f-c7cc540462b7"],"split_group":"miruvor","category":"materials","task":"qa","target":"Живительный напиток Ривенделла."}
+{"id":"train-f-4081f701cfbf-json","fact_ids":["f-4081f701cfbf"],"split_group":"athelas","category":"materials","task":"json","target":"{\"answer\":\"Для исцеления пострадавших, в том числе от Чёрного Дыхания.\",\"status\":\"known\"}"}
+{"id":"train-f-a0e0941eedf1-json","fact_ids":["f-a0e0941eedf1"],"split_group":"sting","category":"objects","task":"json","target":"{\"answer\":\"В пещере троллей.\",\"status\":\"known\"}"}
+{"id":"train-f-f634a5590423-json","fact_ids":["f-f634a5590423"],"split_group":"ring","category":"dates","task":"json","target":"{\"answer\":\"25 марта 3019 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-0b189ed88390-qa","fact_ids":["f-0b189ed88390"],"split_group":"mithril","category":"materials","task":"qa","target":"Морийское серебро."}
+{"id":"train-f-342c1275b45c-qa","fact_ids":["f-342c1275b45c"],"split_group":"gollum","category":"characters","task":"qa","target":"Он упал в огонь Роковой горы вместе с Кольцом."}
+{"id":"train-f-af6077b06207-json","fact_ids":["f-af6077b06207"],"split_group":"beorn","category":"characters","task":"json","target":"{\"answer\":\"Беорн.\",\"status\":\"known\"}"}
+{"id":"train-f-6b422438b5f2-json","fact_ids":["f-6b422438b5f2"],"split_group":"bard","category":"dates","task":"json","target":"{\"answer\":\"В 2770 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-9d5c2806f61d-qa","fact_ids":["f-9d5c2806f61d"],"split_group":"doors","category":"objects","task":"qa","target":"«Меллон», то есть «друг» на синдарине."}
+{"id":"train-f-b31bdd111802-json","fact_ids":["f-b31bdd111802"],"split_group":"boromir","category":"characters","task":"json","target":"{\"answer\":\"Денетор II.\",\"status\":\"known\"}"}
+{"id":"train-f-ab1fd61bcb3a-qa","fact_ids":["f-ab1fd61bcb3a"],"split_group":"pipeweed","category":"materials","task":"qa","target":"Тобольд Хорнблауэр из Длинного Дола."}
+{"id":"train-f-27e12368540e-json","fact_ids":["f-27e12368540e"],"split_group":"aragorn","category":"characters","task":"json","target":"{\"answer\":\"Эстель.\",\"status\":\"known\"}"}
+{"id":"train-f-77f4b5d812d5-qa","fact_ids":["f-77f4b5d812d5"],"split_group":"frodo","category":"descriptions","task":"qa","target":"Фродо — хоббит, взявший на себя задачу отнести Единое Кольцо в Мордор. Его спутником до конца пути был Сэм."}
+{"id":"train-f-92a0bfab1206-qa","fact_ids":["f-92a0bfab1206"],"split_group":"vilya","category":"materials","task":"qa","target":"Из золота."}
+{"id":"train-f-102e9f60d778-json","fact_ids":["f-102e9f60d778"],"split_group":"departure","category":"characters","task":"json","target":"{\"answer\":\"Фродо, Сэм, Мерри и Пиппин.\",\"status\":\"known\"}"}
+{"id":"train-f-877a1cc869bd-json","fact_ids":["f-877a1cc869bd"],"split_group":"aragorn","category":"dates","task":"json","target":"{\"answer\":\"1 мая 3019 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-c4084842499f-qa","fact_ids":["f-c4084842499f"],"split_group":"eowyn","category":"characters","task":"qa","target":"Дернхельм."}
+{"id":"train-f-3086a8bfce5d-json","fact_ids":["f-3086a8bfce5d"],"split_group":"moriadate","category":"dates","task":"json","target":"{\"answer\":\"15 января 3019 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-3f524888d551-qa","fact_ids":["f-3f524888d551"],"split_group":"ring","category":"objects","task":"qa","target":"В Роковой горе, Ородруине."}
+{"id":"train-f-de040c1c6ae6-json","fact_ids":["f-de040c1c6ae6"],"split_group":"anduril","category":"objects","task":"json","target":"{\"answer\":\"В Ривенделле.\",\"status\":\"known\"}"}
+{"id":"train-f-566e368a104b-json","fact_ids":["f-566e368a104b"],"split_group":"berenbook","category":"characters","task":"json","target":"{\"answer\":\"Лютиэн.\",\"status\":\"known\"}"}
+{"id":"train-f-c490d490307f-qa","fact_ids":["f-c490d490307f"],"split_group":"arkenstone","category":"objects","task":"qa","target":"Сердце Горы."}
+{"id":"train-f-50f271094b81-json","fact_ids":["f-50f271094b81"],"split_group":"bard","category":"characters","task":"json","target":"{\"answer\":\"Дрозд.\",\"status\":\"known\"}"}
+{"id":"train-f-0427da5c96bd-qa","fact_ids":["f-0427da5c96bd"],"split_group":"theoden","category":"characters","task":"qa","target":"Племянником."}
+{"id":"train-f-c17d28efb91b-json","fact_ids":["f-c17d28efb91b"],"split_group":"faramir","category":"characters","task":"json","target":"{\"answer\":\"Фарамир.\",\"status\":\"known\"}"}
+{"id":"train-f-9921f5d68228-json","fact_ids":["f-9921f5d68228"],"split_group":"balin","category":"dates","task":"json","target":"{\"answer\":\"В 2994 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-216b6b8d9cb5-json","fact_ids":["f-216b6b8d9cb5"],"split_group":"nenya","category":"objects","task":"json","target":"{\"answer\":\"Галадриэль.\",\"status\":\"known\"}"}
+{"id":"train-f-326c557d8315-qa","fact_ids":["f-326c557d8315"],"split_group":"lembas","category":"unknown","task":"qa","target":"В выбранных книгах нет рецепта лембаса с точными количествами ингредиентов."}
+{"id":"train-f-a1fcae1b4f0b-json","fact_ids":["f-a1fcae1b4f0b"],"split_group":"thorin","category":"dates","task":"json","target":"{\"answer\":\"В 2941 году Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"train-f-1331e608da83-qa","fact_ids":["f-1331e608da83"],"split_group":"arkenstone","category":"objects","task":"qa","target":"На груди Торина в его гробнице."}
+{"id":"train-f-3195964fbeee-json","fact_ids":["f-3195964fbeee"],"split_group":"doors","category":"objects","task":"json","target":"{\"answer\":\"Нарви.\",\"status\":\"known\"}"}
+{"id":"train-f-b2481ccd9cd3-qa","fact_ids":["f-b2481ccd9cd3"],"split_group":"thorin","category":"descriptions","task":"qa","target":"Торин — предводитель гномов, отправившихся вернуть Одинокую гору. Он умер от ран после Битвы Пяти Воинств."}
+{"id":"train-f-dbd66b5d6f1f-json","fact_ids":["f-dbd66b5d6f1f"],"split_group":"arkenstone","category":"objects","task":"json","target":"{\"answer\":\"Барду.\",\"status\":\"known\"}"}
+{"id":"train-f-2c78a80eda69-json","fact_ids":["f-2c78a80eda69"],"split_group":"sting","category":"objects","task":"json","target":"{\"answer\":\"Фродо.\",\"status\":\"known\"}"}
+{"id":"train-f-ac8187891670-qa","fact_ids":["f-ac8187891670"],"split_group":"beorn","category":"descriptions","task":"qa","target":"Беорн — оборотень, способный принимать облик медведя. Он помог отряду Торина и участвовал в Битве Пяти Воинств."}
+{"id":"train-f-d05a5fd789bd-qa","fact_ids":["f-d05a5fd789bd"],"split_group":"gollum","category":"corrections","task":"qa","target":"Нет. Кольцо нашёл Деагол, а Смеагол отнял его."}
+{"id":"train-f-68c523b11670-qa","fact_ids":["f-68c523b11670"],"split_group":"bard","category":"descriptions","task":"qa","target":"Смауг — дракон, захвативший Одинокую гору и сокровища гномов. Его убил Бард при нападении на Озёрный город."}
+{"id":"train-f-eb3cbfe1c138-qa","fact_ids":["f-eb3cbfe1c138"],"split_group":"legolas","category":"characters","task":"qa","target":"Из королевства Трандуила в Лихолесье."}
+{"id":"train-f-c6bcbf7fb90b-qa","fact_ids":["f-c6bcbf7fb90b"],"split_group":"lembas","category":"descriptions","task":"qa","target":"Лембас — питательный эльфийский дорожный хлеб. Он поддерживал силы Фродо и Сэма в пути по Мордору."}
+{"id":"train-f-4da7c8a2dc1f-qa","fact_ids":["f-4da7c8a2dc1f"],"split_group":"thorin","category":"characters","task":"qa","target":"Траин II."}
+{"id":"style_train-006","fact_ids":["f-8340104f071e","f-73198600b1c4"],"split_group":"garden","category":"style","task":"style","target":"Галадриэль подарила Сэму шкатулку с землёй из своего сада и семенем маллорна. Из семени выросло дерево.","context_provided":true}
+{"id":"train-f-69e85b14ffb7-json","fact_ids":["f-69e85b14ffb7"],"split_group":"ithildin","category":"materials","task":"json","target":"{\"answer\":\"Лунный и звёздный свет.\",\"status\":\"known\"}"}
+{"id":"train-f-62462d2ec5fd-json","fact_ids":["f-62462d2ec5fd"],"split_group":"legolas","category":"characters","task":"json","target":"{\"answer\":\"Трандуил.\",\"status\":\"known\"}"}
+{"id":"train-f-27e12368540e-qa","fact_ids":["f-27e12368540e"],"split_group":"aragorn","category":"characters","task":"qa","target":"Эстель."}

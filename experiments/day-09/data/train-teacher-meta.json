@@ -1,0 +1,14 @@
+{
+  "started_at_utc": "2026-11-02T01:54:31+00:00",
+  "finished_at_utc": "2026-11-02T01:55:30.924607+00:00",
+  "method": "subagent",
+  "model": "unknown",
+  "record_count": 240,
+  "agent_wall_time_seconds": 59.924607,
+  "timing_note": "Agent wall time from first recorded UTC checkpoint; not model latency. Initial input read preceded checkpoint.",
+  "generation": "All responses manually decided by language model; Python used only for serialization and ID/JSON validation.",
+  "read_sources": [
+    "experiments/day-09/system.txt",
+    "experiments/day-09/data/train-inputs.jsonl"
+  ]
+}

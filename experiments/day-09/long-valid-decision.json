@@ -1,0 +1,20 @@
+{
+  "new_dangerous_ids": [],
+  "before_dangerous_ids": [
+    "d9-valid-004",
+    "d9-valid-008",
+    "d9-valid-012",
+    "d9-valid-016",
+    "d9-valid-058"
+  ],
+  "after_dangerous_ids": [
+    "d9-valid-004",
+    "d9-valid-008",
+    "d9-valid-012",
+    "d9-valid-016",
+    "d9-valid-058"
+  ],
+  "exact_before": 38,
+  "exact_after": 41,
+  "eligible_for_repeat": true
+}

@@ -1,0 +1,22 @@
+{"id":"final-f-bb34a4a9f947-qa","fact_ids":["f-bb34a4a9f947"],"split_group":"final_bergil","category":"characters","task":"qa","target":"Берегонд."}
+{"id":"final-f-50b16d05451b-json","fact_ids":["f-50b16d05451b"],"split_group":"final_butterbur","category":"descriptions","task":"json","target":"{\"answer\":\"Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. У него остановились Фродо и его спутники.\",\"status\":\"known\"}"}
+{"id":"final-f-50b16d05451b-qa","fact_ids":["f-50b16d05451b"],"split_group":"final_butterbur","category":"descriptions","task":"qa","target":"Барлиман Баттербур — хозяин гостиницы «Гарцующий пони» в Бри. У него остановились Фродо и его спутники."}
+{"id":"final-f-7ed1e0096e35-json","fact_ids":["f-7ed1e0096e35"],"split_group":"final_merryhorn","category":"objects","task":"json","target":"{\"answer\":\"Эовин.\",\"status\":\"known\"}"}
+{"id":"final-f-a30f88457331-json","fact_ids":["f-a30f88457331"],"split_group":"final_samdate","category":"dates","task":"json","target":"{\"answer\":\"1 мая 3020 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"final-f-57f1641244e1-qa","fact_ids":["f-57f1641244e1"],"split_group":"final_ioreth","category":"characters","task":"qa","target":"В Домах исцеления Минас Тирита."}
+{"id":"final-f-a30f88457331-qa","fact_ids":["f-a30f88457331"],"split_group":"final_samdate","category":"dates","task":"qa","target":"1 мая 3020 года Третьей эпохи."}
+{"id":"final-f-6041ce37a7ed-json","fact_ids":["f-6041ce37a7ed"],"split_group":"final_scabbard","category":"materials","task":"json","target":"{\"answer\":\"Серебром и золотом.\",\"status\":\"known\"}"}
+{"id":"final-f-db9bf134e2ba-json","fact_ids":["f-db9bf134e2ba"],"split_group":"final_butterbur","category":"characters","task":"json","target":"{\"answer\":\"Барлиман Баттербур.\",\"status\":\"known\"}"}
+{"id":"final-f-7ed1e0096e35-qa","fact_ids":["f-7ed1e0096e35"],"split_group":"final_merryhorn","category":"objects","task":"qa","target":"Эовин."}
+{"id":"final-f-db9bf134e2ba-qa","fact_ids":["f-db9bf134e2ba"],"split_group":"final_butterbur","category":"characters","task":"qa","target":"Барлиман Баттербур."}
+{"id":"final-f-26ef07bd3a5c-json","fact_ids":["f-26ef07bd3a5c"],"split_group":"final_weatherdate","category":"dates","task":"json","target":"{\"answer\":\"6 октября 3018 года Третьей эпохи.\",\"status\":\"known\"}"}
+{"id":"final-f-6041ce37a7ed-qa","fact_ids":["f-6041ce37a7ed"],"split_group":"final_scabbard","category":"materials","task":"qa","target":"Серебром и золотом."}
+{"id":"final-f-26ef07bd3a5c-qa","fact_ids":["f-26ef07bd3a5c"],"split_group":"final_weatherdate","category":"dates","task":"qa","target":"6 октября 3018 года Третьей эпохи."}
+{"id":"final-f-63067f5f200f-json","fact_ids":["f-63067f5f200f"],"split_group":"final_bergil","category":"descriptions","task":"json","target":"{\"answer\":\"Бергил — сын Берегонда, живущий в Минас Тирите. Он познакомился с Пиппином во время подготовки города к осаде.\",\"status\":\"known\"}"}
+{"id":"final-f-bb34a4a9f947-json","fact_ids":["f-bb34a4a9f947"],"split_group":"final_bergil","category":"characters","task":"json","target":"{\"answer\":\"Берегонд.\",\"status\":\"known\"}"}
+{"id":"final-f-13d6909a4ee5-json","fact_ids":["f-13d6909a4ee5"],"split_group":"final_orthanc","category":"materials","task":"json","target":"{\"answer\":\"Чёрного.\",\"status\":\"known\"}"}
+{"id":"final-f-62e47682a0b0-json","fact_ids":["f-62e47682a0b0"],"split_group":"final_bergil","category":"characters","task":"json","target":"{\"answer\":\"Десять лет.\",\"status\":\"known\"}"}
+{"id":"final-f-57f1641244e1-json","fact_ids":["f-57f1641244e1"],"split_group":"final_ioreth","category":"characters","task":"json","target":"{\"answer\":\"В Домах исцеления Минас Тирита.\",\"status\":\"known\"}"}
+{"id":"final-f-13d6909a4ee5-qa","fact_ids":["f-13d6909a4ee5"],"split_group":"final_orthanc","category":"materials","task":"qa","target":"Чёрного."}
+{"id":"final-f-62e47682a0b0-qa","fact_ids":["f-62e47682a0b0"],"split_group":"final_bergil","category":"characters","task":"qa","target":"Десять лет."}
+{"id":"final-f-63067f5f200f-qa","fact_ids":["f-63067f5f200f"],"split_group":"final_bergil","category":"descriptions","task":"qa","target":"Бергил — сын Берегонда, живущий в Минас Тирите. Он познакомился с Пиппином во время подготовки города к осаде."}

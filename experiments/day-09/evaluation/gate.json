@@ -1,0 +1,9 @@
+{
+  "teacher_exact": 63,
+  "student_exact": 38,
+  "n": 63,
+  "teacher_false_expenses": 0,
+  "student_false_expenses": 5,
+  "proceed": true,
+  "selection_rule": "Reject new false-expense IDs relative to before; then higher exact match, then fewer regressions; tie keeps original adapter. Final untouched."
+}

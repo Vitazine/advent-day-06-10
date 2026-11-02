@@ -1,0 +1,32 @@
+{
+  "n": 22,
+  "normalized_exact": 0,
+  "outcomes": {
+    "final-f-bb34a4a9f947-qa": false,
+    "final-f-50b16d05451b-json": false,
+    "final-f-50b16d05451b-qa": false,
+    "final-f-7ed1e0096e35-json": false,
+    "final-f-a30f88457331-json": false,
+    "final-f-57f1641244e1-qa": false,
+    "final-f-a30f88457331-qa": false,
+    "final-f-6041ce37a7ed-json": false,
+    "final-f-db9bf134e2ba-json": false,
+    "final-f-7ed1e0096e35-qa": false,
+    "final-f-db9bf134e2ba-qa": false,
+    "final-f-26ef07bd3a5c-json": false,
+    "final-f-6041ce37a7ed-qa": false,
+    "final-f-26ef07bd3a5c-qa": false,
+    "final-f-63067f5f200f-json": false,
+    "final-f-bb34a4a9f947-json": false,
+    "final-f-13d6909a4ee5-json": false,
+    "final-f-62e47682a0b0-json": false,
+    "final-f-57f1641244e1-json": false,
+    "final-f-13d6909a4ee5-qa": false,
+    "final-f-62e47682a0b0-qa": false,
+    "final-f-63067f5f200f-qa": false
+  },
+  "schema_valid": 1,
+  "schema_n": 10,
+  "truncated": 9,
+  "note": "Conservative lexical diagnostic; non-matches require semantic review, style cannot be judged by exact match."
+}

@@ -1,0 +1,257 @@
+{
+  "teacher": {
+    "n": 48,
+    "exact_correct": 46,
+    "exact_accuracy": 0.9583333333333334,
+    "invalid_responses": 0,
+    "field_correct": {
+      "amount": 48,
+      "category": 46,
+      "clarification_reason": 48,
+      "currency": 48,
+      "date": 48,
+      "payment_method": 48,
+      "status": 48
+    },
+    "false_expenses_on_ignored": 0,
+    "false_expenses_on_missing_context": 0,
+    "contrast_groups": 0,
+    "contrast_groups_all_correct": 0,
+    "slices": {
+      "category:cafes": {
+        "correct": 2,
+        "n": 2
+      },
+      "category:education": {
+        "correct": 3,
+        "n": 3
+      },
+      "category:entertainment": {
+        "correct": 3,
+        "n": 3
+      },
+      "category:groceries": {
+        "correct": 4,
+        "n": 4
+      },
+      "category:health": {
+        "correct": 4,
+        "n": 4
+      },
+      "category:housing": {
+        "correct": 5,
+        "n": 5
+      },
+      "category:other": {
+        "correct": 3,
+        "n": 4
+      },
+      "category:shopping": {
+        "correct": 7,
+        "n": 7
+      },
+      "category:transport": {
+        "correct": 3,
+        "n": 3
+      },
+      "category:utilities": {
+        "correct": 6,
+        "n": 7
+      },
+      "mobile": {
+        "correct": 5,
+        "n": 6
+      },
+      "status:ignored": {
+        "correct": 3,
+        "n": 3
+      },
+      "status:needs_clarification": {
+        "correct": 8,
+        "n": 8
+      },
+      "status:ok": {
+        "correct": 35,
+        "n": 37
+      }
+    },
+    "outcomes": {
+      "valid-contrast-context-03-2": true,
+      "valid-040": true,
+      "valid-005": true,
+      "valid-055": true,
+      "valid-contrast-amount-06-1": true,
+      "valid-contrast-precision-06-2": true,
+      "valid-022": true,
+      "valid-028": true,
+      "valid-002": true,
+      "valid-060": false,
+      "valid-contrast-amount-06-3": true,
+      "valid-contrast-direction-00-3": true,
+      "valid-contrast-amount-08-3": true,
+      "valid-017": true,
+      "valid-contrast-amount-08-1": true,
+      "valid-contrast-date-09-1": false,
+      "valid-contrast-currency-03-1": true,
+      "valid-contrast-currency-05-1": true,
+      "valid-contrast-amount-06-0": true,
+      "valid-041": true,
+      "valid-contrast-direction-02-3": true,
+      "valid-contrast-date-00-0": true,
+      "valid-038": true,
+      "valid-contrast-precision-05-0": true,
+      "valid-034": true,
+      "valid-014": true,
+      "valid-013": true,
+      "valid-contrast-currency-04-0": true,
+      "valid-032": true,
+      "valid-contrast-context-03-3": true,
+      "valid-contrast-context-02-1": true,
+      "valid-056": true,
+      "valid-054": true,
+      "valid-059": true,
+      "valid-063": true,
+      "valid-contrast-precision-05-2": true,
+      "valid-contrast-precision-07-3": true,
+      "valid-029": true,
+      "valid-009": true,
+      "valid-026": true,
+      "valid-contrast-context-04-2": true,
+      "valid-019": true,
+      "valid-contrast-context-02-3": true,
+      "valid-020": true,
+      "valid-contrast-direction-00-0": true,
+      "valid-contrast-currency-04-3": true,
+      "valid-contrast-precision-06-0": true,
+      "valid-015": true
+    }
+  },
+  "student_day7": {
+    "n": 48,
+    "exact_correct": 39,
+    "exact_accuracy": 0.8125,
+    "invalid_responses": 2,
+    "field_correct": {
+      "amount": 42,
+      "category": 41,
+      "clarification_reason": 45,
+      "currency": 42,
+      "date": 40,
+      "payment_method": 44,
+      "status": 42
+    },
+    "false_expenses_on_ignored": 0,
+    "false_expenses_on_missing_context": 0,
+    "contrast_groups": 0,
+    "contrast_groups_all_correct": 0,
+    "slices": {
+      "category:cafes": {
+        "correct": 1,
+        "n": 2
+      },
+      "category:education": {
+        "correct": 2,
+        "n": 3
+      },
+      "category:entertainment": {
+        "correct": 2,
+        "n": 3
+      },
+      "category:groceries": {
+        "correct": 3,
+        "n": 4
+      },
+      "category:health": {
+        "correct": 3,
+        "n": 4
+      },
+      "category:housing": {
+        "correct": 5,
+        "n": 5
+      },
+      "category:other": {
+        "correct": 4,
+        "n": 4
+      },
+      "category:shopping": {
+        "correct": 4,
+        "n": 7
+      },
+      "category:transport": {
+        "correct": 3,
+        "n": 3
+      },
+      "category:utilities": {
+        "correct": 6,
+        "n": 7
+      },
+      "mobile": {
+        "correct": 4,
+        "n": 6
+      },
+      "status:ignored": {
+        "correct": 3,
+        "n": 3
+      },
+      "status:needs_clarification": {
+        "correct": 8,
+        "n": 8
+      },
+      "status:ok": {
+        "correct": 28,
+        "n": 37
+      }
+    },
+    "outcomes": {
+      "valid-contrast-context-03-2": true,
+      "valid-040": true,
+      "valid-005": true,
+      "valid-055": true,
+      "valid-contrast-amount-06-1": true,
+      "valid-contrast-precision-06-2": false,
+      "valid-022": true,
+      "valid-028": true,
+      "valid-002": true,
+      "valid-060": false,
+      "valid-contrast-amount-06-3": true,
+      "valid-contrast-direction-00-3": true,
+      "valid-contrast-amount-08-3": true,
+      "valid-017": true,
+      "valid-contrast-amount-08-1": false,
+      "valid-contrast-date-09-1": true,
+      "valid-contrast-currency-03-1": true,
+      "valid-contrast-currency-05-1": true,
+      "valid-contrast-amount-06-0": true,
+      "valid-041": true,
+      "valid-contrast-direction-02-3": true,
+      "valid-contrast-date-00-0": true,
+      "valid-038": true,
+      "valid-contrast-precision-05-0": true,
+      "valid-034": true,
+      "valid-014": true,
+      "valid-013": true,
+      "valid-contrast-currency-04-0": true,
+      "valid-032": true,
+      "valid-contrast-context-03-3": true,
+      "valid-contrast-context-02-1": true,
+      "valid-056": true,
+      "valid-054": true,
+      "valid-059": false,
+      "valid-063": true,
+      "valid-contrast-precision-05-2": false,
+      "valid-contrast-precision-07-3": false,
+      "valid-029": true,
+      "valid-009": true,
+      "valid-026": false,
+      "valid-contrast-context-04-2": true,
+      "valid-019": true,
+      "valid-contrast-context-02-3": true,
+      "valid-020": true,
+      "valid-contrast-direction-00-0": false,
+      "valid-contrast-currency-04-3": true,
+      "valid-contrast-precision-06-0": false,
+      "valid-015": true
+    }
+  },
+  "note": "Diagnostic subset, contrast group scoring disabled because sample has partial families; not independent final evaluation."
+}

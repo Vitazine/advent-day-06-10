@@ -1,0 +1,18 @@
+{
+  "repo": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+  "revision": "50d427756c6b1b2fe0c0a10f67fbda1fc8e82c1b",
+  "matches_day6_pinned_manifest": {
+    "README.md": true,
+    "added_tokens.json": true,
+    "chat_template.jinja": true,
+    "config.json": true,
+    "generation_config.json": true,
+    "merges.txt": true,
+    "model.safetensors": true,
+    "model.safetensors.index.json": true,
+    "special_tokens_map.json": true,
+    "tokenizer.json": true,
+    "tokenizer_config.json": true,
+    "vocab.json": true
+  }
+}

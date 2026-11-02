@@ -1,0 +1,14 @@
+{"id": "format_valid-f-3c9744058c21", "answer": "{\"answer\": \"null\", \"status\": \"not_specified\"}", "finish_reason": "stop", "generation_tokens": 15}
+{"id": "format_valid-f-4da951aa0fca", "answer": "{\"answer\": \"null\", \"status\": \"not_specified\"}", "finish_reason": "stop", "generation_tokens": 15}
+{"id": "format_valid-f-dcdd1a27b158", "answer": "{\"answer\": \"Румил и Орофин\", \"status\": \"known\"}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-303ab347398b", "answer": "{\n  \"answer\": null,\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 18}
+{"id": "format_valid-f-8b7401eb9507", "answer": "{\n  \"answer\": \"null\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-9220b4e05fbc", "answer": "{\n  \"answer\": \"null\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-580e3d1316fc", "answer": "{\n  \"answer\": \"null\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-22d4b2b9d820", "answer": "{\n  \"answer\": \"нет\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-30156767bef7", "answer": "{\n  \"answer\": \"not_specified\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 21}
+{"id": "format_valid-f-53e6892aa612", "answer": "{\n  \"answer\": \"null\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-1601c7016252", "answer": "{\n  \"answer\": \"Берегонд — воин стражи Минас Тирита, сын Варини, брат Баргонда. Он не подружился с Пиппином. Сведения о подружении — неверны. В книгах не указано, что Берегонд подружился с Пиппином.\",\n  \"status\": \"known\"\n}", "finish_reason": "stop", "generation_tokens": 92}
+{"id": "format_valid-f-432939ed6051", "answer": "{\n  \"answer\": \"Роак — старый говорящий ворон у Одинокой горы, который приносил вести Торину. Он живёт в горах и является частью традиции, связанной с Одинокой горой, где ворони-предатели передавали сообщения. В книгах упоминается, что Роак — один из символов связи между горами и людьми, но не упоминается подробно.\",\n  \"status\": \"known\"\n}", "finish_reason": "stop", "generation_tokens": 124}
+{"id": "format_valid-f-eacd906dc929", "answer": "{\n  \"answer\": \"null\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}
+{"id": "format_valid-f-c548c458cec9", "answer": "{\n  \"answer\": \"null\",\n  \"status\": \"not_specified\"\n}", "finish_reason": "stop", "generation_tokens": 19}

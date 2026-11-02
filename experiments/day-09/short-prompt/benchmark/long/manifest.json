@@ -1,0 +1,7 @@
+{
+  "files": {
+    "system.txt": "a9776636b7e4be302ded791753834bd2adc368a87aa1c83bad7eb0587b6ee260",
+    "data/train.jsonl": "58dbbe5492f230833e31d05e0b9ec1a6b038dfa63ca1e30ae3e4c3a4b58c0f20",
+    "data/valid.jsonl": "248d68370666c1b03ce88eac8325bb3265ad9a0512a2d10331feae0e4a9fb88c"
+  }
+}

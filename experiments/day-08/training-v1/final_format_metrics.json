@@ -1,0 +1,17 @@
+{
+  "base": {
+    "schema_valid": 2,
+    "denominator": 17,
+    "exact_content": 1
+  },
+  "prompt": {
+    "schema_valid": 5,
+    "denominator": 17,
+    "exact_content": 0
+  },
+  "tuned": {
+    "schema_valid": 17,
+    "denominator": 17,
+    "exact_content": 4
+  }
+}
